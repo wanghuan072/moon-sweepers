@@ -1,3 +1,4 @@
+import { sourceRel } from '@/lib/data/source-label';
 import PageHero from '@/components/layout/PageHero';
 import PageSchema from '@/seo/PageSchema';
 import EntryFacts from '@/components/content/EntryFacts';
@@ -24,6 +25,6 @@ export default function MachinesPage() {
       {title:'Solar panels, batteries and wireless range',columns:['Panel','Price','Full sun','Battery','Range','Follows the Sun'],rows:solar.map(m=>[m.title,`$${m.cost}`,`${m.powerOutput} kW`,m.battery?`${m.battery} kWh`:'None',`${m.range} m`,m.slug==='solar-tracker'?'Yes':'No']),rowLinks:solar.map(m=>`/wiki/machines/${m.slug}`),note:'Fixed panels must face the Sun. Batteries charge from spare generation at 92% efficiency. Peak kW does not guarantee all-night power.',source},
       {title:'Logistics and services',columns:['Equipment','Price','Storage','Footprint','Role'],rows:logistics.map(m=>[m.title,`$${m.cost}${m.costUnit==='metre'?' / m':''}`,m.storage?`${m.storage.toLocaleString('en-US')} kg`:'—',m.footprint||m.stats?.find(item=>item.label==='Footprint')?.value||'See details',m.role]),rowLinks:logistics.map(m=>`/wiki/machines/${m.slug}`),note:'Conveyors run at 1.1 m/s with 0.75 m capsule spacing: an ideal 88 capsules/min. Splitters divide routes; mergers alternate inputs into a shared output.',source}
     ]}}/></section>
-    <section className={s.section}><h2>Garage vehicles</h2><p>Compare all five vehicles, including cleaning width, hopper capacity, speed, capsule slots, seats and every upgrade level.</p><div className={s.relatedLinks}><a href="/wiki/joonas-robots">Compare autonomous robots →</a><a href="/wiki/vehicles">Vehicle images &amp; specifications →</a><a href="/guides/automation-guide">Build a production line →</a><a href={source} target="_blank" rel="noopener noreferrer">Equipment data source: Wikily ↗</a></div></section>
+    <section className={s.section}><h2>Garage vehicles</h2><p>Compare all five vehicles, including cleaning width, hopper capacity, speed, capsule slots, seats and every upgrade level.</p><div className={s.relatedLinks}><a href="/wiki/joonas-robots">Compare autonomous robots →</a><a href="/wiki/vehicles">Vehicle images &amp; specifications →</a><a href="/guides/automation-guide">Build a production line →</a><a href={source} target="_blank" rel={sourceRel(source)}>Equipment data source: Wikily ↗</a></div></section>
   </div>;
 }

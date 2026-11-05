@@ -1,26 +1,26 @@
 {
   "/": {
-    "hash": "7b0de4dd23671cfd02b004d587b7e52f04bfacddd60fb78389e4bfa050f19f00",
+    "hash": "c90e961ff3b5e2a22121c91cd2dfda84230f6840771785df75935de6ace0d9f0",
     "modifiedAt": "2026-11-05"
   },
   "/guides": {
-    "hash": "2331fc146829685884165778545bfaf503342dd589fec87b549adde09a75c7e2",
+    "hash": "e79d5614a0edceba8f053644bc7886d5140a416d90ea5df7cce559b83016175a",
     "modifiedAt": "2026-11-05"
   },
   "/guides/automation-guide": {
-    "hash": "4cc1045c7e49ee05c82719c08c73e61f05f215b34653bbdf2b95fad33616e92a",
+    "hash": "691d4a7160a595ba9430fe713ef7a3b73825d3808a86421b347a9b2d211d9b93",
     "modifiedAt": "2026-11-05"
   },
   "/guides/beginners-guide": {
-    "hash": "3a30a34d7f37ad07b98d3b127ad233cbafd3bee98c7fa51dc69281de81302e03",
+    "hash": "11643287a554d50dfdb1384648e1f28049266b0bf30443c9aaeaa37f2fac2bca",
     "modifiedAt": "2026-11-05"
   },
   "/guides/how-to-use-packager": {
-    "hash": "f0132e117e4255aa0f8082890f5211d1cf8ca264f295e209c502fae707bd111c",
+    "hash": "2100feed72c3bb7731cf1cc2f2771f451a84062dd84a8b73e5204b8037e58ee6",
     "modifiedAt": "2026-11-05"
   },
   "/guides/save-recovery-guide": {
-    "hash": "ab280dc0d7c30b74afb9259bf0e20861ea55f107f8c32cdfa1a6502a3764cd56",
+    "hash": "004333b88d54b5e9c89f0a762237d09ae5f063e0e870c9e1916e058b23fb6efb",
     "modifiedAt": "2026-11-05"
   },
   "/legal/about-us": {
@@ -44,7 +44,7 @@
     "modifiedAt": "2026-11-05"
   },
   "/map": {
-    "hash": "07fab6aad47d93ca8caac6d443cfe30aad585d71e335e0d2f1e970ae220dc112",
+    "hash": "38a243bea6c873e31e4ceed2dd046a8648c1d5be6ad5d341ec5d966631ee9bd7",
     "modifiedAt": "2026-11-05"
   },
   "/mods": {
@@ -62,29 +62,29 @@
     "modifiedAt": "2026-11-05"
   },
   "/tools/income-calculator": {
-    "hash": "f029ae68489160f51746d9d88cba2d8a8134110c00d4d65e278e5212b6298bbb",
+    "hash": "cb463f056372ed7378070536ff80477f26e5c8767eed588ad1fc0cc56c5753e0",
     "modifiedAt": "2026-11-05"
   },
   "/tools/selling-and-income": {
-    "hash": "dd720f0e9092ac803438baa4172da8f4f061c06b2b5efcc78f2cc31545504e84",
+    "hash": "0faaec099771309403278fdfc48314fb87dd3f52b33ad9be243de5095b1d5809",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
   "/tools/upgrade-calculator": {
-    "hash": "e16f096d6b8b2c6d59d7e66274086b13830476bebe7d502781974caf8ebd3cf5",
+    "hash": "ac720b4eafc9278ba1e34416b3760f1adda1be4869bacab9e4eac911decae70d",
     "modifiedAt": "2026-11-05"
   },
   "/tools/upgrade-matrix": {
-    "hash": "1ca05a3cb1295346a06afb97d847cf8a997ce42bda1f8d4138bc26704420a1b8",
+    "hash": "52947df82406d5c13ef63aba30f5e0ce4086fe3e527fdad6fea6e06189b674fe",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
   "/updates": {
-    "hash": "157f1105960ddb1a75b220b1b1c88ac184bd464f07936b972f28f2ed7c86cccf",
+    "hash": "a62390104fc303b0bb1a30aa1e69ac1a9fa688a9beaaddd616aa5c34dfa45381",
     "modifiedAt": "2026-11-05"
   },
   "/where-to-play": {
-    "hash": "5265d5fd790972a33618341ca263c4965ec3f4be1bd82b56fbce03f0f5830e9b",
+    "hash": "32dc2a99e151e3dd6c2b2dc139f4bf5017f5238964b50bcefa59ad6ebe32caa6",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
@@ -93,36 +93,36 @@
     "modifiedAt": "2026-11-05"
   },
   "/wiki/buildings": {
-    "hash": "781ee8a5e4927da80082f88b39ca75cc4b89303be3147785be8d614e076b856a",
+    "hash": "eef4f21664f017ec4a2edd77d36f33fb47bbb797dd61201e342994bbeabccf3d",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },
   "/wiki/cleaning-tools": {
-    "hash": "0a5734b93e8ae2101e6a075057e634bb387966f15143011c45bb466afe2aa39f",
+    "hash": "9bfd011d2a6ffef70971ddc44c3473e6f76d346e53fd23ed422dbfbaac11b69a",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },
   "/wiki/containers": {
-    "hash": "412a3bc11060a1fdde787261708009e5c579ed0739d4ff061ed044ce8c46d74e",
+    "hash": "0588e2e4c8b4c42153bb542f395d1a7667ca1d7783f46aeec90a4fa66fed19b5",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },
   "/wiki/joonas-robots": {
-    "hash": "725e3ce6741bca3314827171f0bd729710831800b95b4cb12baebd86f4fba65a",
+    "hash": "9ba5b05766cb62db8af15edd654a9e2c156022ae5d7d3e08972de5c0e28f357d",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },
   "/wiki/machines": {
-    "hash": "b0575b8f8d3688a092a033d74bd8bfd59eb5b7a8888c083e090af6d370563d44",
+    "hash": "123949d6a88edbc2c25be3f0c4b931b5744d86c749f9c680064a1a6e92e3eee4",
     "modifiedAt": "2026-11-05"
   },
   "/wiki/suit-gear": {
-    "hash": "9a7c296c45ae4827fc0ec9a95b324b3edf5a7444b4500500905792b20d7490d2",
+    "hash": "88cea991de27bafe6abc6712eb8cbca9958448a47fa389925db094c1fafef7a0",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },
   "/wiki/vehicles": {
-    "hash": "231936de30452078d86f138b4e9767f591d6f4ef0f2ac7753d64d2beaf9b9ab7",
+    "hash": "e56051e99a8e1e9a9d1f9424a1b4e77f0bdbe9ddf98b7bb18f07c2017384d7fe",
     "modifiedAt": "2026-11-05"
   }
 }

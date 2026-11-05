@@ -5,3 +5,9 @@ export function sourceLabel(url: string) {
   if (parsed.hostname === 'store.steampowered.com') return 'Steam game page';
   return `${parsed.hostname.replace(/^www\./, '')} · reference`;
 }
+export function sourceRel(url: string) {
+  const hostname = new URL(url, 'https://moon-sweepers.org').hostname;
+  return hostname === 'wikily.gg' || hostname.endsWith('.wikily.gg')
+    ? 'nofollow noopener noreferrer'
+    : 'noopener noreferrer';
+}

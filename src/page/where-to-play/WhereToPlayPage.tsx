@@ -79,7 +79,11 @@ export default function WhereToPlayPage() {
       <article><h3>Is Moon Sweepers on Xbox?</h3>
       <p>There is no confirmed Xbox console release in the sources checked. You can use a supported Xbox controller with the Windows Steam version.</p></article>
       <article><h3>Can you play Moon Sweepers on Mac?</h3>
-      <p>There is no native Mac version listed on Steam. Check the game’s system requirements before buying for a Mac.</p></article></div>
+      <p>There is no native Mac version listed on Steam. Check the game’s system requirements before buying for a Mac.</p></article>
+      <article><h3>Is Moon Sweepers on Nintendo Switch?</h3>
+      <p>No Nintendo Switch release was found in the official sources checked on November 5, 2026. Follow the <a href={site.news}>developer’s announcements</a> for platform updates.</p></article>
+      <article><h3>Can you play Moon Sweepers on Steam Deck?</h3>
+      <p>Valve lists Moon Sweepers as Playable on Steam Deck. Check the game’s compatibility details on Steam for the current rating and any setup notes.</p></article></div>
     </section>
     <section className={s.section}>
       <h2>Before Your First Session</h2>
