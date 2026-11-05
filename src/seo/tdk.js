@@ -185,6 +185,11 @@ export const tdk = {
       "moon sweepers upgrade"
     ]
   },
+  "/where-to-play": {
+    "title": "Where to Play Moon Sweepers on PC: Steam & Platforms",
+    "description": "Find where to buy and play Moon Sweepers on Steam for Windows. Check the US price, PC requirements, and whether the game is available on PS5, Xbox or Mac.",
+    "keywords": ["moon sweepers where to play", "moon sweepers steam", "moon sweepers price", "moon sweepers ps5", "moon sweepers xbox", "moon sweepers mac"]
+  },
   "/mods": {
     "title": "Moon Sweepers Mods \u2014 Mod List, Loaders & Requirements",
     "description": "Browse Moon Sweepers mods for everyday play, new vehicles, dust logistics and visuals. Check loader requirements, co-op notes and links to each author\u2019s page.",

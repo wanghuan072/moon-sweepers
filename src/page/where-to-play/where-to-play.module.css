@@ -1,0 +1,42 @@
+.purchase {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 24px;
+  padding: clamp(20px, 4vw, 36px);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--color-primary);
+  border-radius: 14px;
+  background: linear-gradient(130deg, var(--color-card), var(--color-surface));
+}
+.label { color: var(--color-secondary); font-size: 11px; letter-spacing: .12em; }
+.purchase h2 { margin: 8px 0; }
+.purchase p, .answers p { margin: 0; }
+.buy { display: grid; gap: 6px; }
+.buy strong { color: var(--color-primary); font-size: 30px; }
+.buy a {
+  margin-top: 6px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: var(--color-primary);
+  color: #152331;
+  font-weight: 700;
+  text-align: center;
+}
+.buy a:hover { background: #ffc36c; }
+.platforms, .answers {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.platforms > div, .answers > article {
+  padding: 18px;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--color-surface);
+}
+.platforms dd { margin: 6px 0 0; color: var(--color-text-secondary); }
+.answers h3 { margin: 0 0 8px; }
+@media (max-width: 768px) {
+  .purchase, .platforms, .answers { grid-template-columns: minmax(0, 1fr); }
+}

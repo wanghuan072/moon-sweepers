@@ -6,4 +6,5 @@ export const navigation = [
   { title: "Mods", href: "/mods", icon: "layers" },
   { title: "Map", href: "/map", icon: "compass" },
   { title: "Updates", href: "/updates", icon: "megaphone" },
+  { title: "Where to Play", href: "/where-to-play", icon: "rocket" },
 ];

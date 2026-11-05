@@ -1,10 +1,10 @@
 {
   "/": {
-    "hash": "2215cac3a0f36a1d7384fbba669b6f8b9331f6615ae1f0d1ccc0ec4250b714d4",
+    "hash": "7b0de4dd23671cfd02b004d587b7e52f04bfacddd60fb78389e4bfa050f19f00",
     "modifiedAt": "2026-11-05"
   },
   "/guides": {
-    "hash": "d47d1cdcc1b334f7abe57717c726a56ca466351229d99082bb32baf799a1754a",
+    "hash": "2331fc146829685884165778545bfaf503342dd589fec87b549adde09a75c7e2",
     "modifiedAt": "2026-11-05"
   },
   "/guides/automation-guide": {
@@ -12,7 +12,7 @@
     "modifiedAt": "2026-11-05"
   },
   "/guides/beginners-guide": {
-    "hash": "f79835f336c49832bed3c29cd080d326cdb544fa305b0acb2d592e0eec14abd0",
+    "hash": "3a30a34d7f37ad07b98d3b127ad233cbafd3bee98c7fa51dc69281de81302e03",
     "modifiedAt": "2026-11-05"
   },
   "/guides/how-to-use-packager": {
@@ -44,7 +44,7 @@
     "modifiedAt": "2026-11-05"
   },
   "/map": {
-    "hash": "2272151cc0c3e0018eb941a3992728a0d35124505e0b84dc5cc2fb8336de1c6f",
+    "hash": "07fab6aad47d93ca8caac6d443cfe30aad585d71e335e0d2f1e970ae220dc112",
     "modifiedAt": "2026-11-05"
   },
   "/mods": {
@@ -57,20 +57,20 @@
     "modifiedAt": "2026-11-05"
   },
   "/tools/income-calculator": {
-    "hash": "87433303607b6388c30939c32289e6c2fe33aa3dc87c6925d0876e33404bf2b7",
+    "hash": "f029ae68489160f51746d9d88cba2d8a8134110c00d4d65e278e5212b6298bbb",
     "modifiedAt": "2026-11-05"
   },
   "/tools/selling-and-income": {
-    "hash": "7177f2147eec11e0a56dbadcd784959b9feec93e456b0278275020e99f29d2f4",
+    "hash": "dd720f0e9092ac803438baa4172da8f4f061c06b2b5efcc78f2cc31545504e84",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
   "/tools/upgrade-calculator": {
-    "hash": "ccd2b6b5217d25c358c3d3a9c2ed28202894bbef9008e414ecfdf99cdaeefe7e",
+    "hash": "e16f096d6b8b2c6d59d7e66274086b13830476bebe7d502781974caf8ebd3cf5",
     "modifiedAt": "2026-11-05"
   },
   "/tools/upgrade-matrix": {
-    "hash": "4b1675d4f1774128e6458f5708a2437fd6f27e7a1bd277bb9e825a9d78b539eb",
+    "hash": "1ca05a3cb1295346a06afb97d847cf8a997ce42bda1f8d4138bc26704420a1b8",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
@@ -78,8 +78,13 @@
     "hash": "157f1105960ddb1a75b220b1b1c88ac184bd464f07936b972f28f2ed7c86cccf",
     "modifiedAt": "2026-11-05"
   },
+  "/where-to-play": {
+    "hash": "e0190a5d68df2f5c4bccf6db69a26a0b0e040c427f295764e4fb3ecb8cb45c03",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-05"
+  },
   "/wiki": {
-    "hash": "a8a9c0feac90281b60cc151277789a4a31376506280ce102c047ce25aa997642",
+    "hash": "d37c958029daf92cf14e9a734f6a72d192498d7edf6f9cf197e148065bbe66b7",
     "modifiedAt": "2026-11-05"
   },
   "/wiki/buildings": {
@@ -88,7 +93,7 @@
     "publishedAt": "2026-11-04"
   },
   "/wiki/cleaning-tools": {
-    "hash": "2a5ca374d0daabae6a8feb1096b43950bb437cfe555ecd68643e921ee252736b",
+    "hash": "0a5734b93e8ae2101e6a075057e634bb387966f15143011c45bb466afe2aa39f",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-04"
   },

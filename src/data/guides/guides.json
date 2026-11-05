@@ -1,7 +1,7 @@
 [
   {
     "slug": "beginners-guide",
-    "title": "Beginner Guide: Your First Delivery & Upgrades",
+    "title": "Moon Sweepers Beginner Guide: Your First Delivery & Upgrades",
     "description": "Start with a short dust run, make your first sale and decide what to buy next. Learn when more capacity, a better tool or a vehicle will help, and how purchases work when you share a Moon with friends.",
     "category": "Getting Started",
     "sections": [
@@ -82,7 +82,7 @@
     "dataNote": "Version 1.0.5. Prices are base purchase costs before eligible discounts; upgrades and vehicle purchases follow the ownership rules described above.",
     "tables": [
       {
-        "title": "Cleaning tools compared",
+        "title": "Your first three cleaning tools",
         "columns": [
           "Tool",
           "Price",
@@ -115,40 +115,13 @@
             "8 kg",
             "0.25 m",
             "0.65 s"
-          ],
-          [
-            "Household Broom",
-            "$25",
-            "3 kg",
-            "24 kg",
-            "0.44 m",
-            "0.86 s"
-          ],
-          [
-            "Wide Broom",
-            "$75",
-            "6 kg",
-            "48 kg",
-            "0.66 m",
-            "1 s"
-          ],
-          [
-            "Extra Wide Broom",
-            "$150",
-            "12 kg",
-            "96 kg",
-            "0.99 m",
-            "1.12 s"
           ]
         ],
         "source": "https://wikily.gg/moon-sweepers/cleaning-tools",
         "rowLinks": [
           "/wiki/cleaning-tools/toothbrush",
           "/wiki/cleaning-tools/nail-brush",
-          "/wiki/cleaning-tools/hand-brush",
-          "/wiki/cleaning-tools/household-broom",
-          "/wiki/cleaning-tools/wide-broom",
-          "/wiki/cleaning-tools/extra-wide-broom"
+          "/wiki/cleaning-tools/hand-brush"
         ]
       }
     ],
@@ -164,7 +137,7 @@
     ],
     "relatedLinks": [
       {
-        "title": "Compare early cleaning tools",
+        "title": "Compare all six tools in the Wiki",
         "href": "/wiki/cleaning-tools"
       },
       {
