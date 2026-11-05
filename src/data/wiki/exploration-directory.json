@@ -1,0 +1,1182 @@
+{
+  "reviewedAt": "2026-11-04",
+  "flagsSource": "https://wikily.gg/moon-sweepers/flags",
+  "achievementSource": "https://wikily.gg/moon-sweepers/achievements",
+  "flags": [
+    {
+      "name": "Afghanistan",
+      "position": "24° S, 63° E",
+      "nearestDistance": "328.6 m"
+    },
+    {
+      "name": "Albania",
+      "position": "3° N, 169° W",
+      "nearestDistance": "374.6 m"
+    },
+    {
+      "name": "Algeria",
+      "position": "76° S, 93° E",
+      "nearestDistance": "307.6 m"
+    },
+    {
+      "name": "Andorra",
+      "position": "47° S, 158° W",
+      "nearestDistance": "342.4 m"
+    },
+    {
+      "name": "Angola",
+      "position": "39° N, 134° W",
+      "nearestDistance": "427.3 m"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "position": "25° N, 17° W",
+      "nearestDistance": "317.6 m"
+    },
+    {
+      "name": "Argentina",
+      "position": "61° S, 1° E",
+      "nearestDistance": "377.4 m"
+    },
+    {
+      "name": "Armenia",
+      "position": "63° S, 98° W",
+      "nearestDistance": "379 m"
+    },
+    {
+      "name": "Australia",
+      "position": "7° N, 121° W",
+      "nearestDistance": "391.4 m"
+    },
+    {
+      "name": "Austria",
+      "position": "52° N, 170° E",
+      "nearestDistance": "476.7 m"
+    },
+    {
+      "name": "Azerbaijan",
+      "position": "65° N, 130° E",
+      "nearestDistance": "314.6 m"
+    },
+    {
+      "name": "Bahrain",
+      "position": "5° N, 77° W",
+      "nearestDistance": "537.1 m"
+    },
+    {
+      "name": "Bangladesh",
+      "position": "24° N, 171° E",
+      "nearestDistance": "317.3 m"
+    },
+    {
+      "name": "Barbados",
+      "position": "16° N, 125° E",
+      "nearestDistance": "454 m"
+    },
+    {
+      "name": "Belarus",
+      "position": "23° N, 73° W",
+      "nearestDistance": "363.4 m"
+    },
+    {
+      "name": "Belgium",
+      "position": "6° N, 113° E",
+      "nearestDistance": "302.2 m"
+    },
+    {
+      "name": "Belize",
+      "position": "48° S, 27° W",
+      "nearestDistance": "323.9 m"
+    },
+    {
+      "name": "Benin",
+      "position": "11° S, 171° E",
+      "nearestDistance": "303.7 m"
+    },
+    {
+      "name": "Bhutan",
+      "position": "15° N, 42° W",
+      "nearestDistance": "417 m"
+    },
+    {
+      "name": "Bolivia",
+      "position": "49° S, 86° W",
+      "nearestDistance": "303.9 m"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "position": "12° S, 43° E",
+      "nearestDistance": "354.9 m"
+    },
+    {
+      "name": "Botswana",
+      "position": "21° S, 33° E",
+      "nearestDistance": "387.7 m"
+    },
+    {
+      "name": "Brazil",
+      "position": "15° N, 134° W",
+      "nearestDistance": "357.6 m"
+    },
+    {
+      "name": "Brunei",
+      "position": "26° S, 49° E",
+      "nearestDistance": "429.8 m"
+    },
+    {
+      "name": "Bulgaria",
+      "position": "30° S, 51° W",
+      "nearestDistance": "475.8 m"
+    },
+    {
+      "name": "Burkina Faso",
+      "position": "31° N, 85° W",
+      "nearestDistance": "405.7 m"
+    },
+    {
+      "name": "Burundi",
+      "position": "51° N, 86° W",
+      "nearestDistance": "354.4 m"
+    },
+    {
+      "name": "Cabo Verde",
+      "position": "44° N, 88° E",
+      "nearestDistance": "353.6 m"
+    },
+    {
+      "name": "Cambodia",
+      "position": "3° N, 105° E",
+      "nearestDistance": "302.2 m"
+    },
+    {
+      "name": "Cameroon",
+      "position": "21° N, 112° E",
+      "nearestDistance": "434.7 m"
+    },
+    {
+      "name": "Canada",
+      "position": "50° S, 67° E",
+      "nearestDistance": "451.5 m"
+    },
+    {
+      "name": "Central African Republic",
+      "position": "13° N, 75° E",
+      "nearestDistance": "374.2 m"
+    },
+    {
+      "name": "Chad",
+      "position": "3° S, 171° E",
+      "nearestDistance": "303.7 m"
+    },
+    {
+      "name": "Chile",
+      "position": "67° S, 34° W",
+      "nearestDistance": "302.9 m"
+    },
+    {
+      "name": "China",
+      "position": "66° N, 1° W",
+      "nearestDistance": "305.8 m"
+    },
+    {
+      "name": "Colombia",
+      "position": "60° N, 145° E",
+      "nearestDistance": "314.6 m"
+    },
+    {
+      "name": "Comoros",
+      "position": "27° N, 17° E",
+      "nearestDistance": "310.7 m"
+    },
+    {
+      "name": "Costa Rica",
+      "position": "71° N, 127° W",
+      "nearestDistance": "424 m"
+    },
+    {
+      "name": "Croatia",
+      "position": "18° S, 115° E",
+      "nearestDistance": "339.6 m"
+    },
+    {
+      "name": "Cuba",
+      "position": "22° S, 91° W",
+      "nearestDistance": "447.3 m"
+    },
+    {
+      "name": "Cyprus",
+      "position": "43° N, 9° W",
+      "nearestDistance": "446.7 m"
+    },
+    {
+      "name": "Czechia",
+      "position": "17° S, 8° E",
+      "nearestDistance": "347 m"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "position": "61° S, 76° W",
+      "nearestDistance": "379 m"
+    },
+    {
+      "name": "DR Congo",
+      "position": "28° N, 145° W",
+      "nearestDistance": "339 m"
+    },
+    {
+      "name": "Denmark",
+      "position": "33° S, 66° E",
+      "nearestDistance": "328.6 m"
+    },
+    {
+      "name": "Djibouti",
+      "position": "67° S, 153° W",
+      "nearestDistance": "331.4 m"
+    },
+    {
+      "name": "Dominica",
+      "position": "37° S, 29° E",
+      "nearestDistance": "387.2 m"
+    },
+    {
+      "name": "Dominican Republic",
+      "position": "22° N, 70° E",
+      "nearestDistance": "374.2 m"
+    },
+    {
+      "name": "Ecuador",
+      "position": "39° S, 107° W",
+      "nearestDistance": "368.7 m"
+    },
+    {
+      "name": "Egypt",
+      "position": "7° S, 24° E",
+      "nearestDistance": "448.7 m"
+    },
+    {
+      "name": "El Salvador",
+      "position": "28° N, 64° W",
+      "nearestDistance": "363.4 m"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "position": "1° N, 13° W",
+      "nearestDistance": "560.5 m"
+    },
+    {
+      "name": "Eritrea",
+      "position": "13° N, 50° E",
+      "nearestDistance": "434.2 m"
+    },
+    {
+      "name": "Estonia",
+      "position": "6° N, 28° W",
+      "nearestDistance": "462.2 m"
+    },
+    {
+      "name": "Eswatini",
+      "position": "30° N, 8° E",
+      "nearestDistance": "301.5 m"
+    },
+    {
+      "name": "Ethiopia",
+      "position": "25° N, 50° W",
+      "nearestDistance": "421.4 m"
+    },
+    {
+      "name": "Fiji",
+      "position": "44° N, 58° E",
+      "nearestDistance": "389.3 m"
+    },
+    {
+      "name": "Finland",
+      "position": "9° S, 70° E",
+      "nearestDistance": "338 m"
+    },
+    {
+      "name": "France",
+      "position": "28° S, 132° E",
+      "nearestDistance": "389.5 m"
+    },
+    {
+      "name": "Gabon",
+      "position": "7° N, 135° E",
+      "nearestDistance": "338.2 m"
+    },
+    {
+      "name": "Georgia",
+      "position": "45° S, 8° E",
+      "nearestDistance": "582.9 m"
+    },
+    {
+      "name": "Germany",
+      "position": "61° S, 49° W",
+      "nearestDistance": "302.9 m"
+    },
+    {
+      "name": "Ghana",
+      "position": "64° N, 165° W",
+      "nearestDistance": "309.8 m"
+    },
+    {
+      "name": "Greece",
+      "position": "24° S, 34° W",
+      "nearestDistance": "380.2 m"
+    },
+    {
+      "name": "Grenada",
+      "position": "30° S, 130° W",
+      "nearestDistance": "466.4 m"
+    },
+    {
+      "name": "Guatemala",
+      "position": "13° S, 25° W",
+      "nearestDistance": "476.9 m"
+    },
+    {
+      "name": "Guinea",
+      "position": "5° S, 37° E",
+      "nearestDistance": "352.1 m"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "position": "14° N, 57° W",
+      "nearestDistance": "312.9 m"
+    },
+    {
+      "name": "Guyana",
+      "position": "49° S, 72° W",
+      "nearestDistance": "303.9 m"
+    },
+    {
+      "name": "Haiti",
+      "position": "16° S, 144° E",
+      "nearestDistance": "369.1 m"
+    },
+    {
+      "name": "Honduras",
+      "position": "27° N, 91° E",
+      "nearestDistance": "456.9 m"
+    },
+    {
+      "name": "Hungary",
+      "position": "80° S, 132° E",
+      "nearestDistance": "307.6 m"
+    },
+    {
+      "name": "Iceland",
+      "position": "61° N, 100° E",
+      "nearestDistance": "392.6 m"
+    },
+    {
+      "name": "India",
+      "position": "34° N, 139° E",
+      "nearestDistance": "326.2 m"
+    },
+    {
+      "name": "Indonesia",
+      "position": "4° N, 152° W",
+      "nearestDistance": "377.8 m"
+    },
+    {
+      "name": "Iran",
+      "position": "74° N, 112° E",
+      "nearestDistance": "365.4 m"
+    },
+    {
+      "name": "Iraq",
+      "position": "33° N, 150° E",
+      "nearestDistance": "326.2 m"
+    },
+    {
+      "name": "Ireland",
+      "position": "12° N, 15° E",
+      "nearestDistance": "391.8 m"
+    },
+    {
+      "name": "Israel",
+      "position": "12° S, 154° E",
+      "nearestDistance": "318.1 m"
+    },
+    {
+      "name": "Italy",
+      "position": "41° S, 140° W",
+      "nearestDistance": "306.5 m"
+    },
+    {
+      "name": "Jamaica",
+      "position": "9° S, 96° E",
+      "nearestDistance": "522.3 m"
+    },
+    {
+      "name": "Japan",
+      "position": "36° N, 169° W",
+      "nearestDistance": "325.3 m"
+    },
+    {
+      "name": "Jordan",
+      "position": "39° S, 76° E",
+      "nearestDistance": "300.1 m"
+    },
+    {
+      "name": "Kazakhstan",
+      "position": "31° S, 160° E",
+      "nearestDistance": "322.5 m"
+    },
+    {
+      "name": "Kenya",
+      "position": "26° N, 130° W",
+      "nearestDistance": "405.2 m"
+    },
+    {
+      "name": "Kiribati",
+      "position": "42° N, 126° E",
+      "nearestDistance": "457.5 m"
+    },
+    {
+      "name": "Kuwait",
+      "position": "34° N, 67° E",
+      "nearestDistance": "314.3 m"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "position": "59° N, 109° W",
+      "nearestDistance": "430.2 m"
+    },
+    {
+      "name": "Laos",
+      "position": "71° N, 150° E",
+      "nearestDistance": "345.8 m"
+    },
+    {
+      "name": "Latvia",
+      "position": "18° S, 156° W",
+      "nearestDistance": "404 m"
+    },
+    {
+      "name": "Lebanon",
+      "position": "79° N, 28° W",
+      "nearestDistance": "467.3 m"
+    },
+    {
+      "name": "Lesotho",
+      "position": "27° S, 78° W",
+      "nearestDistance": "447.3 m"
+    },
+    {
+      "name": "Liberia",
+      "position": "30° S, 103° E",
+      "nearestDistance": "455.5 m"
+    },
+    {
+      "name": "Libya",
+      "position": "57° N, 0° W",
+      "nearestDistance": "305.8 m"
+    },
+    {
+      "name": "Liechtenstein",
+      "position": "36° S, 86° E",
+      "nearestDistance": "300.1 m"
+    },
+    {
+      "name": "Lithuania",
+      "position": "3° S, 155° E",
+      "nearestDistance": "318.1 m"
+    },
+    {
+      "name": "Luxembourg",
+      "position": "32° S, 14° W",
+      "nearestDistance": "331.1 m"
+    },
+    {
+      "name": "Madagascar",
+      "position": "6° N, 108° W",
+      "nearestDistance": "335.6 m"
+    },
+    {
+      "name": "Malawi",
+      "position": "44° N, 26° W",
+      "nearestDistance": "423.5 m"
+    },
+    {
+      "name": "Malaysia",
+      "position": "36° N, 118° W",
+      "nearestDistance": "385.8 m"
+    },
+    {
+      "name": "Maldives",
+      "position": "9° N, 99° W",
+      "nearestDistance": "335.6 m"
+    },
+    {
+      "name": "Mali",
+      "position": "22° S, 64° W",
+      "nearestDistance": "333.3 m"
+    },
+    {
+      "name": "Malta",
+      "position": "2° S, 132° E",
+      "nearestDistance": "338.2 m"
+    },
+    {
+      "name": "Marshall Islands",
+      "position": "38° N, 56° W",
+      "nearestDistance": "387.1 m"
+    },
+    {
+      "name": "Mauritania",
+      "position": "8° N, 160° E",
+      "nearestDistance": "428.6 m"
+    },
+    {
+      "name": "Mauritius",
+      "position": "62° S, 24° E",
+      "nearestDistance": "377.4 m"
+    },
+    {
+      "name": "Mexico",
+      "position": "4° N, 177° E",
+      "nearestDistance": "306.6 m"
+    },
+    {
+      "name": "Micronesia",
+      "position": "18° N, 121° W",
+      "nearestDistance": "391.4 m"
+    },
+    {
+      "name": "Moldova",
+      "position": "46° N, 171° W",
+      "nearestDistance": "325.3 m"
+    },
+    {
+      "name": "Monaco",
+      "position": "10° N, 98° E",
+      "nearestDistance": "353.8 m"
+    },
+    {
+      "name": "Mongolia",
+      "position": "39° S, 22° W",
+      "nearestDistance": "323.9 m"
+    },
+    {
+      "name": "Montenegro",
+      "position": "40° N, 32° E",
+      "nearestDistance": "350.8 m"
+    },
+    {
+      "name": "Morocco",
+      "position": "23° N, 163° W",
+      "nearestDistance": "319.5 m"
+    },
+    {
+      "name": "Mozambique",
+      "position": "58° N, 21° E",
+      "nearestDistance": "388.1 m"
+    },
+    {
+      "name": "Myanmar",
+      "position": "47° N, 122° W",
+      "nearestDistance": "333.5 m"
+    },
+    {
+      "name": "Namibia",
+      "position": "6° N, 145° E",
+      "nearestDistance": "352 m"
+    },
+    {
+      "name": "Nauru",
+      "position": "37° N, 13° E",
+      "nearestDistance": "301.5 m"
+    },
+    {
+      "name": "Nepal",
+      "position": "15° N, 86° E",
+      "nearestDistance": "383.6 m"
+    },
+    {
+      "name": "Netherlands",
+      "position": "31° S, 171° E",
+      "nearestDistance": "322.5 m"
+    },
+    {
+      "name": "New Zealand",
+      "position": "54° S, 120° W",
+      "nearestDistance": "355.8 m"
+    },
+    {
+      "name": "Nicaragua",
+      "position": "8° S, 105° W",
+      "nearestDistance": "514.3 m"
+    },
+    {
+      "name": "Niger",
+      "position": "6° S, 118° E",
+      "nearestDistance": "409.7 m"
+    },
+    {
+      "name": "Nigeria",
+      "position": "12° S, 75° W",
+      "nearestDistance": "303.4 m"
+    },
+    {
+      "name": "North Korea",
+      "position": "49° S, 97° E",
+      "nearestDistance": "386.9 m"
+    },
+    {
+      "name": "North Macedonia",
+      "position": "35° S, 95° W",
+      "nearestDistance": "368.7 m"
+    },
+    {
+      "name": "Norway",
+      "position": "29° N, 126° E",
+      "nearestDistance": "418.4 m"
+    },
+    {
+      "name": "Oman",
+      "position": "23° S, 110° W",
+      "nearestDistance": "421 m"
+    },
+    {
+      "name": "Pakistan",
+      "position": "64° S, 105° E",
+      "nearestDistance": "369.4 m"
+    },
+    {
+      "name": "Palau",
+      "position": "26° S, 120° E",
+      "nearestDistance": "306.1 m"
+    },
+    {
+      "name": "Palestine",
+      "position": "5° S, 81° E",
+      "nearestDistance": "401.5 m"
+    },
+    {
+      "name": "Panama",
+      "position": "61° S, 135° W",
+      "nearestDistance": "331.4 m"
+    },
+    {
+      "name": "Papua New Guinea",
+      "position": "33° N, 56° E",
+      "nearestDistance": "341.8 m"
+    },
+    {
+      "name": "Paraguay",
+      "position": "14° N, 0° W",
+      "nearestDistance": "394.5 m"
+    },
+    {
+      "name": "Peru",
+      "position": "39° N, 95° W",
+      "nearestDistance": "405.7 m"
+    },
+    {
+      "name": "Philippines",
+      "position": "7° N, 37° E",
+      "nearestDistance": "370.8 m"
+    },
+    {
+      "name": "Poland",
+      "position": "75° N, 88° W",
+      "nearestDistance": "424 m"
+    },
+    {
+      "name": "Portugal",
+      "position": "48° N, 54° W",
+      "nearestDistance": "381.4 m"
+    },
+    {
+      "name": "Qatar",
+      "position": "19° N, 31° W",
+      "nearestDistance": "417 m"
+    },
+    {
+      "name": "Republic of the Congo",
+      "position": "3° S, 127° W",
+      "nearestDistance": "381 m"
+    },
+    {
+      "name": "Romania",
+      "position": "24° N, 173° W",
+      "nearestDistance": "319.5 m"
+    },
+    {
+      "name": "Russia",
+      "position": "7° N, 52° W",
+      "nearestDistance": "312.9 m"
+    },
+    {
+      "name": "Rwanda",
+      "position": "7° S, 137° W",
+      "nearestDistance": "300.5 m"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "position": "71° S, 49° E",
+      "nearestDistance": "360.1 m"
+    },
+    {
+      "name": "Saint Lucia",
+      "position": "7° S, 60° E",
+      "nearestDistance": "338 m"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "position": "80° N, 74° E",
+      "nearestDistance": "365.4 m"
+    },
+    {
+      "name": "Samoa",
+      "position": "58° N, 22° W",
+      "nearestDistance": "416.8 m"
+    },
+    {
+      "name": "San Marino",
+      "position": "16° S, 43° W",
+      "nearestDistance": "380.2 m"
+    },
+    {
+      "name": "Saudi Arabia",
+      "position": "48° S, 59° W",
+      "nearestDistance": "304.2 m"
+    },
+    {
+      "name": "Senegal",
+      "position": "46° N, 108° W",
+      "nearestDistance": "333.5 m"
+    },
+    {
+      "name": "Serbia",
+      "position": "41° S, 111° E",
+      "nearestDistance": "360.1 m"
+    },
+    {
+      "name": "Seychelles",
+      "position": "17° N, 12° W",
+      "nearestDistance": "317.6 m"
+    },
+    {
+      "name": "Sierra Leone",
+      "position": "1° N, 45° E",
+      "nearestDistance": "352.1 m"
+    },
+    {
+      "name": "Singapore",
+      "position": "1° N, 44° W",
+      "nearestDistance": "341.8 m"
+    },
+    {
+      "name": "Slovakia",
+      "position": "40° N, 76° E",
+      "nearestDistance": "314.3 m"
+    },
+    {
+      "name": "Slovenia",
+      "position": "7° S, 67° W",
+      "nearestDistance": "303.4 m"
+    },
+    {
+      "name": "Solomon Islands",
+      "position": "16° N, 31° E",
+      "nearestDistance": "376.6 m"
+    },
+    {
+      "name": "Somalia",
+      "position": "54° N, 117° E",
+      "nearestDistance": "392.6 m"
+    },
+    {
+      "name": "South Africa",
+      "position": "40° N, 161° E",
+      "nearestDistance": "324.3 m"
+    },
+    {
+      "name": "South Korea",
+      "position": "34° N, 112° E",
+      "nearestDistance": "434.7 m"
+    },
+    {
+      "name": "South Sudan",
+      "position": "81° S, 38° W",
+      "nearestDistance": "370.2 m"
+    },
+    {
+      "name": "Spain",
+      "position": "58° N, 62° W",
+      "nearestDistance": "381.4 m"
+    },
+    {
+      "name": "Sri Lanka",
+      "position": "27° N, 106° W",
+      "nearestDistance": "467.7 m"
+    },
+    {
+      "name": "Sudan",
+      "position": "4° N, 7° E",
+      "nearestDistance": "391.8 m"
+    },
+    {
+      "name": "Suriname",
+      "position": "46° S, 39° E",
+      "nearestDistance": "416.3 m"
+    },
+    {
+      "name": "Sweden",
+      "position": "27° S, 23° E",
+      "nearestDistance": "386.4 m"
+    },
+    {
+      "name": "Switzerland",
+      "position": "72° S, 176° E",
+      "nearestDistance": "415.3 m"
+    },
+    {
+      "name": "Syria",
+      "position": "15° S, 57° W",
+      "nearestDistance": "333.3 m"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "position": "56° N, 53° E",
+      "nearestDistance": "427.8 m"
+    },
+    {
+      "name": "Tajikistan",
+      "position": "41° N, 42° W",
+      "nearestDistance": "392.7 m"
+    },
+    {
+      "name": "Tanzania",
+      "position": "10° S, 1° E",
+      "nearestDistance": "367.3 m"
+    },
+    {
+      "name": "Thailand",
+      "position": "31° N, 164° E",
+      "nearestDistance": "317.3 m"
+    },
+    {
+      "name": "The Bahamas",
+      "position": "4° S, 145° W",
+      "nearestDistance": "300.5 m"
+    },
+    {
+      "name": "The Gambia",
+      "position": "18° S, 178° E",
+      "nearestDistance": "330.9 m"
+    },
+    {
+      "name": "Timor-Leste",
+      "position": "58° S, 86° E",
+      "nearestDistance": "369.4 m"
+    },
+    {
+      "name": "Togo",
+      "position": "25° S, 2° W",
+      "nearestDistance": "393.2 m"
+    },
+    {
+      "name": "Tonga",
+      "position": "73° N, 170° W",
+      "nearestDistance": "309.8 m"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "position": "19° S, 122° W",
+      "nearestDistance": "421 m"
+    },
+    {
+      "name": "Tunisia",
+      "position": "17° N, 144° W",
+      "nearestDistance": "357.6 m"
+    },
+    {
+      "name": "Turkmenistan",
+      "position": "33° N, 155° W",
+      "nearestDistance": "339 m"
+    },
+    {
+      "name": "Tuvalu",
+      "position": "61° N, 84° W",
+      "nearestDistance": "354.4 m"
+    },
+    {
+      "name": "Türkiye",
+      "position": "29° S, 159° W",
+      "nearestDistance": "404 m"
+    },
+    {
+      "name": "Uganda",
+      "position": "5° N, 65° E",
+      "nearestDistance": "420.8 m"
+    },
+    {
+      "name": "Ukraine",
+      "position": "46° S, 131° W",
+      "nearestDistance": "306.5 m"
+    },
+    {
+      "name": "United Arab Emirates",
+      "position": "19° N, 148° E",
+      "nearestDistance": "456.8 m"
+    },
+    {
+      "name": "United Kingdom",
+      "position": "16° N, 155° W",
+      "nearestDistance": "356.8 m"
+    },
+    {
+      "name": "United States",
+      "position": "24° N, 46° E",
+      "nearestDistance": "416.5 m"
+    },
+    {
+      "name": "Uruguay",
+      "position": "27° S, 11° E",
+      "nearestDistance": "347 m"
+    },
+    {
+      "name": "Uzbekistan",
+      "position": "76° S, 127° W",
+      "nearestDistance": "434.5 m"
+    },
+    {
+      "name": "Vanuatu",
+      "position": "35° S, 122° E",
+      "nearestDistance": "306.1 m"
+    },
+    {
+      "name": "Vatican City",
+      "position": "80° S, 29° E",
+      "nearestDistance": "360.1 m"
+    },
+    {
+      "name": "Venezuela",
+      "position": "57° S, 146° E",
+      "nearestDistance": "521.1 m"
+    },
+    {
+      "name": "Vietnam",
+      "position": "30° N, 30° E",
+      "nearestDistance": "350.8 m"
+    },
+    {
+      "name": "Yemen",
+      "position": "4° S, 161° W",
+      "nearestDistance": "374.6 m"
+    },
+    {
+      "name": "Zambia",
+      "position": "57° S, 157° W",
+      "nearestDistance": "342.4 m"
+    },
+    {
+      "name": "Zimbabwe",
+      "position": "52° S, 122° E",
+      "nearestDistance": "444.3 m"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Dust Bunny",
+      "goal": "Collect 10 kg of dust",
+      "group": "Dust",
+      "hidden": false
+    },
+    {
+      "name": "Pocket Full of Moon",
+      "goal": "Collect 100 kg of dust",
+      "group": "Dust",
+      "hidden": false
+    },
+    {
+      "name": "A Literal Ton of Dust",
+      "goal": "Collect 1,000 kg of dust",
+      "group": "Dust",
+      "hidden": false
+    },
+    {
+      "name": "Moon Dust Removal Specialist",
+      "goal": "Collect 10,000 kg of dust",
+      "group": "Dust",
+      "hidden": false
+    },
+    {
+      "name": "That’s Going to Take a While",
+      "goal": "Clean a region",
+      "group": "Regions",
+      "hidden": false
+    },
+    {
+      "name": "Making a Dent",
+      "goal": "Clean 10 regions",
+      "group": "Regions",
+      "hidden": false
+    },
+    {
+      "name": "A Good Start",
+      "goal": "Clean 100 regions",
+      "group": "Regions",
+      "hidden": false
+    },
+    {
+      "name": "Patchwork Moon",
+      "goal": "Clean 1,000 regions",
+      "group": "Regions",
+      "hidden": false
+    },
+    {
+      "name": "Hex Appeal",
+      "goal": "Clean 10,000 regions",
+      "group": "Regions",
+      "hidden": false
+    },
+    {
+      "name": "Dust Delivery",
+      "goal": "Make a delivery to a dust station",
+      "group": "Deliveries",
+      "hidden": false
+    },
+    {
+      "name": "Regular Customer",
+      "goal": "Make 100 deliveries to dust stations",
+      "group": "Deliveries",
+      "hidden": false
+    },
+    {
+      "name": "Depot Resident",
+      "goal": "Make 1,000 deliveries to dust stations",
+      "group": "Deliveries",
+      "hidden": false
+    },
+    {
+      "name": "Do You Live Here?",
+      "goal": "Make 10,000 deliveries to dust stations",
+      "group": "Deliveries",
+      "hidden": false
+    },
+    {
+      "name": "Return to Sender",
+      "goal": "Have a dust station launch once",
+      "group": "Launches",
+      "hidden": false
+    },
+    {
+      "name": "Frequent Flyer Dust",
+      "goal": "Have dust stations launch 10 times",
+      "group": "Launches",
+      "hidden": false
+    },
+    {
+      "name": "Dust Pays the Bills",
+      "goal": "Earn $1,000",
+      "group": "Money earned",
+      "hidden": false
+    },
+    {
+      "name": "Filthy Rich",
+      "goal": "Earn $10,000",
+      "group": "Money earned",
+      "hidden": false
+    },
+    {
+      "name": "Lunar Payday",
+      "goal": "Earn $100,000",
+      "group": "Money earned",
+      "hidden": false
+    },
+    {
+      "name": "The Moon Is a Gold Mine",
+      "goal": "Earn $1,000,000",
+      "group": "Money earned",
+      "hidden": false
+    },
+    {
+      "name": "Reinvesting in Dust",
+      "goal": "Spend $10,000",
+      "group": "Money spent",
+      "hidden": false
+    },
+    {
+      "name": "A Very Expensive Hobby",
+      "goal": "Spend $100,000",
+      "group": "Money spent",
+      "hidden": false
+    },
+    {
+      "name": "Small loan of $1 million",
+      "goal": "Spend $1,000,000",
+      "group": "Money spent",
+      "hidden": false
+    },
+    {
+      "name": "You Missed a Spot",
+      "goal": "Clean 1% of the Moon",
+      "group": "Moon cleaned",
+      "hidden": false
+    },
+    {
+      "name": "Visible From Space",
+      "goal": "Clean 10% of the Moon",
+      "group": "Moon cleaned",
+      "hidden": false
+    },
+    {
+      "name": "Half Way There",
+      "goal": "Clean 50% of the Moon",
+      "group": "Moon cleaned",
+      "hidden": false
+    },
+    {
+      "name": "Time To Go Sleep...",
+      "goal": "Clean 100% of the Moon",
+      "group": "Moon cleaned",
+      "hidden": false
+    },
+    {
+      "name": "One Small Sweep",
+      "goal": "Collect dust for the first time with a tool or a vehicle (robot dust does not count)",
+      "group": "One-off",
+      "hidden": false
+    },
+    {
+      "name": "Finally, Wheels",
+      "goal": "Collect dust with a vehicle",
+      "group": "One-off",
+      "hidden": false
+    },
+    {
+      "name": "Moon Improvement Project",
+      "goal": "Build anything: a structure, a machine or a conveyor belt",
+      "group": "One-off",
+      "hidden": false
+    },
+    {
+      "name": "Get A Better Brush",
+      "goal": "Buy a cleaning tool other than the starting Toothbrush, or a container upgrade",
+      "group": "One-off",
+      "hidden": false
+    },
+    {
+      "name": "Let the Belt Do It",
+      "goal": "Have a capsule go onto a conveyor belt",
+      "group": "One-off",
+      "hidden": false
+    },
+    {
+      "name": "It’ll Get There Eventually",
+      "goal": "Have a capsule ride onto a belt it has already ridden (a belt loop)",
+      "group": "One-off",
+      "hidden": true
+    },
+    {
+      "name": "OH You Have Friends?",
+      "goal": "Be in a crew of at least 2 players during a game",
+      "group": "One-off",
+      "hidden": false
+    }
+  ]
+}

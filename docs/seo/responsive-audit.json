@@ -1,0 +1,58 @@
+{
+  "reviewedAt": "2026-11-05",
+  "widthBreakpoints": [
+    768,
+    1024
+  ],
+  "pageSweep": {
+    "pages": 73,
+    "widths": [
+      360,
+      768,
+      1024
+    ],
+    "checks": 219,
+    "documentOverflowFailures": 0
+  },
+  "additionalViewports": [
+    [
+      390,
+      844
+    ],
+    [
+      390,
+      320
+    ],
+    [
+      820,
+      900
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "fixes": [
+    "Stopped native focus scrolling from clipping upgrade-tree nodes.",
+    "Kept upgrade details inside the canvas and away from selected nodes; recentered after resize.",
+    "Separated inspector scrolling from canvas wheel zoom and kept Close visible.",
+    "Made the mobile upgrade list a single readable column and enlarged controls.",
+    "Fixed the map canvas being wider than its clipped mobile container.",
+    "Added a collapsible location list and larger marker hit areas with compact icons.",
+    "Allowed flat-map drags to start over markers and corrected coordinate-to-screen pan scaling.",
+    "Limited navigation and search dropdown height on short screens with independent scrolling.",
+    "Kept long tables in focusable horizontal scroll regions.",
+    "Improved homepage cards and form text on narrow screens."
+  ],
+  "verified": [
+    "Mobile and desktop navigation, including the last item in a short menu.",
+    "Long-table keyboard scrolling without document overflow.",
+    "Globe rotation, marker selection, flat-map drag, zoom buttons and location-list selection.",
+    "Upgrade-tree drag, zoom controls, node focus, inspector scroll and phone-to-tablet resize.",
+    "Lint, TypeScript build, 28 tests and production build.",
+    "Site/SEO audit and width-breakpoint audit."
+  ],
+  "notVerified": [
+    "Physical-device multi-touch pinch and mobile operating-system keyboards were not tested on hardware."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "vehicles": {
+    "heroTitle": "Moon Sweepers Vehicles — Prices, Capacity & Upgrades",
+    "description": "Choose a sweeper for your cleaning route or a transport for your crew. Compare five vehicles by price, hopper size, speed and capsule slots, then check garage upgrades and trick rewards."
+  },
+  "cleaning-tools": {
+    "heroTitle": "Moon Sweepers Cleaning Tools — Prices & Capacity",
+    "description": "Still using a brush, or ready for a wider broom? Compare six tools by price, dust capacity, cleaning width and stroke time to see what changes with your next purchase."
+  },
+  "containers": {
+    "heroTitle": "Moon Sweepers Containers — Capacity & Upgrade Costs",
+    "description": "Spend more time cleaning between trips to unload. Compare container levels for each hand tool, including capacity gains, individual prices and how Dust Compactor affects storage."
+  },
+  "suit-gear": {
+    "heroTitle": "Moon Sweepers Suit Gear — Movement, Lighting & Slots",
+    "description": "Need another tool slot, better movement or a way to work in darkness? Compare suit gear by effect and upgrade cost before choosing what your crew should unlock next."
+  },
+  "joonas-robots": {
+    "heroTitle": "Moon Sweepers Robots — Joonas & Docked Vacuums",
+    "description": "Choose between cleaning around a fixed dock and sending J.O.O.N.A.S. across the Moon. Compare prices, working areas and storage, then check where the collected dust needs to go."
+  },
+  "buildings": {
+    "heroTitle": "Moon Sweepers Buildings — Pieces, Prices & Placement",
+    "description": "Plan a base that leaves room for work and expansion. Browse 98 build-menu pieces, compare structure prices and finishes, and check movement and refund rules before rebuilding."
+  }
+}

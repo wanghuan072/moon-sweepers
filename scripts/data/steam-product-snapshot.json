@@ -1,0 +1,182 @@
+{
+  "name": "Moon Sweepers",
+  "release_date": {
+    "coming_soon": false,
+    "date": "Oct 23, 2026"
+  },
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650 / AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 Super / AMD Radeon RX 5600 XT<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+  },
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America, Danish, Finnish, Norwegian, Swedish, Turkish<br><strong>*</strong>languages with full audio support",
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 68,
+      "description": "Custom Volume Controls"
+    },
+    {
+      "id": 80,
+      "description": "#category_playable_at_your_own_pace"
+    },
+    {
+      "id": 74,
+      "description": "Playable without Timed Input"
+    },
+    {
+      "id": 55,
+      "description": "DualShock Controller Support"
+    },
+    {
+      "id": 56,
+      "description": "DualShock Controller Support"
+    },
+    {
+      "id": 57,
+      "description": "DualSense Controller Support"
+    },
+    {
+      "id": 58,
+      "description": "DualSense Controller Support"
+    },
+    {
+      "id": 59,
+      "description": "Steam Input API Support"
+    },
+    {
+      "id": 69,
+      "description": "Stereo Sound"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    },
+    {
+      "id": 62,
+      "description": "Family Sharing"
+    }
+  ],
+  "achievements": {
+    "total": 33,
+    "highlighted": [
+      {
+        "icon": "2cc52cf1d9d19186e554bfc69713d30f951221d6.jpg",
+        "localized_name": "One Small Sweep",
+        "archived": 0,
+        "hidden": 0,
+        "name": "One Small Sweep",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/2cc52cf1d9d19186e554bfc69713d30f951221d6.jpg"
+      },
+      {
+        "icon": "425e86ea63ec104d46fba87a966fded8f4b48638.jpg",
+        "localized_name": "That’s Going to Take a While",
+        "archived": 0,
+        "hidden": 0,
+        "name": "That’s Going to Take a While",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/425e86ea63ec104d46fba87a966fded8f4b48638.jpg"
+      },
+      {
+        "icon": "26e97687bcfa02ee02c56e0e649fb27377865b41.jpg",
+        "localized_name": "Dust Delivery",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Dust Delivery",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/26e97687bcfa02ee02c56e0e649fb27377865b41.jpg"
+      },
+      {
+        "icon": "d3387bbb16b97e3dd4f0b93e2686614c8d5acad5.jpg",
+        "localized_name": "Return to Sender",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Return to Sender",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/d3387bbb16b97e3dd4f0b93e2686614c8d5acad5.jpg"
+      },
+      {
+        "icon": "ef100480401f17baa3c1b2917d3a50900e2360e0.jpg",
+        "localized_name": "Finally, Wheels",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Finally, Wheels",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/ef100480401f17baa3c1b2917d3a50900e2360e0.jpg"
+      },
+      {
+        "icon": "e5789a05d10afd4fa6e909f562f0e31bf9154222.jpg",
+        "localized_name": "Making a Dent",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Making a Dent",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/e5789a05d10afd4fa6e909f562f0e31bf9154222.jpg"
+      },
+      {
+        "icon": "8b52f4d76b549f7ac09b70d6a8b0f7a2e5c005d0.jpg",
+        "localized_name": "Frequent Flyer Dust",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Frequent Flyer Dust",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/8b52f4d76b549f7ac09b70d6a8b0f7a2e5c005d0.jpg"
+      },
+      {
+        "icon": "e64c2986793a0345f3855916c24d503948970e1e.jpg",
+        "localized_name": "Dust Bunny",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Dust Bunny",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/e64c2986793a0345f3855916c24d503948970e1e.jpg"
+      },
+      {
+        "icon": "31b1545ec4c1d481ff39dbbb46c70efd721b646e.jpg",
+        "localized_name": "Pocket Full of Moon",
+        "archived": 0,
+        "hidden": 0,
+        "name": "Pocket Full of Moon",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/31b1545ec4c1d481ff39dbbb46c70efd721b646e.jpg"
+      },
+      {
+        "icon": "35ed23a572f036ecdf65cb4781ea465933e34daf.jpg",
+        "localized_name": "A Literal Ton of Dust",
+        "archived": 0,
+        "hidden": 0,
+        "name": "A Literal Ton of Dust",
+        "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5335510/35ed23a572f036ecdf65cb4781ea465933e34daf.jpg"
+      }
+    ]
+  },
+  "developers": [
+    "DragDrop Games"
+  ],
+  "publishers": [
+    "DragDrop Games"
+  ],
+  "required_age": 0,
+  "website": "https://discord.gg/5ATRkXkAAe",
+  "source": "https://store.steampowered.com/api/appdetails?appids=5335510&l=english&cc=us",
+  "reviewedAt": "2026-11-04"
+}

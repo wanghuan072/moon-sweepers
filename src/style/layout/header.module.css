@@ -1,0 +1,30 @@
+.header{position:relative;z-index:50;color:#f3f7fc;background:radial-gradient(ellipse at 8% 0%,#23425566,transparent 45%),linear-gradient(110deg,#0d202e,#08141f 65%);border-bottom:1px solid #486175;box-shadow:0 6px 24px #0003}
+.header:after{content:"";position:absolute;bottom:-1px;left:0;width:100%;height:1px;background:linear-gradient(90deg,transparent,#ffab36 15%,#ffab3640 40%,#8dd8f740 75%,transparent);pointer-events:none}
+.inner{min-height:92px;display:flex;align-items:center;gap:clamp(10px,1.5vw,24px)}
+.logo{display:flex;align-items:center;gap:11px;font-size:19px;font-weight:900;line-height:.98;letter-spacing:-.8px;flex-shrink:0}
+.logo strong{display:block;color:#ffb342;letter-spacing:.1px}
+.planet{display:grid;place-items:center;width:51px;height:51px;flex-shrink:0;border:1px solid #65829666;border-radius:15px;background:linear-gradient(145deg,#284556,#102431);box-shadow:inset 0 1px #ffffff14,0 5px 14px #0003;transform:rotate(-6deg)}
+.planet img{transform:rotate(6deg)}
+.nav{display:flex;align-items:center;gap:3px;flex:1;justify-content:center}
+.nav a{position:relative;display:flex;align-items:center;gap:6px;font-size:12px;font-weight:700;padding:12px clamp(5px,.7vw,10px);border:1px solid transparent;border-radius:10px;white-space:nowrap;color:#bdcedb;transition:background .18s,color .18s,border-color .18s}
+.nav svg{width:16px;color:#89bfd5}
+.nav a:hover{background:#233d50;color:#fff;border-color:#4c718955}
+.nav a.active{background:linear-gradient(145deg,#ffbc52,#f59a21);color:#17212a;border-color:#ffcf79;box-shadow:0 3px 12px #ff9f2726,inset 0 1px #fff6}
+.nav .active svg{color:#17212a}
+.search{position:relative;width:clamp(150px,14vw,200px);flex-shrink:0}
+.search form{display:flex;align-items:center;gap:9px;background:#172b3b;border:1px solid #405c71;border-radius:12px;padding:12px;box-shadow:inset 0 2px 6px #0002;transition:border-color .18s,box-shadow .18s}
+.search form:focus-within{border-color:#8dd8f7;box-shadow:0 0 0 3px #8dd8f712}
+.search form>svg{flex-shrink:0;color:#8dd8f7}
+.search input{width:100%;min-width:0;border:0;background:transparent;color:#f3f7fc;font-size:12px;outline:none}
+.search input::placeholder{color:#9db4c6}
+.menuButton{min-width:44px;min-height:44px;background:linear-gradient(145deg,#243e50,#132736);border:1px solid #4b6b81;border-radius:12px;display:none;place-items:center;padding:9px;color:#ffb342}
+.results{max-height:min(420px,calc(100svh - 180px));overflow-y:auto;overscroll-behavior:contain;position:absolute;right:0;top:calc(100% + 12px);width:350px;max-width:calc(100vw - 32px);background:#102333;border:1px solid #58758c;border-radius:12px;padding:10px;box-shadow:0 20px 40px #0008}
+.searchLabel{font-size:10px;letter-spacing:2px;color:#8cb7cf;display:block;padding:5px 8px}
+.results a{display:flex;align-items:center;justify-content:space-between;padding:9px;border-radius:6px;font-size:13px}
+.results a:hover{background:#243d50}
+.results small{display:block;color:#8dd8f7;text-transform:capitalize;font-size:10px}
+.results p{padding:8px;font-size:13px}
+.results .allResults{color:#ffb13b;border-top:1px solid #304459;border-radius:0;font-weight:700}
+@media(max-width:1024px){.inner{min-height:82px;gap:16px}.nav{max-height:calc(100svh - 110px);overflow-y:auto;overscroll-behavior:contain;display:none;position:absolute;top:calc(100% + 8px);left:20px;width:calc(100% - 40px);background:#0d2232;border:1px solid #435f75;border-radius:14px;padding:10px;grid-template-columns:repeat(4,1fr);justify-content:start;box-shadow:0 18px 40px #0006}.nav.open{display:grid}.nav a{font-size:14px;padding:14px 12px}.search{margin-left:auto;width:260px}.search input{font-size:16px}.results a{min-height:44px}.menuButton{display:grid}}
+@media(max-width:768px){.inner{gap:12px;flex-wrap:wrap;padding-block:14px;min-height:0}.logo{font-size:18px}.planet{width:45px;height:45px;border-radius:13px}.planet img{width:39px}.menuButton{order:2;margin-left:auto}.search{order:3;width:100%;margin:0}.search input{font-size:16px}.results{width:100%;top:calc(100% + 8px)}.nav{grid-template-columns:repeat(2,1fr);max-height:calc(100svh - 160px)}.nav a{font-size:14px}.search form{padding:10px 12px}}
+@media(prefers-reduced-motion:reduce){.nav a,.search form{transition:none}}

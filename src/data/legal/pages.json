@@ -1,0 +1,222 @@
+{
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "description": "This notice explains how moon-sweepers.org handles information when you read guides, search the site, use calculators or track locations on the map.",
+    "sections": [
+      {
+        "heading": "Information needed to deliver the website",
+        "paragraphs": [
+          "Opening a page sends a request to the website’s hosting service. Requests may include an IP address, browser information, the requested URL and diagnostic details used to deliver and protect the service. The handling and retention of operational logs depend on the hosting configuration; this notice does not claim a retention period that has not been established.",
+          "The site does not currently provide player accounts, a newsletter subscription, a contact submission form or a public comment system. You do not need to enter a Steam account, password or game save to read the content."
+        ]
+      },
+      {
+        "heading": "Search queries",
+        "paragraphs": [
+          "Typing into the navigation search sends your query to the site’s /api/search endpoint so it can return matching pages. Submitting the search form also puts the query in a /search?q= URL. These requests may appear in browser history and hosting logs. Do not enter passwords, private messages or other sensitive information into search.",
+          "Search uses the website’s own content rather than your game files. It does not read your Steam library or connect to your game session."
+        ]
+      },
+      {
+        "heading": "Map progress and browser storage",
+        "paragraphs": [
+          "The interactive map saves visited marker identifiers in your browser’s localStorage under moon-map-progress. This lets you return to your own checklist on the same browser. The stored list is separate from your game save and is not a crew-wide progress record.",
+          "You can clear it through your browser’s site-data controls. Clearing browser data or using a different browser can remove or separate the saved checklist. Your marker selections also appear in the page fragment when you share a location link."
+        ]
+      },
+      {
+        "heading": "Calculators and preferences",
+        "paragraphs": [
+          "Production and upgrade calculations run in your browser using the values you enter. The site does not currently have an application endpoint that collects calculator inputs. Choosing a preset loads values already supplied with the website.",
+          "The site does not currently integrate advertising or analytics tracking scripts. If those features are introduced, this notice must be updated to describe their actual behaviour."
+        ]
+      },
+      {
+        "heading": "Links, images and other services",
+        "paragraphs": [
+          "Following a link to Steam or another website sends a request to that service and is subject to its privacy practices. This site cannot control the cookies or data handling of a destination you choose to visit.",
+          "Site pages can link to original image and information sources. The website does not request access to your microphone, camera, Steam account or game save."
+        ]
+      },
+      {
+        "heading": "Email, questions and changes",
+        "paragraphs": [
+          "If you email support@moon-sweepers.org, include only the information needed to explain your question. Your message and any attachments are processed through the email services used to receive and answer it; sending email is separate from browsing the site.",
+          "For privacy questions, identify the page or feature involved. Do not send account credentials or identity documents. This notice may change when site functionality changes; the displayed modification date identifies the latest substantive revision."
+        ]
+      }
+    ]
+  },
+  "terms-of-service": {
+    "title": "Terms of Service",
+    "description": "These terms apply to the guides, game information, maps and planning tools available at moon-sweepers.org. They concern this website, not your game purchase or Steam account.",
+    "sections": [
+      {
+        "heading": "Independent fan website",
+        "paragraphs": [
+          "Moon Sweepers Wiki is an independent fan site about Moon Sweepers. It is not operated by, affiliated with or endorsed by DragDrop Games, the game’s publisher or Valve. References to the game and its equipment identify the subjects discussed.",
+          "Accessing this website does not grant access to Moon Sweepers, a game licence, multiplayer services or official technical support. Game purchases and platform services remain subject to the terms of their providers."
+        ]
+      },
+      {
+        "heading": "Using guides and game data",
+        "paragraphs": [
+          "Game updates may change prices, recipes, controls, progression and save compatibility. Check the applicable version and your in-game information before making an irreversible change to a world. Source links and relevant limitations are supplied with the content.",
+          "No guide can guarantee an income rate, achievement, performance improvement or successful save recovery. A theoretical recipe calculation assumes the stated inputs, power and output conditions. It is not evidence that a particular base will sustain the same result."
+        ]
+      },
+      {
+        "heading": "Calculators, maps and saved progress",
+        "paragraphs": [
+          "Calculator results depend on the values and assumptions selected. Compare results with the actual route you play; shared conveyor limits, changing power and delivery delays can affect output.",
+          "Map progress is a checklist saved in your browser. It does not read or modify a game save, detect discoveries automatically or synchronise with your crew. Coordinates are provided for navigation and may be rounded to whole degrees."
+        ]
+      },
+      {
+        "heading": "Acceptable use",
+        "paragraphs": [
+          "Use the site without interfering with its availability or trying to access information that is not intended to be public. Do not submit malicious search inputs, impersonate the site operator or present this site as an official game service.",
+          "Where the website permits normal access to content, that access does not imply permission to republish substantial portions, copy original artwork or redistribute third-party game assets. Applicable rights and lawful exceptions remain with the relevant parties."
+        ]
+      },
+      {
+        "heading": "Availability and external links",
+        "paragraphs": [
+          "Pages and features may be corrected, changed or withdrawn as the site develops. We do not promise uninterrupted availability or compatibility with every browser and device.",
+          "External links are provided for their relevance to a topic. Linking does not make the destination part of this site or guarantee its contents, availability, security or policies. Check the destination before downloading files or sharing personal information."
+        ]
+      },
+      {
+        "heading": "Questions and revisions",
+        "paragraphs": [
+          "Send questions about these terms or this website to support@moon-sweepers.org. For a content correction, include the page URL and the specific statement you believe is wrong.",
+          "These terms do not remove rights that cannot lawfully be excluded. Substantive changes are reflected in the page’s modification date."
+        ]
+      }
+    ]
+  },
+  "copyright": {
+    "title": "Copyright & Media Credits",
+    "description": "This page explains which rights belong to the website and which remain with the game’s creators and other contributors. A site-wide copyright line does not transfer ownership of third-party material.",
+    "sections": [
+      {
+        "heading": "Original website content",
+        "paragraphs": [
+          "Original editorial text, interface design, diagrams and branding created for moon-sweepers.org are presented as the website’s own work, subject to any separately identified licences or contributions.",
+          "Facts, names and numerical game values should not be confused with the original wording or artwork used to explain them. A factual citation is not a claim of ownership over the game or another author’s presentation."
+        ]
+      },
+      {
+        "heading": "Moon Sweepers and third-party material",
+        "paragraphs": [
+          "Moon Sweepers, its characters, game visuals and associated intellectual property remain with their respective rights holders. DragDrop Games is identified as the developer and publisher on the official Steam listing. Valve and Steam marks belong to their respective owners.",
+          "Some pages identify community documentation used to check equipment or game rules. A link to that documentation does not transfer the copyright in its writing, images or page design to this site."
+        ]
+      },
+      {
+        "heading": "Screenshots and artwork",
+        "paragraphs": [
+          "Official screenshots are distinguished from concept artwork and equipment diagrams. An illustration is not represented as a captured game scene, and an original site logo does not imply official endorsement.",
+          "Game screenshots and community equipment images used for local development previews are credited to their original sources. Local preview arrangements do not establish public republication rights. These preview files are excluded from the production build; public pages use original replacements or links unless a separate permission is established.",
+          "The Moon Sweepers Wiki logo and social preview art are original site branding, including computer-generated concept illustration. They are not official game assets. Lucide interface icons are used under their ISC licence."
+        ]
+      },
+      {
+        "heading": "Reuse requests",
+        "paragraphs": [
+          "For permission to reuse original website material, email support@moon-sweepers.org and describe the page, content and intended use. Do not assume that permission from this site would cover a game screenshot or another contributor’s image.",
+          "Where material carries a separate licence or credit, follow that licence and contact the relevant rights holder when necessary. Nothing on this page restricts uses permitted by applicable law."
+        ]
+      },
+      {
+        "heading": "Rights-related enquiries",
+        "paragraphs": [
+          "If you believe material on this website infringes your rights or lacks a required credit, email support@moon-sweepers.org with the affected URL, an identification of the work and an explanation of your relationship to it. Include links or other information that help identify the issue.",
+          "Do not send passwords, identity documents or private game files. We may need further information to assess a request. This contact process does not promise a fixed response period or imply that the website has made a legal determination about a disputed work."
+        ]
+      }
+    ]
+  },
+  "about-us": {
+    "title": "About Moon Sweepers Wiki",
+    "description": "Moon Sweepers Wiki helps you choose equipment, connect production lines and find your way around the Moon without interrupting a cleanup session to piece together scattered answers.",
+    "sections": [
+      {
+        "heading": "What you can find here",
+        "paragraphs": [
+          "The wiki covers hand tools, containers, vehicles, crew upgrades and the rules behind selling and progression. Machine pages keep prices, recipes, storage and power together, while guides explain the steps needed to put that equipment to work.",
+          "The interactive map brings flags, lunar sites and stations into one searchable view. Planning tools help compare material sales, production value and upgrade payback. Updates distinguish released changes from future plans."
+        ]
+      },
+      {
+        "heading": "How gameplay information is checked",
+        "paragraphs": [
+          "Developer announcements and the official Steam listing establish release information, platform details and documented patch changes. Community equipment documentation helps fill in numerical parameters that those announcements do not publish. Relevant links are kept with the article or table.",
+          "We distinguish documented facts, calculated examples and suggested layouts. A derived production rate assumes the stated recipe, continuous feed and sufficient power. It is not described as a measured result from a live factory."
+        ]
+      },
+      {
+        "heading": "Experience and limitations",
+        "paragraphs": [
+          "This site does not claim that every item, vehicle or production layout has been independently playtested. Where a calculation or workflow has been checked, its assumptions should be visible rather than replaced with a claim of universal best performance.",
+          "When documentation disagrees or an update makes an old detail uncertain, the page should state the limitation or leave the field unresolved. The goal is a useful answer that you can verify against your installed game version."
+        ]
+      },
+      {
+        "heading": "Corrections and maintenance",
+        "paragraphs": [
+          "Articles are revised when gameplay information, instructions or useful supporting details change. Website publication dates, article modification dates and game announcement dates are treated separately. Rebuilding the website is not itself a content update.",
+          "If a number, instruction or map location is wrong, email support@moon-sweepers.org with the page URL, your game version and the specific correction. Screenshots can help when you have permission to share them; remove private player information first."
+        ]
+      },
+      {
+        "heading": "Independent status",
+        "paragraphs": [
+          "moon-sweepers.org is a fan website, not the official Moon Sweepers website. It is not affiliated with or endorsed by DragDrop Games, the game’s publisher or Valve. We cannot manage game accounts, purchases, multiplayer servers or Steam support requests.",
+          "For official announcements and purchase details, use the linked Steam pages. Our contact address is for this website’s content, features and rights enquiries."
+        ]
+      }
+    ]
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "description": "Email support@moon-sweepers.org about website problems, gameplay corrections, privacy questions or rights-related enquiries. This is a fan-site contact address, not official game support.",
+    "sections": [
+      {
+        "heading": "Gameplay corrections",
+        "paragraphs": [
+          "Include the full page URL, the exact instruction or number that appears wrong, and the Moon Sweepers version you are playing. Explain what happened and what you expected to happen.",
+          "A link to a developer announcement or a screenshot of the relevant game panel can help distinguish a content error from a version difference. Share screenshots only if you have the right to do so, and remove private chat, player details or account information."
+        ]
+      },
+      {
+        "heading": "Website and tool problems",
+        "paragraphs": [
+          "For broken links, search issues, map controls or calculator errors, include your browser, device and the page you were using. Describe the steps that led to the problem and any visible error message.",
+          "For a calculator result, list the inputs and selected preset rather than sending private save files. For a map problem, identify the marker or coordinates and whether you were using the globe or flat view."
+        ]
+      },
+      {
+        "heading": "Privacy and copyright",
+        "paragraphs": [
+          "Send privacy enquiries with the feature involved and the information you want us to examine. The Privacy Policy explains search requests, browser history, map storage and email separately.",
+          "For a copyright or attribution issue, identify the affected URL, the original work and your relationship to the rights holder. The Copyright page describes the information useful for a rights-related request."
+        ]
+      },
+      {
+        "heading": "Game purchases and official support",
+        "paragraphs": [
+          "This website cannot issue Steam refunds, restore accounts, modify a multiplayer host’s save or act on behalf of DragDrop Games. Contact the appropriate game or platform service for those matters.",
+          "The official Steam game page and existing developer announcements are linked throughout the site. Check those channels for release information and game-specific support options."
+        ]
+      },
+      {
+        "heading": "Before sending an email",
+        "paragraphs": [
+          "Never send passwords, authentication codes, payment information or identity documents. Do not attach an entire game save unless there is a specific agreed reason and you have removed information you do not want shared.",
+          "There is no contact form on this website and no promised response time. A clear subject line and enough detail to reproduce a problem are more useful than repeated messages."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "slug": "update-1-1-preview",
+    "title": "Update 1.1: December Plans",
+    "description": "A preview of the next major update. Planned, not released.",
+    "category": "Roadmap",
+    "sections": [
+      {
+        "heading": "December update plans",
+        "paragraphs": [
+          "The October 30 announcement targets update 1.1 for December 2026. Planned work includes production machinery, materials, tools, upgrades, building and automation progression, alongside performance improvements. No exact release day is announced."
+        ]
+      },
+      {
+        "heading": "Launch figures and scope",
+        "paragraphs": [
+          "The developer reports 600,000 players and approximately 70,000 concurrent players at peak. These are announcement-time figures, not live counts. Late-game progression is a focus; teased future possibilities are not treated here as confirmed released content."
+        ]
+      }
+    ],
+    "sources": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238715"
+    ],
+    "status": "verified",
+    "version": null,
+    "updatedAt": "2026-10-30",
+    "tdk": {
+      "title": "Update 1.1: December Plans — Moon Sweepers Patch Notes",
+      "description": "Read Moon Sweepers 1.1 plans announced on October 30. Check December plans for production and progression, with future features kept separate from releases.",
+      "keywords": [
+        "Moon Sweepers",
+        "Update 1.1: December Plans"
+      ]
+    },
+    "announcedAt": "2026-10-30",
+    "dataNote": "Game details are checked against the linked developer announcements and store information. Calculated examples and suggested layouts are guidance, not measured gameplay results."
+  },
+  {
+    "slug": "patch-1-0-5",
+    "title": "Patch 1.0.5: Building & Automation",
+    "description": "Move structures, build on dusty ground and improve capsule delivery.",
+    "category": "Patch notes",
+    "sections": [
+      {
+        "heading": "Building and placement",
+        "paragraphs": [
+          "Build on dusty terrain and around foundations; move structures with R, cancel with right mouse and remove with X. Demolition now refunds 100%. Middle mouse copies rotation and style. Machine grid spacing is 0.5 m, with free-placement controls."
+        ]
+      },
+      {
+        "heading": "Automation and world capacity",
+        "paragraphs": [
+          "Catcher groups use a 100 m range and an 80% fill threshold. Garage silos display outfeed problems. The world capsule ceiling rises from 10,000 to 90,000. Large-base packing and Auto-Packer failures are fixed."
+        ]
+      },
+      {
+        "heading": "Stability and multiplayer",
+        "paragraphs": [
+          "Loading freezes, world-exit memory leaks, construction-related leaks and garbage-collection stutters receive fixes. Public-game warnings, voice-volume controls and vehicle-camera options are added. Region payout, teleport launches, placement and controller-input bugs are addressed."
+        ]
+      }
+    ],
+    "sources": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229973"
+    ],
+    "status": "verified",
+    "version": "1.0.5",
+    "updatedAt": "2026-10-28",
+    "tdk": {
+      "title": "Patch 1.0.5: Building & Automation — Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.5 changes to building, Joonas delivery and world capsule limits. Check fixes for loading, large bases, multiplayer and controls.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.5: Building & Automation"
+      ]
+    },
+    "announcedAt": "2026-10-28",
+    "dataNote": "Game details are checked against the linked developer announcements and store information. Calculated examples and suggested layouts are guidance, not measured gameplay results."
+  },
+  {
+    "slug": "patch-1-0-4",
+    "title": "Patch 1.0.4: Robots, Backups & Co-op",
+    "description": "Robot delivery improvements, night vision and automatic backups.",
+    "category": "Patch notes",
+    "sections": [
+      {
+        "heading": "Robots, map and lighting",
+        "paragraphs": [
+          "Night Vision Goggles cost $350 and join the N lighting cycle. Map waypoints, station teleport controls and robot filters improve navigation. J.O.O.N.A.S. sends capsules without its former docking sequence, works away from players, replans around obstacles and shows a full-bin warning."
+        ]
+      },
+      {
+        "heading": "Backups and compatibility",
+        "paragraphs": [
+          "Each save slot keeps five rotating backups. The first occurs after one minute, then every 30 minutes. Backups are outside Steam Cloud. Saving, quitting and damaged-save recovery improve; saves written by 1.0.4 cannot open in older builds."
+        ]
+      },
+      {
+        "heading": "Belts and platform fixes",
+        "paragraphs": [
+          "Mergers alternate inputs, and crewmates can attach belt forks. Ground synchronization, stalled packing, foundations and robot paths receive fixes. Proton startup is repaired; AMD defaults to DirectX 11, with DirectX 12 available as a launch option."
+        ]
+      }
+    ],
+    "sources": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042960"
+    ],
+    "status": "verified",
+    "version": "1.0.4",
+    "updatedAt": "2026-10-25",
+    "tdk": {
+      "title": "Patch 1.0.4: Robots, Backups & Co-op — Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.4 changes to Joonas, night vision, maps and backups. Check save compatibility, belt behaviour, co-op fixes and DirectX options.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.4: Robots, Backups & Co-op"
+      ]
+    },
+    "announcedAt": "2026-10-25",
+    "dataNote": "Game details are checked against the linked developer announcements and store information. Calculated examples and suggested layouts are guidance, not measured gameplay results."
+  },
+  {
+    "slug": "patch-1-0-3",
+    "title": "Patch 1.0.3: Shared Upgrades & Delivery",
+    "description": "Crew-wide upgrades, host controls and belt-fed deposit fixes.",
+    "category": "Patch notes",
+    "sections": [
+      {
+        "heading": "Shared progression and host controls",
+        "paragraphs": [
+          "The host’s Upgrade Matrix becomes crew-wide. Crew members can purchase shared upgrades, with previous progress reconciled. Hosts gain kick, ban and unban controls under Your Crew; everyone must use the same patch."
+        ]
+      },
+      {
+        "heading": "Belts, placement and selling",
+        "paragraphs": [
+          "Dust and stone entering the collector by belt pay immediately. Carried capsules can be placed where aimed. Forks snap between ports and machines can cross foundations. Multiplayer forks receive fixes."
+        ]
+      },
+      {
+        "heading": "Vehicles, saves and performance",
+        "paragraphs": [
+          "Any garage can manage owned vehicles. Removing a garage preserves its vehicles. Large-save loading, damaged-save checks and driving/teleport streaming improve. The developer reports frame-rate improvements; this site has not independently benchmarked them."
+        ]
+      }
+    ],
+    "sources": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039175"
+    ],
+    "status": "verified",
+    "version": "1.0.3",
+    "updatedAt": "2026-10-24",
+    "tdk": {
+      "title": "Patch 1.0.3: Shared Upgrades & Delivery — Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.3 changes to shared upgrades, host controls and conveyor payments. Check vehicle ownership, garage removal and save-loading fixes.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.3: Shared Upgrades & Delivery"
+      ]
+    },
+    "announcedAt": "2026-10-24",
+    "dataNote": "Game details are checked against the linked developer announcements and store information. Calculated examples and suggested layouts are guidance, not measured gameplay results."
+  },
+  {
+    "slug": "a-message-from-the-developers",
+    "title": "A Message From the Developers",
+    "description": "The two-person team discusses launch issues, co-op fixes and automation priorities.",
+    "category": "Developer letter",
+    "sections": [
+      {
+        "heading": "Launch priorities",
+        "paragraphs": [
+          "The two-person studio acknowledges crashes, performance problems, co-op issues and uneven automation progression. It describes shared research, save protection, host moderation and belt fixes already shipped."
+        ]
+      },
+      {
+        "heading": "Work still ahead",
+        "paragraphs": [
+          "The team prioritizes crashes, robots stopping when players leave and automation balance. This is a development-status letter, not a separate numbered patch or a promise that every issue has been resolved."
+        ]
+      }
+    ],
+    "sources": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039880"
+    ],
+    "status": "verified",
+    "updatedAt": "2026-10-24",
+    "tdk": {
+      "title": "A Message From the Developers — Moon Sweepers Patch Notes",
+      "description": "The two-person team discusses launch issues, co-op fixes and automation priorities in Moon Sweepers. See the changes and their release status.",
+      "keywords": [
+        "Moon Sweepers",
+        "A Message From the Developers"
+      ]
+    },
+    "announcedAt": "2026-10-24",
+    "dataNote": "Game details are checked against the linked developer announcements and store information. Calculated examples and suggested layouts are guidance, not measured gameplay results."
+  }
+]

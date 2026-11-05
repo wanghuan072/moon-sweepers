@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "selling-and-income",
+    "title": "Selling and Income",
+    "description": "Not sure whether to sell dust or process it first? Compare material prices, crew payout bonuses and region rewards, then check what sand and stone production adds to the value of your inputs.",
+    "icon": "coins",
+    "label": "Material prices & payout rules"
+  },
+  {
+    "slug": "income-calculator",
+    "title": "Income Calculator",
+    "description": "Enter the dust, sand and stone you plan to deliver, then apply the bonuses your crew owns. You can also price full tool containers and calculate region rewards separately. These totals do not predict hourly earnings.",
+    "icon": "calculator",
+    "label": "Delivery payouts & full loads"
+  },
+  {
+    "slug": "upgrade-matrix",
+    "title": "Upgrade Matrix",
+    "description": "Find the upgrade you want and see what unlocks it. Drag or zoom the tree, then select a node to check level prices, effects and prerequisites. Use the planner below to budget for your chosen path.",
+    "icon": "network",
+    "label": "Upgrade paths, prices & effects"
+  },
+  {
+    "slug": "upgrade-calculator",
+    "title": "Upgrade Calculator",
+    "description": "Choose what you already own and the levels you want next. Build a budget for matrix upgrades, tools, containers and suit gear, with missing prerequisites and eligible discounts included. Garage upgrades are separate.",
+    "icon": "upgrade",
+    "label": "Shopping lists & remaining costs"
+  }
+]

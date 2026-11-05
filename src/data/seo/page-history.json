@@ -1,0 +1,118 @@
+{
+  "/": {
+    "hash": "2215cac3a0f36a1d7384fbba669b6f8b9331f6615ae1f0d1ccc0ec4250b714d4",
+    "modifiedAt": "2026-11-05"
+  },
+  "/guides": {
+    "hash": "d47d1cdcc1b334f7abe57717c726a56ca466351229d99082bb32baf799a1754a",
+    "modifiedAt": "2026-11-05"
+  },
+  "/guides/automation-guide": {
+    "hash": "4cc1045c7e49ee05c82719c08c73e61f05f215b34653bbdf2b95fad33616e92a",
+    "modifiedAt": "2026-11-05"
+  },
+  "/guides/beginners-guide": {
+    "hash": "f79835f336c49832bed3c29cd080d326cdb544fa305b0acb2d592e0eec14abd0",
+    "modifiedAt": "2026-11-05"
+  },
+  "/guides/how-to-use-packager": {
+    "hash": "f0132e117e4255aa0f8082890f5211d1cf8ca264f295e209c502fae707bd111c",
+    "modifiedAt": "2026-11-05"
+  },
+  "/guides/save-recovery-guide": {
+    "hash": "ab280dc0d7c30b74afb9259bf0e20861ea55f107f8c32cdfa1a6502a3764cd56",
+    "modifiedAt": "2026-11-05"
+  },
+  "/legal/about-us": {
+    "hash": "a0c623c87cfb07754a871d2f4568da69d6845acf248d2eb86171141f5933b114",
+    "modifiedAt": "2026-11-05"
+  },
+  "/legal/contact-us": {
+    "hash": "361c96f3ddf6a129c42383fb91cc5377a2d47772ea55f58c4a399c15f4693560",
+    "modifiedAt": "2026-11-05"
+  },
+  "/legal/copyright": {
+    "hash": "dcc7df22626ec49357c48d274a64f311425fb71f3ad86a9b5a8c1bd245a24824",
+    "modifiedAt": "2026-11-05"
+  },
+  "/legal/privacy-policy": {
+    "hash": "dbde1bb9946927f78730a825baca646591a09c1c1a04b6b99a9328ad3c5b99a4",
+    "modifiedAt": "2026-11-05"
+  },
+  "/legal/terms-of-service": {
+    "hash": "4841e94b30bc188ec8e783190eae8be4823fbf7b28f49c5b2b1c67a1346045b9",
+    "modifiedAt": "2026-11-05"
+  },
+  "/map": {
+    "hash": "2272151cc0c3e0018eb941a3992728a0d35124505e0b84dc5cc2fb8336de1c6f",
+    "modifiedAt": "2026-11-05"
+  },
+  "/mods": {
+    "hash": "9071622a29bf3a469f61c826e69a59de0ecefdb0e25f589498e2943c77d2e330",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-05"
+  },
+  "/tools": {
+    "hash": "99b931fe9eb631aed0ea3a5f20b85fe759b2d71d8c9b5ca736692345b3ca2b3f",
+    "modifiedAt": "2026-11-05"
+  },
+  "/tools/income-calculator": {
+    "hash": "87433303607b6388c30939c32289e6c2fe33aa3dc87c6925d0876e33404bf2b7",
+    "modifiedAt": "2026-11-05"
+  },
+  "/tools/selling-and-income": {
+    "hash": "7177f2147eec11e0a56dbadcd784959b9feec93e456b0278275020e99f29d2f4",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-05"
+  },
+  "/tools/upgrade-calculator": {
+    "hash": "ccd2b6b5217d25c358c3d3a9c2ed28202894bbef9008e414ecfdf99cdaeefe7e",
+    "modifiedAt": "2026-11-05"
+  },
+  "/tools/upgrade-matrix": {
+    "hash": "4b1675d4f1774128e6458f5708a2437fd6f27e7a1bd277bb9e825a9d78b539eb",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-05"
+  },
+  "/updates": {
+    "hash": "157f1105960ddb1a75b220b1b1c88ac184bd464f07936b972f28f2ed7c86cccf",
+    "modifiedAt": "2026-11-05"
+  },
+  "/wiki": {
+    "hash": "a8a9c0feac90281b60cc151277789a4a31376506280ce102c047ce25aa997642",
+    "modifiedAt": "2026-11-05"
+  },
+  "/wiki/buildings": {
+    "hash": "781ee8a5e4927da80082f88b39ca75cc4b89303be3147785be8d614e076b856a",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-04"
+  },
+  "/wiki/cleaning-tools": {
+    "hash": "2a5ca374d0daabae6a8feb1096b43950bb437cfe555ecd68643e921ee252736b",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-04"
+  },
+  "/wiki/containers": {
+    "hash": "412a3bc11060a1fdde787261708009e5c579ed0739d4ff061ed044ce8c46d74e",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-04"
+  },
+  "/wiki/joonas-robots": {
+    "hash": "725e3ce6741bca3314827171f0bd729710831800b95b4cb12baebd86f4fba65a",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-04"
+  },
+  "/wiki/machines": {
+    "hash": "b0575b8f8d3688a092a033d74bd8bfd59eb5b7a8888c083e090af6d370563d44",
+    "modifiedAt": "2026-11-05"
+  },
+  "/wiki/suit-gear": {
+    "hash": "9a7c296c45ae4827fc0ec9a95b324b3edf5a7444b4500500905792b20d7490d2",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-04"
+  },
+  "/wiki/vehicles": {
+    "hash": "231936de30452078d86f138b4e9767f591d6f4ef0f2ac7753d64d2beaf9b9ab7",
+    "modifiedAt": "2026-11-05"
+  }
+}

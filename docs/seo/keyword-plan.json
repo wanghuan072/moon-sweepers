@@ -1,0 +1,812 @@
+{
+  "recordedAt": "2026-11-05",
+  "status": "implemented: four consolidated Guides articles",
+  "source": "Four keyword screenshots supplied by the site owner",
+  "limitations": [
+    "Search tool, geography, date range and volume definition are not shown. Volumes are unverified screenshot values, not confirmed monthly demand.",
+    "Four keywords are truncated. Preserve the visible text; obtain the original export before targeting their full phrases.",
+    "Ranked domains are discovery leads, not proof of game identity or factual accuracy."
+  ],
+  "keywords": [
+    {
+      "rank": 1,
+      "keyword": "moon sweepers",
+      "reportedVolume": 534400,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "primary",
+      "editorialNote": "Brand and game overview."
+    },
+    {
+      "rank": 2,
+      "keyword": "moon sweepers game",
+      "reportedVolume": 24000,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "primary",
+      "editorialNote": "Brand and game overview."
+    },
+    {
+      "rank": 3,
+      "keyword": "moonsweepers",
+      "reportedVolume": 16800,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "primary",
+      "editorialNote": "Brand and game overview."
+    },
+    {
+      "rank": 4,
+      "keyword": "moon sweepers mods",
+      "reportedVolume": 11400,
+      "complete": true,
+      "assignedRoute": "/mods",
+      "role": "primary",
+      "editorialNote": "Community mod list with author pages, requirements and compatibility notes; no detail routes."
+    },
+    {
+      "rank": 5,
+      "keyword": "moon sweepers packager",
+      "reportedVolume": 9700,
+      "complete": true,
+      "assignedRoute": "/guides/how-to-use-packager",
+      "role": "primary",
+      "editorialNote": "Setup and troubleshooting; link to machine specs."
+    },
+    {
+      "rank": 6,
+      "keyword": "moon sweepers trainer",
+      "reportedVolume": 9500,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-research",
+      "editorialNote": "Trainer and cheat queries require separate verified research; no unsupported download promises or generic filler."
+    },
+    {
+      "rank": 7,
+      "keyword": "moon sweepers free",
+      "reportedVolume": 8400,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 8,
+      "keyword": "moon sweepers скачать",
+      "reportedVolume": 7600,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 9,
+      "keyword": "moon sweepers key",
+      "reportedVolume": 7000,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 10,
+      "keyword": "moon sweepers guide",
+      "reportedVolume": 6000,
+      "complete": true,
+      "assignedRoute": "/guides",
+      "role": "primary",
+      "editorialNote": "Broad guide query belongs to the guide hub; beginner intent belongs to the first-delivery article."
+    },
+    {
+      "rank": 11,
+      "keyword": "moon sweepers cheat",
+      "reportedVolume": 5200,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-research",
+      "editorialNote": "Trainer and cheat queries require separate verified research; no unsupported download promises or generic filler."
+    },
+    {
+      "rank": 12,
+      "keyword": "moon sweepers torrent",
+      "reportedVolume": 5200,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 13,
+      "keyword": "moon sweepers cheats",
+      "reportedVolume": 5000,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-research",
+      "editorialNote": "Trainer and cheat queries require separate verified research; no unsupported download promises or generic filler."
+    },
+    {
+      "rank": 14,
+      "keyword": "moon sweepers cheat engine",
+      "reportedVolume": 4800,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-research",
+      "editorialNote": "Trainer and cheat queries require separate verified research; no unsupported download promises or generic filler."
+    },
+    {
+      "rank": 15,
+      "keyword": "moon sweepers steam",
+      "reportedVolume": 4700,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 16,
+      "keyword": "moon sweepers online fix",
+      "reportedVolume": 4200,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 17,
+      "keyword": "moon sweepers roblox",
+      "reportedVolume": 3800,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "identity-check-required",
+      "editorialNote": "Verify whether the query refers to the same game before targeting Roblox."
+    },
+    {
+      "rank": 18,
+      "keyword": "moon sweepers ps5",
+      "reportedVolume": 3800,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 19,
+      "keyword": "moon sweepers download",
+      "reportedVolume": 3800,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 20,
+      "keyword": "moon sweepers indir",
+      "reportedVolume": 3400,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 21,
+      "keyword": "moon sweepers wiki",
+      "reportedVolume": 3300,
+      "complete": true,
+      "assignedRoute": "/wiki",
+      "role": "primary",
+      "editorialNote": "Wiki hub."
+    },
+    {
+      "rank": 22,
+      "keyword": "moon sweepers tips",
+      "reportedVolume": 3200,
+      "complete": true,
+      "assignedRoute": "/guides/beginners-guide",
+      "role": "primary",
+      "editorialNote": "Guide, tips and walkthrough cluster."
+    },
+    {
+      "rank": 23,
+      "keyword": "moon sweepers mac",
+      "reportedVolume": 3100,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 24,
+      "keyword": "moon sweepers steam key",
+      "reportedVolume": 3100,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 25,
+      "keyword": "steam moon sweepers",
+      "reportedVolume": 3000,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 26,
+      "keyword": "moon sweepers speedrun",
+      "reportedVolume": 2900,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-topic",
+      "editorialNote": "Speedrun requires a versioned route, rules and timed evidence."
+    },
+    {
+      "rank": 27,
+      "keyword": "moon sweepers reddit",
+      "reportedVolume": 2800,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "external-navigation-intent",
+      "editorialNote": "Contextual official/community links if verified; do not create thin Reddit or SteamDB pages."
+    },
+    {
+      "rank": 28,
+      "keyword": "moon sweepers crack",
+      "reportedVolume": 2800,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 29,
+      "keyword": "moon sweepers steinpresse upgra...",
+      "reportedVolume": 2700,
+      "complete": false,
+      "assignedRoute": "/wiki/machines/stone-press",
+      "role": "research-required",
+      "editorialNote": "Truncated German phrase; do not invent its full wording or add an English-only doorway page."
+    },
+    {
+      "rank": 30,
+      "keyword": "moon sweepers joonas",
+      "reportedVolume": 2500,
+      "complete": true,
+      "assignedRoute": "/wiki/joonas-robots/joonas",
+      "role": "primary",
+      "editorialNote": "Joonas stats and behavior; production guide covers integration."
+    },
+    {
+      "rank": 31,
+      "keyword": "moon sweepers map",
+      "reportedVolume": 2400,
+      "complete": true,
+      "assignedRoute": "/map",
+      "role": "primary",
+      "editorialNote": "Interactive map and flag locations."
+    },
+    {
+      "rank": 32,
+      "keyword": "moon sweepers mod",
+      "reportedVolume": 2400,
+      "complete": true,
+      "assignedRoute": "/mods",
+      "role": "secondary",
+      "editorialNote": "Community mod list with author pages, requirements and compatibility notes; no detail routes."
+    },
+    {
+      "rank": 33,
+      "keyword": "moon sweepers walkthrough",
+      "reportedVolume": 2400,
+      "complete": true,
+      "assignedRoute": "/guides/beginners-guide",
+      "role": "primary",
+      "editorialNote": "Guide, tips and walkthrough cluster."
+    },
+    {
+      "rank": 34,
+      "keyword": "moon sweepers save file",
+      "reportedVolume": 2400,
+      "complete": true,
+      "assignedRoute": "/guides/save-recovery-guide",
+      "role": "primary",
+      "editorialNote": "Save location, backups and recovery."
+    },
+    {
+      "rank": 35,
+      "keyword": "moon sweepers cracked",
+      "reportedVolume": 2400,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 36,
+      "keyword": "efficient moon sweepers production",
+      "reportedVolume": 2200,
+      "complete": true,
+      "assignedRoute": "/guides/automation-guide",
+      "role": "primary",
+      "editorialNote": "Production and base planning."
+    },
+    {
+      "rank": 37,
+      "keyword": "moonsweepers trainer",
+      "reportedVolume": 2200,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-research",
+      "editorialNote": "Trainer and cheat queries require separate verified research; no unsupported download promises or generic filler."
+    },
+    {
+      "rank": 38,
+      "keyword": "play moon sweepers",
+      "reportedVolume": 2100,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "primary",
+      "editorialNote": "Brand and game overview."
+    },
+    {
+      "rank": 39,
+      "keyword": "how does the stone press work in ...",
+      "reportedVolume": 2000,
+      "complete": false,
+      "assignedRoute": "/guides/automation-guide",
+      "role": "pending-full-keyword",
+      "editorialNote": "Visible fragment only; Stone Press how-to section."
+    },
+    {
+      "rank": 40,
+      "keyword": "moon sweepers steamdb",
+      "reportedVolume": 1900,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "external-navigation-intent",
+      "editorialNote": "Contextual official/community links if verified; do not create thin Reddit or SteamDB pages."
+    },
+    {
+      "rank": 41,
+      "keyword": "moon sweepers flags",
+      "reportedVolume": 1900,
+      "complete": true,
+      "assignedRoute": "/map",
+      "role": "primary",
+      "editorialNote": "Interactive map and flag locations."
+    },
+    {
+      "rank": 42,
+      "keyword": "moon sweepers xbox",
+      "reportedVolume": 1800,
+      "complete": true,
+      "assignedRoute": "/",
+      "role": "supporting-faq-research-required",
+      "editorialNote": "Official purchase/download and platform FAQs only after primary-source verification; no unsupported availability, price or free/demo claims."
+    },
+    {
+      "rank": 43,
+      "keyword": "moon sweepers free download",
+      "reportedVolume": 1800,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 44,
+      "keyword": "moon sweepers skachat",
+      "reportedVolume": 1700,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 45,
+      "keyword": "moon sweepers igg",
+      "reportedVolume": 1700,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 46,
+      "keyword": "moon sweepers скачать онлайн",
+      "reportedVolume": 1600,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 47,
+      "keyword": "moon sweepers calculator",
+      "reportedVolume": 1600,
+      "complete": true,
+      "assignedRoute": "/tools",
+      "role": "primary",
+      "editorialNote": "Calculator hub; child calculators target their own function."
+    },
+    {
+      "rank": 48,
+      "keyword": "moon sweepers game3rb",
+      "reportedVolume": 1600,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 49,
+      "keyword": "moon sweepers freetp",
+      "reportedVolume": 1500,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 50,
+      "keyword": "moon sweepers full download",
+      "reportedVolume": 1500,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 51,
+      "keyword": "moon sweepers upgrade",
+      "reportedVolume": 1500,
+      "complete": true,
+      "assignedRoute": "/tools/upgrade-matrix",
+      "role": "primary",
+      "editorialNote": "Upgrade progression; cost intent links to upgrade calculator."
+    },
+    {
+      "rank": 52,
+      "keyword": "is moon sweepers multiplayer",
+      "reportedVolume": 1500,
+      "complete": true,
+      "assignedRoute": "/guides/beginners-guide",
+      "role": "supporting-section",
+      "editorialNote": "Dedicated multiplayer H2 and concise setup basics, not a token keyword mention."
+    },
+    {
+      "rank": 53,
+      "keyword": "moon sweepers skidrow",
+      "reportedVolume": 1500,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 54,
+      "keyword": "moon sweepers steamrip",
+      "reportedVolume": 1400,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 55,
+      "keyword": "best cleaning games like moon sw...",
+      "reportedVolume": 1400,
+      "complete": false,
+      "assignedRoute": null,
+      "role": "deferred-topic",
+      "editorialNote": "Review and similar-games topics need first-hand evidence; the comparison phrase is also truncated."
+    },
+    {
+      "rank": 56,
+      "keyword": "moon sweepers hidden achieveme...",
+      "reportedVolume": 1400,
+      "complete": false,
+      "assignedRoute": "/wiki/achievements",
+      "role": "pending-full-keyword",
+      "editorialNote": "Hidden achievement section; verify complete phrase and relevant game."
+    },
+    {
+      "rank": 57,
+      "keyword": "moon sweepers review",
+      "reportedVolume": 1400,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "deferred-topic",
+      "editorialNote": "Review and similar-games topics need first-hand evidence; the comparison phrase is also truncated."
+    },
+    {
+      "rank": 58,
+      "keyword": "moon sweepers fitgirl",
+      "reportedVolume": 1400,
+      "complete": true,
+      "assignedRoute": null,
+      "role": "not-targeted",
+      "editorialNote": "Download/mirror/repack intent is not satisfied by a fan wiki; record the terms without adding irrelevant headings or file-download pages."
+    },
+    {
+      "rank": 59,
+      "keyword": "moon sweepers stone press",
+      "reportedVolume": 1400,
+      "complete": true,
+      "assignedRoute": "/wiki/machines/stone-press",
+      "role": "primary",
+      "editorialNote": "Machine specs; how-to belongs to production guide."
+    },
+    {
+      "rank": 60,
+      "keyword": "moon sweepers bases",
+      "reportedVolume": 1300,
+      "complete": true,
+      "assignedRoute": "/wiki/buildings",
+      "role": "primary",
+      "editorialNote": "Base pieces, prices and placement live in Buildings; production layouts are supporting context in the production guide."
+    }
+  ],
+  "recommendedGuides": [
+    {
+      "route": "/guides/beginners-guide",
+      "title": "Moon Sweepers Beginner Guide: First Delivery & Upgrades",
+      "primaryKeywords": [
+        "moon sweepers guide",
+        "moon sweepers tips",
+        "moon sweepers walkthrough"
+      ],
+      "coverage": [
+        "first dust delivery",
+        "early tools and upgrades",
+        "when to buy a vehicle",
+        "is Moon Sweepers multiplayer"
+      ],
+      "mergeFrom": [
+        "best-early-upgrades",
+        "carrying-capacity-guide",
+        "vehicle-upgrade-guide"
+      ],
+      "reason": "One practical progression guide; multiplayer eligibility can be answered without retaining a fifth overview."
+    },
+    {
+      "route": "/guides/how-to-use-packager",
+      "title": "How to Use the Packager in Moon Sweepers",
+      "primaryKeywords": [
+        "moon sweepers packager"
+      ],
+      "coverage": [
+        "placement and loading",
+        "belt-to-intake connection",
+        "why material is not moving",
+        "Packager versus Auto-Packer"
+      ],
+      "mergeFrom": [
+        "conveyor-belt-guide",
+        "relevant Packager troubleshooting"
+      ],
+      "reason": "High-volume equipment query with actionable setup intent; machine wiki retains specification lookup intent."
+    },
+    {
+      "route": "/guides/automation-guide",
+      "title": "Moon Sweepers Production Guide: Sand, Stone & Power",
+      "primaryKeywords": [
+        "efficient moon sweepers production"
+      ],
+      "secondaryKeywords": [
+        "how does the stone press work in ...",
+        "moon sweepers bases"
+      ],
+      "coverage": [
+        "dust and sand feed balance",
+        "Stone Press operation",
+        "production bottlenecks",
+        "solar power and night storage",
+        "robot supply and catcher connections"
+      ],
+      "mergeFrom": [
+        "pressure-chamber-guide",
+        "stone-press-guide",
+        "solar-power-guide",
+        "night-power-planning",
+        "joonas-capsule-delivery",
+        "relevant machine-troubleshooting sections"
+      ],
+      "reason": "Combine connected factory tasks; /automation remains removed. This is an existing Guides article, not a revived Automation section."
+    },
+    {
+      "route": "/guides/save-recovery-guide",
+      "title": "Moon Sweepers Save File Location & Backup Guide",
+      "primaryKeywords": [
+        "moon sweepers save file"
+      ],
+      "coverage": [
+        "verified save and backup locations",
+        "safe backup steps",
+        "host versus guest saves",
+        "restore a backup without overwriting the only copy"
+      ],
+      "mergeFrom": [
+        "relevant save-related crash recovery content"
+      ],
+      "reason": "Specific troubleshooting intent, little overlap with the surviving wiki and tools sections."
+    }
+  ],
+  "implementationNotes": [
+    "Retain four guide routes; do not revive /automation.",
+    "Use stable guide slugs in homepage cards and related links when reducing the collection.",
+    "Merge useful sections before removing old articles. Redirect only when the replacement genuinely covers the old intent.",
+    "Preserve equipment parameters in wiki and arithmetic in Tools; guides focus on completing a task.",
+    "Do not claim that fewer pages alone improves rankings."
+  ],
+  "editorialReference": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+  "implementedAt": "2026-11-05",
+  "guideRoutes": [
+    "/guides/beginners-guide",
+    "/guides/how-to-use-packager",
+    "/guides/automation-guide",
+    "/guides/save-recovery-guide"
+  ],
+  "legacyGuideHandling": "13 relevant permanent redirects; PC performance article removed without an unrelated redirect.",
+  "hubPageCopy": {
+    "/": {
+      "primaryKeywords": [
+        "moon sweepers",
+        "moon sweepers game",
+        "moonsweepers"
+      ],
+      "intent": "Game overview and next-step navigation",
+      "homeStructure": "Quick links follow navigation; Machines and Achievements sit within Wiki. Tools use current catalog names, Mods link to list anchors, Map has a dedicated entry, and patches are distinguished from plans."
+    },
+    "/wiki": {
+      "primaryKeywords": [
+        "moon sweepers wiki",
+        "moon sweepers vehicles",
+        "moon sweepers cleaning tools"
+      ],
+      "intent": "Equipment specifications and game reference"
+    },
+    "/tools": {
+      "primaryKeywords": [
+        "moon sweepers calculator",
+        "moon sweepers tools"
+      ],
+      "intent": "Sale income and upgrade budget calculations"
+    },
+    "/map": {
+      "primaryKeywords": [
+        "moon sweepers map",
+        "moon sweepers flags",
+        "moon sweepers interactive map"
+      ],
+      "intent": "Flag and lunar-site coordinates, rewards and visit tracking"
+    }
+  },
+  "wikiPageCopy": {
+    "reviewedAt": "2026-11-05",
+    "scope": "Seven category pages and 46 equipment, vehicle-upgrade and achievement pages.",
+    "allocation": {
+      "categories": "Equipment comparison, prices and selection; avoid the broad Wiki hub query.",
+      "details": "Named equipment, specifications, capacities and purchase conditions.",
+      "packager": "Wiki owns price, storage and connections; Guides owns setup and troubleshooting.",
+      "stone-press": "Wiki owns recipe, power and output; Guides owns production-line design.",
+      "joonas": "Robot category compares all three robots; Joonas detail owns named robot parameters and delivery.",
+      "achievements": "Achievement unlocks and hidden condition; Map owns flags and exploration coordinates.",
+      "vehicle-upgrades": "Individual garage upgrades stay separate from crew-wide matrix planning in Tools."
+    },
+    "copySources": [
+      "src/data/editorial/wiki-copy.json",
+      "src/data/editorial/wiki-categories.json",
+      "src/seo/tdk.js"
+    ]
+  },
+  "toolPageCopy": {
+    "reviewedAt": "2026-11-05",
+    "h1Policy": "Keep the four short tool names; describe the task in the intro and search metadata.",
+    "allocation": {
+      "selling-and-income": {
+        "primaryKeywords": [
+          "moon sweepers selling and income",
+          "moon sweepers material prices"
+        ],
+        "intent": "Material sale rules, payout bonuses and processing value added"
+      },
+      "income-calculator": {
+        "primaryKeywords": [
+          "moon sweepers income calculator"
+        ],
+        "intent": "Calculate delivery payouts, full-container value and region rewards"
+      },
+      "upgrade-matrix": {
+        "primaryKeywords": [
+          "moon sweepers upgrade matrix",
+          "moon sweepers upgrade tree",
+          "moon sweepers upgrade"
+        ],
+        "intent": "Explore crew upgrade paths, level effects and prerequisites"
+      },
+      "upgrade-calculator": {
+        "primaryKeywords": [
+          "moon sweepers upgrade calculator",
+          "moon sweepers upgrade cost"
+        ],
+        "intent": "Budget remaining purchases, prerequisites and eligible discounts"
+      }
+    },
+    "boundaries": [
+      "The Tools hub targets the broad calculator query; individual pages own specific tasks.",
+      "Income totals are not hourly forecasts.",
+      "Crew upgrade planning excludes vehicle garage upgrades.",
+      "No separate pages added for spelling variants or overlapping income queries."
+    ]
+  },
+  "updatesPageCopy": {
+    "reviewedAt": "2026-11-05",
+    "route": "/updates",
+    "intent": "Released patch changes, future plans and developer notes, displayed as separate lists.",
+    "keywords": [
+      "moon sweepers updates",
+      "moon sweepers patch notes"
+    ],
+    "legacyDetailUrls": "Known update URLs permanently redirect to matching list anchors; no detail pages in sitemap or search."
+  },
+  "guidePageCopy": {
+    "reviewedAt": "2026-11-05",
+    "hubIntent": "Help players choose among the four task-based guides; broad guide query.",
+    "articles": {
+      "beginners-guide": {
+        "h1": "Beginner Guide: Your First Delivery & Upgrades",
+        "keywords": [
+          "moon sweepers beginner guide",
+          "moon sweepers tips",
+          "moon sweepers walkthrough",
+          "is moon sweepers multiplayer"
+        ]
+      },
+      "how-to-use-packager": {
+        "h1": "How to Use the Packager",
+        "keywords": [
+          "moon sweepers packager",
+          "how to use the packager",
+          "moon sweepers packager not working"
+        ]
+      },
+      "automation-guide": {
+        "h1": "How to Build a Sand and Stone Production Line",
+        "keywords": [
+          "efficient moon sweepers production",
+          "how does the stone press work",
+          "moon sweepers production line"
+        ]
+      },
+      "save-recovery-guide": {
+        "h1": "Windows Save Files: Backups and Recovery",
+        "keywords": [
+          "moon sweepers save file",
+          "moon sweepers save location",
+          "moon sweepers backup"
+        ]
+      }
+    },
+    "boundaries": [
+      "Packager guide explains setup and troubleshooting; Wiki keeps equipment specifications.",
+      "Production guide explains flows and bottlenecks; machines keep individual recipes and power parameters.",
+      "Beginner guide covers initial choices; Tools calculates specific sale and purchase totals.",
+      "Save guide applies to Windows and preserves originals; no guarantee of successful recovery.",
+      "Map owns flag locations; buildings owns base equipment comparison."
+    ]
+  },
+  "modsPageCopy": {
+    "reviewedAt": "2026-11-05",
+    "route": "/mods",
+    "intent": "Choose community mods by function and check author requirements before downloading.",
+    "keywords": [
+      "moon sweepers mods",
+      "moon sweepers mod",
+      "moon sweepers mod loader"
+    ],
+    "scope": "One indexable list page; project entries link to local anchors and original author pages. No trainers, save-file downloads or unverified compatibility claims."
+  }
+}

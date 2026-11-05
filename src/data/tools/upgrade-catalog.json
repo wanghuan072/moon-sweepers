@@ -1,0 +1,734 @@
+[
+  {
+    "id": "collector-uplink",
+    "title": "Collector Uplink",
+    "branch": "Root",
+    "kind": "matrix",
+    "costs": [
+      0
+    ],
+    "effects": [
+      "Starting research connection"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/collector-uplink"
+  },
+  {
+    "id": "wide-heads",
+    "title": "Wide Heads",
+    "branch": "Cleaning",
+    "kind": "matrix",
+    "costs": [
+      40,
+      140,
+      400
+    ],
+    "effects": [
+      "+8% width",
+      "+16% width",
+      "+24% width"
+    ],
+    "requires": [
+      {
+        "id": "collector-uplink",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/wide-heads"
+  },
+  {
+    "id": "market-contracts",
+    "title": "Market Contracts",
+    "branch": "Economy",
+    "kind": "matrix",
+    "costs": [
+      120,
+      400,
+      1100
+    ],
+    "effects": [
+      "+6% payout",
+      "+12% payout",
+      "+18% payout"
+    ],
+    "requires": [
+      {
+        "id": "collector-uplink",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/market-contracts"
+  },
+  {
+    "id": "supplier-network",
+    "title": "Supplier Network",
+    "branch": "Economy",
+    "kind": "matrix",
+    "costs": [
+      250,
+      700
+    ],
+    "effects": [
+      "−5% tool/container prices",
+      "−10% tool/container prices"
+    ],
+    "requires": [
+      {
+        "id": "market-contracts",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/supplier-network"
+  },
+  {
+    "id": "dust-compactor",
+    "title": "Dust Compactor",
+    "branch": "Containers",
+    "kind": "matrix",
+    "costs": [
+      150,
+      450,
+      1200
+    ],
+    "effects": [
+      "+15% capacity",
+      "+30% capacity",
+      "+45% capacity"
+    ],
+    "requires": [],
+    "requiresAny": [
+      {
+        "id": "toothbrush-container",
+        "level": 1
+      },
+      {
+        "id": "nail-brush-container",
+        "level": 1
+      },
+      {
+        "id": "hand-brush-container",
+        "level": 1
+      },
+      {
+        "id": "household-broom-container",
+        "level": 1
+      },
+      {
+        "id": "wide-broom-container",
+        "level": 1
+      },
+      {
+        "id": "extra-wide-broom-container",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/dust-compactor"
+  },
+  {
+    "id": "auto-packer",
+    "title": "Auto-Packer",
+    "branch": "Containers",
+    "kind": "matrix",
+    "costs": [
+      2000
+    ],
+    "effects": [
+      "Full tool container packs a capsule at your feet"
+    ],
+    "requires": [
+      {
+        "id": "dust-compactor",
+        "level": 2
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/auto-packer"
+  },
+  {
+    "id": "lunar-exchange",
+    "title": "Lunar Exchange",
+    "branch": "Economy",
+    "kind": "matrix",
+    "costs": [
+      2500
+    ],
+    "effects": [
+      "+10% payout, additive with Market Contracts"
+    ],
+    "requires": [
+      {
+        "id": "market-contracts",
+        "level": 3
+      },
+      {
+        "id": "supplier-network",
+        "level": 2
+      },
+      {
+        "id": "region-bounty",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/lunar-exchange"
+  },
+  {
+    "id": "servo-stride",
+    "title": "Servo Stride",
+    "branch": "Suit",
+    "kind": "matrix",
+    "costs": [
+      50,
+      160,
+      450
+    ],
+    "effects": [
+      "+7% movement speed",
+      "+14% movement speed",
+      "+21% movement speed"
+    ],
+    "requires": [
+      {
+        "id": "collector-uplink",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/servo-stride"
+  },
+  {
+    "id": "rapid-transfer",
+    "title": "Rapid Transfer",
+    "branch": "Logistics",
+    "kind": "matrix",
+    "costs": [
+      30,
+      100,
+      300
+    ],
+    "effects": [
+      "−25% deposit time",
+      "−44% deposit time",
+      "−58% deposit time"
+    ],
+    "requires": [
+      {
+        "id": "collector-uplink",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/rapid-transfer"
+  },
+  {
+    "id": "capsule-tether",
+    "title": "Capsule Tether",
+    "branch": "Logistics",
+    "kind": "matrix",
+    "costs": [
+      60,
+      200
+    ],
+    "effects": [
+      "+1.5 m capsule reach",
+      "+3 m capsule reach"
+    ],
+    "requires": [
+      {
+        "id": "rapid-transfer",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/capsule-tether"
+  },
+  {
+    "id": "lunar-leap",
+    "title": "Lunar Leap",
+    "branch": "Suit",
+    "kind": "matrix",
+    "costs": [
+      80,
+      250
+    ],
+    "effects": [
+      "+20% jump height",
+      "+40% jump height"
+    ],
+    "requires": [
+      {
+        "id": "servo-stride",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/lunar-leap"
+  },
+  {
+    "id": "long-reach",
+    "title": "Long Reach",
+    "branch": "Cleaning",
+    "kind": "matrix",
+    "costs": [
+      70,
+      220
+    ],
+    "effects": [
+      "+0.75 m reach",
+      "+1.5 m reach"
+    ],
+    "requires": [
+      {
+        "id": "wide-heads",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/long-reach"
+  },
+  {
+    "id": "deep-heads",
+    "title": "Deep Heads",
+    "branch": "Cleaning",
+    "kind": "matrix",
+    "costs": [
+      90,
+      280
+    ],
+    "effects": [
+      "+12% cleaning depth",
+      "+24% cleaning depth"
+    ],
+    "requires": [
+      {
+        "id": "wide-heads",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/deep-heads"
+  },
+  {
+    "id": "region-bounty",
+    "title": "Region Bounty",
+    "branch": "Economy",
+    "kind": "matrix",
+    "costs": [
+      200,
+      600
+    ],
+    "effects": [
+      "+$15 per personally credited region",
+      "+$30 per personally credited region"
+    ],
+    "requires": [
+      {
+        "id": "market-contracts",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/region-bounty"
+  },
+  {
+    "id": "exo-frame",
+    "title": "Exo Frame",
+    "branch": "Suit",
+    "kind": "matrix",
+    "costs": [
+      1200
+    ],
+    "effects": [
+      "+8% speed and +15% jump"
+    ],
+    "requires": [
+      {
+        "id": "servo-stride",
+        "level": 3
+      },
+      {
+        "id": "lunar-leap",
+        "level": 2
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/exo-frame"
+  },
+  {
+    "id": "throw-assist",
+    "title": "Throw Assist",
+    "branch": "Logistics",
+    "kind": "matrix",
+    "costs": [
+      80,
+      240
+    ],
+    "effects": [
+      "+25% throw distance",
+      "+50% throw distance"
+    ],
+    "requires": [
+      {
+        "id": "capsule-tether",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/throw-assist"
+  },
+  {
+    "id": "surge-heads",
+    "title": "Surge Heads",
+    "branch": "Cleaning",
+    "kind": "matrix",
+    "costs": [
+      1500
+    ],
+    "effects": [
+      "+10% width/depth and +0.5 m reach"
+    ],
+    "requires": [
+      {
+        "id": "wide-heads",
+        "level": 3
+      },
+      {
+        "id": "deep-heads",
+        "level": 2
+      },
+      {
+        "id": "long-reach",
+        "level": 2
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/surge-heads"
+  },
+  {
+    "id": "express-dock",
+    "title": "Express Dock",
+    "branch": "Logistics",
+    "kind": "matrix",
+    "costs": [
+      900
+    ],
+    "effects": [
+      "Deposit time halved again"
+    ],
+    "requires": [
+      {
+        "id": "rapid-transfer",
+        "level": 3
+      },
+      {
+        "id": "throw-assist",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/upgrade-matrix/express-dock"
+  },
+  {
+    "id": "toothbrush-container",
+    "title": "Toothbrush Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      5,
+      10,
+      20
+    ],
+    "effects": [
+      "1 kg capacity (2× base)",
+      "2 kg capacity (4× base)",
+      "4 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-toothbrush",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "toothbrush"
+  },
+  {
+    "id": "nail-brush-container",
+    "title": "Nail Brush Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      8,
+      15,
+      30
+    ],
+    "effects": [
+      "1.5 kg capacity (2× base)",
+      "3 kg capacity (4× base)",
+      "6 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-nail-brush",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "nail-brush"
+  },
+  {
+    "id": "hand-brush-container",
+    "title": "Hand Brush Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      10,
+      20,
+      40
+    ],
+    "effects": [
+      "2 kg capacity (2× base)",
+      "4 kg capacity (4× base)",
+      "8 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-hand-brush",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "hand-brush"
+  },
+  {
+    "id": "household-broom-container",
+    "title": "Household Broom Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      30,
+      60,
+      120
+    ],
+    "effects": [
+      "6 kg capacity (2× base)",
+      "12 kg capacity (4× base)",
+      "24 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-household-broom",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "household-broom"
+  },
+  {
+    "id": "wide-broom-container",
+    "title": "Wide Broom Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      60,
+      120,
+      240
+    ],
+    "effects": [
+      "12 kg capacity (2× base)",
+      "24 kg capacity (4× base)",
+      "48 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-wide-broom",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "wide-broom"
+  },
+  {
+    "id": "extra-wide-broom-container",
+    "title": "Extra Wide Broom Container",
+    "branch": "Containers",
+    "kind": "container",
+    "costs": [
+      120,
+      240,
+      480
+    ],
+    "effects": [
+      "24 kg capacity (2× base)",
+      "48 kg capacity (4× base)",
+      "96 kg capacity (8× base)"
+    ],
+    "requires": [
+      {
+        "id": "tool-extra-wide-broom",
+        "level": 1
+      }
+    ],
+    "source": "https://wikily.gg/moon-sweepers/containers",
+    "tool": "extra-wide-broom"
+  },
+  {
+    "id": "tool-toothbrush",
+    "title": "Toothbrush",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      0
+    ],
+    "effects": [
+      "0.5 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/toothbrush"
+  },
+  {
+    "id": "tool-nail-brush",
+    "title": "Nail Brush",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      5
+    ],
+    "effects": [
+      "0.75 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/nail-brush"
+  },
+  {
+    "id": "tool-hand-brush",
+    "title": "Hand Brush",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      10
+    ],
+    "effects": [
+      "1 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/hand-brush"
+  },
+  {
+    "id": "tool-household-broom",
+    "title": "Household Broom",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      25
+    ],
+    "effects": [
+      "3 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/household-broom"
+  },
+  {
+    "id": "tool-wide-broom",
+    "title": "Wide Broom",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      75
+    ],
+    "effects": [
+      "6 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/wide-broom"
+  },
+  {
+    "id": "tool-extra-wide-broom",
+    "title": "Extra Wide Broom",
+    "branch": "Cleaning Tools",
+    "kind": "tool",
+    "costs": [
+      150
+    ],
+    "effects": [
+      "12 kg base container"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/cleaning-tools/extra-wide-broom"
+  },
+  {
+    "id": "tool-belt",
+    "title": "Tool Belt",
+    "branch": "Suit Gear",
+    "kind": "gear",
+    "costs": [
+      15,
+      60,
+      180,
+      450,
+      1200
+    ],
+    "effects": [
+      "2 quick slots",
+      "3 quick slots",
+      "4 quick slots",
+      "5 quick slots",
+      "6 quick slots"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/suit-gear"
+  },
+  {
+    "id": "forward-jetpack",
+    "title": "Forward Jetpack",
+    "branch": "Suit Gear",
+    "kind": "gear",
+    "costs": [
+      300,
+      900,
+      2200
+    ],
+    "effects": [
+      "2 boosts/jump",
+      "3 boosts/jump",
+      "4 boosts/jump"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/suit-gear"
+  },
+  {
+    "id": "gravity-boots",
+    "title": "Gravity Boots",
+    "branch": "Suit Gear",
+    "kind": "gear",
+    "costs": [
+      250
+    ],
+    "effects": [
+      "Toggle Earth-like gravity"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/suit-gear"
+  },
+  {
+    "id": "helmet-lamp",
+    "title": "Helmet Lamp",
+    "branch": "Suit Gear",
+    "kind": "gear",
+    "costs": [
+      60,
+      180,
+      500,
+      1300
+    ],
+    "effects": [
+      "15 m beam",
+      "21 m beam",
+      "29 m beam",
+      "40 m beam"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/suit-gear"
+  },
+  {
+    "id": "night-vision",
+    "title": "Night Vision Goggles",
+    "branch": "Suit Gear",
+    "kind": "gear",
+    "costs": [
+      350
+    ],
+    "effects": [
+      "Night visibility on the lamp cycle"
+    ],
+    "requires": [],
+    "source": "https://wikily.gg/moon-sweepers/suit-gear"
+  }
+]

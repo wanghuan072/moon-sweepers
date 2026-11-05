@@ -1,0 +1,6 @@
+import { Trophy, BookOpen, Settings, Network, Calculator, Compass, Home, Megaphone, Box, Truck, ChevronsUp, Layers, Brush, ArrowRight, ChevronRight, Search, Menu, X, Coins, Rocket, GitCompareArrows, Package, GitFork, ArrowRightLeft, Factory, BatteryCharging, CircleDot, ShieldCheck, ExternalLink, Clock, Check, RotateCcw } from 'lucide-react';
+const icons = { trophy:Trophy, book: BookOpen, gear: Settings, network: Network, calculator: Calculator, compass: Compass, home: Home, megaphone: Megaphone, box: Box, truck: Truck, upgrade: ChevronsUp, layers: Layers, brush: Brush, arrow: ArrowRight, chevron: ChevronRight, search: Search, menu: Menu, close: X, coins: Coins, rocket: Rocket, compare: GitCompareArrows, packager: Package, splitter: GitFork, 'conveyor-belt': ArrowRightLeft, 'pressure-chamber': Factory, merger: Network, 'stone-press': Layers, 'capsule-catcher': CircleDot, garage: Truck, 'solar-tracker': BatteryCharging, verified: ShieldCheck, external: ExternalLink, clock: Clock, check: Check, reset: RotateCcw };
+export default function Icon({ name, size = 22, className }: { name: string; size?: number; className?: string }) {
+  const Component = icons[name as keyof typeof icons] || BookOpen;
+  return <Component size={size} strokeWidth={1.8} aria-hidden="true" className={className} />;
+}

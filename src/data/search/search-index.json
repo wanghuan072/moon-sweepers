@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Packager",
+    "description": "Move dust from your hand tool onto a conveyor. Check the $100 price, 100 kg storage and belt connection; this building is separate from the Auto-Packer upgrade.",
+    "kind": "machines",
+    "href": "/wiki/machines/packager"
+  },
+  {
+    "title": "Splitter",
+    "description": "Split one capsule feed between two branches. Use the $5 Splitter to keep a raw-dust route available when another branch feeds a Pressure Chamber.",
+    "kind": "machines",
+    "href": "/wiki/machines/splitter"
+  },
+  {
+    "title": "Conveyor Belt",
+    "description": "Connect tools, machines and the station intake with a belt. Check the price per metre, travel direction and capsule spacing before extending your route.",
+    "kind": "machines",
+    "href": "/wiki/machines/conveyor-belt"
+  },
+  {
+    "title": "Pressure Chamber",
+    "description": "Convert dust into sand without changing its weight. Allow 10 kW of power and a clear outgoing belt, then check batch sizes before adding another chamber.",
+    "kind": "machines",
+    "href": "/wiki/machines/pressure-chamber"
+  },
+  {
+    "title": "Merger",
+    "description": "Join two feeds with a $5 Merger that alternates between inputs. Both share one exit, so check the outgoing belt before adding more capsules upstream.",
+    "kind": "machines",
+    "href": "/wiki/machines/merger"
+  },
+  {
+    "title": "Stone Press",
+    "description": "Feed both raw dust and sand to make stone blocks. Plan for 18 kW of power, a six-second recipe cycle and space on the output belt before adding another press.",
+    "kind": "machines",
+    "href": "/wiki/machines/stone-press"
+  },
+  {
+    "title": "Capsule Catcher",
+    "description": "Receive J.O.O.N.A.S. deliveries in a 100 kg store. Keep the belt draining and check how nearby catchers share incoming capsules before expanding your robot fleet.",
+    "kind": "machines",
+    "href": "/wiki/machines/capsule-catcher"
+  },
+  {
+    "title": "Garage",
+    "description": "Buy, recall and unload vehicles at the Garage. Check its $200 price and 6,000 kg silo, then connect a belt destination that can keep up with returning sweepers.",
+    "kind": "machines",
+    "href": "/wiki/machines/garage"
+  },
+  {
+    "title": "Solar Tracker (L)",
+    "description": "Generate up to 16 kW in sunlight with a panel that follows the Sun. Check battery storage and connected demand before relying on it through the lunar night.",
+    "kind": "machines",
+    "href": "/wiki/machines/solar-tracker"
+  },
+  {
+    "title": "Solar Post (S)",
+    "description": "Supply nearby equipment with a $75 fixed panel rated at 3 kW in full sun. Face it toward the Sun and keep consumers within 16 m; this panel has no battery.",
+    "kind": "machines",
+    "href": "/wiki/machines/solar-post"
+  },
+  {
+    "title": "Solar Twin (M)",
+    "description": "The $150 Solar Twin supplies up to 7.5 kW and stores 4 kWh. Face it toward the Sun and check the load within its 24 m range before leaving it to run at night.",
+    "kind": "machines",
+    "href": "/wiki/machines/solar-twin"
+  },
+  {
+    "title": "Beginner Guide: Your First Delivery & Upgrades",
+    "description": "Start with a short dust run, make your first sale and decide what to buy next. Learn when more capacity, a better tool or a vehicle will help, and how purchases work when you share a Moon with friends.",
+    "kind": "guides",
+    "href": "/guides/beginners-guide"
+  },
+  {
+    "title": "How to Use the Packager",
+    "description": "Get dust from your hand tool to a station without carrying every load back. Build a short Packager route, test the first delivery and follow the checks for capsules that stop moving or never reach the intake.",
+    "kind": "guides",
+    "href": "/guides/how-to-use-packager"
+  },
+  {
+    "title": "How to Build a Sand and Stone Production Line",
+    "description": "Add processing to a delivery route that already works. Feed dust and sand to the right machines, leave room on the output belt and plan enough solar power to keep the line running when sunlight changes.",
+    "kind": "guides",
+    "href": "/guides/automation-guide"
+  },
+  {
+    "title": "Windows Save Files: Backups and Recovery",
+    "description": "Find your Windows save slot and copy the world before changing any files. Check the host’s backups and game version, then work with a recovery copy while keeping the original world safe.",
+    "kind": "guides",
+    "href": "/guides/save-recovery-guide"
+  },
+  {
+    "title": "Toothbrush",
+    "description": "Your starting tool costs nothing and holds 0.5 kg of dust. Check its narrow sweep and container upgrades before deciding when to buy a brush.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/toothbrush"
+  },
+  {
+    "title": "Building Tool",
+    "description": "Open the build menu to place equipment or rearrange your base. Check the $50 tool price, move controls and refund rules before relocating a production line.",
+    "kind": "wiki",
+    "href": "/wiki/buildings/building-tool"
+  },
+  {
+    "title": "Night Vision Goggles",
+    "description": "Keep the ground visible during lunar darkness. Check the $350 unlock and how to select night vision through the N-key lighting cycle.",
+    "kind": "wiki",
+    "href": "/wiki/suit-gear/night-vision"
+  },
+  {
+    "title": "Toothbrush Container",
+    "description": "Keep using your starting tool for longer between unloads. Compare container levels that raise its base 0.5 kg capacity to 4 kg before Dust Compactor bonuses.",
+    "kind": "wiki",
+    "href": "/wiki/containers/toothbrush-container"
+  },
+  {
+    "title": "Nail Brush",
+    "description": "The $5 Nail Brush holds 0.75 kg and sweeps a wider strip than the Toothbrush. Compare its stroke time and container levels before buying.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/nail-brush"
+  },
+  {
+    "title": "Nail Brush Container",
+    "description": "Carry up to 6 kg with the Nail Brush before Dust Compactor bonuses. Check the three container purchases against the cost of moving to a larger cleaning tool.",
+    "kind": "wiki",
+    "href": "/wiki/containers/nail-brush-container"
+  },
+  {
+    "title": "Hand Brush",
+    "description": "At $10, the Hand Brush gives you a 1 kg base container and a 0.25 m sweep. Check the capacity upgrades if repeated delivery trips are slowing you down.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/hand-brush"
+  },
+  {
+    "title": "Hand Brush Container",
+    "description": "Raise the Hand Brush from 1 kg to 8 kg of dust storage before compaction bonuses. Compare each level's cost if delivery trips are interrupting your cleaning.",
+    "kind": "wiki",
+    "href": "/wiki/containers/hand-brush-container"
+  },
+  {
+    "title": "Household Broom",
+    "description": "The Household Broom costs $25 and carries 3 kg before upgrades. Compare its sweep and stroke time with the smaller brushes before changing tools.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/household-broom"
+  },
+  {
+    "title": "Household Broom Container",
+    "description": "Give the Household Broom more time between deliveries with up to 24 kg of storage before compaction. Compare all three level prices and capacity gains.",
+    "kind": "wiki",
+    "href": "/wiki/containers/household-broom-container"
+  },
+  {
+    "title": "Wide Broom",
+    "description": "Sweep a 0.66 m strip and carry 6 kg with the $75 Wide Broom. Check its stroke time and upgraded capacity when planning longer runs between deliveries.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/wide-broom"
+  },
+  {
+    "title": "Wide Broom Container",
+    "description": "Expand the Wide Broom's storage from 6 kg to 48 kg before compaction bonuses. Compare the three purchase costs with how much you need to carry on your route.",
+    "kind": "wiki",
+    "href": "/wiki/containers/wide-broom-container"
+  },
+  {
+    "title": "Extra Wide Broom",
+    "description": "The $150 Extra Wide Broom covers 0.99 m per sweep and holds 12 kg before upgrades. Check container levels if you want to spend longer cleaning between unloads.",
+    "kind": "wiki",
+    "href": "/wiki/cleaning-tools/extra-wide-broom"
+  },
+  {
+    "title": "Extra Wide Broom Container",
+    "description": "Carry up to 96 kg in the Extra Wide Broom before Dust Compactor bonuses. Check the cost of each container level before committing to longer cleaning runs.",
+    "kind": "wiki",
+    "href": "/wiki/containers/extra-wide-broom-container"
+  },
+  {
+    "title": "Push Sweeper",
+    "description": "The $300 Push Sweeper carries 100 kg and cleans a 1.35 m strip before upgrades. Compare its travel speed and garage options when moving beyond hand tools.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/push-sweeper"
+  },
+  {
+    "title": "Ride-on Sweeper",
+    "description": "Carry 500 kg and clean a 1.98 m strip with the $1,000 Ride-on Sweeper. Check cruise speed, boost and upgrade costs before choosing it for your delivery route.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/ride-on-sweeper"
+  },
+  {
+    "title": "Crew Transport",
+    "description": "Move up to eight players in the $2,000 Crew Transport, with four capsule slots for cargo. It does not sweep dust, so choose it for travel rather than cleaning.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/crew-transport"
+  },
+  {
+    "title": "Lunar Sweeper",
+    "description": "The $2,500 Lunar Sweeper combines a 1,200 kg hopper with a 2.8 m cleaning width. Compare travel speeds and garage upgrades before planning a larger cleanup run.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/lunar-sweeper"
+  },
+  {
+    "title": "Mega Vacuum Rover",
+    "description": "Carry 3,000 kg and sweep a 3.7 m strip with the $6,000 Mega Vacuum Rover. Check its slower cruise speed against the capacity you gain before buying.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/mega-vacuum-rover"
+  },
+  {
+    "title": "Tool Belt",
+    "description": "Keep more tools within reach instead of switching through your inventory. Compare all five Tool Belt levels, their prices and the quick slots each adds.",
+    "kind": "wiki",
+    "href": "/wiki/suit-gear/tool-belt"
+  },
+  {
+    "title": "Forward Jetpack",
+    "description": "Use forward bursts to cover ground between cleaning jobs. Compare three upgrade levels and the boosts available per jump before budgeting for the next level.",
+    "kind": "wiki",
+    "href": "/wiki/suit-gear/forward-jetpack"
+  },
+  {
+    "title": "Gravity Boots",
+    "description": "Toggle Earth-like gravity when you want firmer movement on the Moon. Check the $250 purchase and how the toggle changes movement before equipping the boots.",
+    "kind": "wiki",
+    "href": "/wiki/suit-gear/gravity-boots"
+  },
+  {
+    "title": "Helmet Lamp",
+    "description": "Light the route ahead without placing lamps along it. Compare four Helmet Lamp levels, their prices and beam distances before working through the lunar night.",
+    "kind": "wiki",
+    "href": "/wiki/suit-gear/helmet-lamp"
+  },
+  {
+    "title": "Tuned Motors",
+    "description": "Increase your vehicle's speed and pull through three Tuned Motors levels. Compare prices for your own vehicle; buying an upgrade does not improve the whole fleet.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/tuned-motors"
+  },
+  {
+    "title": "Big Hopper",
+    "description": "Carry more dust before returning to unload. Compare the three Big Hopper levels and their prices for each cleaning vehicle; Crew Transport has no hopper upgrade.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/big-hopper"
+  },
+  {
+    "title": "Turbo Kit",
+    "description": "Raise boost speed to 150% or 165% of cruise speed with the two Turbo Kit levels. Check the price for your vehicle before spending on a faster delivery route.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/turbo-kit"
+  },
+  {
+    "title": "Cruise Control",
+    "description": "Keep moving without holding the accelerator. Check the single Cruise Control purchase for your vehicle, use C to toggle it and brake to release it.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/cruise-control"
+  },
+  {
+    "title": "Suction Control",
+    "description": "Trade travel speed for a wider cleaning strip. Compare three Suction Control levels and vehicle-specific prices before deciding how much width your route needs.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/suction-control"
+  },
+  {
+    "title": "Quick Release",
+    "description": "Spend less time unloading a full hopper. Compare the two Quick Release levels and prices for your cleaning vehicle before buying the next garage upgrade.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/quick-release"
+  },
+  {
+    "title": "Floodlights",
+    "description": "See more of the ground ahead while driving in darkness. Compare two Floodlights levels, their brightness and reach, and the cost for your own vehicle.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/floodlights"
+  },
+  {
+    "title": "Vehicle Tricks",
+    "description": "Land flips, rolls, spins and airtime cleanly to earn money. Check how combos work, what reaches the $25 cap and why a wipeout leaves you with no reward.",
+    "kind": "wiki",
+    "href": "/wiki/vehicles/vehicle-tricks"
+  },
+  {
+    "title": "Achievements",
+    "description": "Choose your next goal from 33 achievements. Filter by activity, look up progress counters and check the hidden conveyor-loop condition without searching every entry.",
+    "kind": "wiki",
+    "href": "/wiki/achievements"
+  },
+  {
+    "title": "Robot Vacuum Mk I",
+    "description": "Start local robot cleaning for $250. The Mk I covers 19 hexes around its dock; leave room on the outgoing belt and move the setup once that patch is clean.",
+    "kind": "wiki",
+    "href": "/wiki/joonas-robots/robot-vacuum-mk-i"
+  },
+  {
+    "title": "Robot Vacuum Mk II",
+    "description": "Cover 37 hexes with a 40 kg robot bin and a 300 kg dock. Check the $500 price and keep the outgoing belt clear so full storage does not stop the next run.",
+    "kind": "wiki",
+    "href": "/wiki/joonas-robots/robot-vacuum-mk-ii"
+  },
+  {
+    "title": "J.O.O.N.A.S.",
+    "description": "Send J.O.O.N.A.S. beyond a fixed dock area to clean across the Moon. Check the $20,000 price, 60 kg bin and capsule catcher delivery before building around it.",
+    "kind": "wiki",
+    "href": "/wiki/joonas-robots/joonas"
+  },
+  {
+    "title": "Update 1.1: December Plans",
+    "description": "A preview of the next major update. Planned, not released.",
+    "kind": "updates",
+    "href": "/updates#update-1-1-preview"
+  },
+  {
+    "title": "Patch 1.0.5: Building & Automation",
+    "description": "Move structures, build on dusty ground and improve capsule delivery.",
+    "kind": "updates",
+    "href": "/updates#patch-1-0-5"
+  },
+  {
+    "title": "Patch 1.0.4: Robots, Backups & Co-op",
+    "description": "Robot delivery improvements, night vision and automatic backups.",
+    "kind": "updates",
+    "href": "/updates#patch-1-0-4"
+  },
+  {
+    "title": "Patch 1.0.3: Shared Upgrades & Delivery",
+    "description": "Crew-wide upgrades, host controls and belt-fed deposit fixes.",
+    "kind": "updates",
+    "href": "/updates#patch-1-0-3"
+  },
+  {
+    "title": "A Message From the Developers",
+    "description": "The two-person team discusses launch issues, co-op fixes and automation priorities.",
+    "kind": "updates",
+    "href": "/updates#a-message-from-the-developers"
+  },
+  {
+    "title": "QuickStart",
+    "description": "Skip the intro and reopen your most recently played world as a solo session. You can return to the main menu afterward to change worlds or join friends.",
+    "kind": "mods",
+    "href": "/mods#quickstart"
+  },
+  {
+    "title": "Moon Sweepers QoL",
+    "description": "Add a purchasable Landmark Scanner to help find unraised flags and lunar sites. The plugin also adds progression options for belts, processors and robot vacuums.",
+    "kind": "mods",
+    "href": "/mods#moon-sweepers-qol"
+  },
+  {
+    "title": "No Pause On Lost Focus",
+    "description": "Keep movement from pausing when you switch to another window. Useful when checking a map or guide alongside the game.",
+    "kind": "mods",
+    "href": "/mods#no-pause-on-lost-focus"
+  },
+  {
+    "title": "Moon Performance",
+    "description": "Reduce repeated background work in larger bases, especially those using many J.O.O.N.A.S. robots. Check this option if late-game base activity is slowing a session.",
+    "kind": "mods",
+    "href": "/mods#moon-performance"
+  },
+  {
+    "title": "Moon Skimmer — Flying Vacuum Craft",
+    "description": "Add a garage-bought flying cleaner with hover, free flight, boost and a 500 kg base dust silo. The listed base purchase is $10,000.",
+    "kind": "mods",
+    "href": "/mods#moon-skimmer"
+  },
+  {
+    "title": "Mass Driver — Rocket Dust Logistics",
+    "description": "Move dust between a belt-fed launcher and a receiving building using rockets. The receiver returns the dust to a conveyor instead of selling it in flight.",
+    "kind": "mods",
+    "href": "/mods#mass-driver"
+  },
+  {
+    "title": "Living Sky",
+    "description": "Change the lunar sky with planets, stars, constellations and celestial events. Individual effects can be switched off in the plugin’s configuration.",
+    "kind": "mods",
+    "href": "/mods#living-sky"
+  },
+  {
+    "title": "Selling and Income",
+    "description": "Not sure whether to sell dust or process it first? Compare material prices, crew payout bonuses and region rewards, then check what sand and stone production adds to the value of your inputs.",
+    "kind": "tools",
+    "href": "/tools/selling-and-income"
+  },
+  {
+    "title": "Income Calculator",
+    "description": "Enter the dust, sand and stone you plan to deliver, then apply the bonuses your crew owns. You can also price full tool containers and calculate region rewards separately. These totals do not predict hourly earnings.",
+    "kind": "tools",
+    "href": "/tools/income-calculator"
+  },
+  {
+    "title": "Upgrade Matrix",
+    "description": "Find the upgrade you want and see what unlocks it. Drag or zoom the tree, then select a node to check level prices, effects and prerequisites. Use the planner below to budget for your chosen path.",
+    "kind": "tools",
+    "href": "/tools/upgrade-matrix"
+  },
+  {
+    "title": "Upgrade Calculator",
+    "description": "Choose what you already own and the levels you want next. Build a budget for matrix upgrades, tools, containers and suit gear, with missing prerequisites and eligible discounts included. Garage upgrades are separate.",
+    "kind": "tools",
+    "href": "/tools/upgrade-calculator"
+  }
+]

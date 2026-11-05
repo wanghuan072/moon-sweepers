@@ -1,0 +1,37 @@
+[
+  {
+    "id": "reference-map-albedo",
+    "originalUrl": "https://media.wikily.gg/e9728ebe-d60b-4f92-a559-a0425ac359aa/2026-10-29/8b92b765-08b4-466a-b3a1-c8d50462c959-interactive-map-moon-globe-albedo.webp",
+    "sourcePage": "https://wikily.gg/moon-sweepers/interactive-map",
+    "useScope": "Local development only; public reuse clearance pending",
+    "sha256": "d0066fc173d3a8c4d38723166d9638e7632a6349f6fe871a123dc18cae0a1705"
+  },
+  {
+    "id": "reference-map-normal",
+    "originalUrl": "https://media.wikily.gg/e9728ebe-d60b-4f92-a559-a0425ac359aa/2026-10-29/cf796f0a-24b6-4549-a34a-13d41f3e1b6e-interactive-map-moon-globe-normal.webp",
+    "sourcePage": "https://wikily.gg/moon-sweepers/interactive-map",
+    "useScope": "Local development only; public reuse clearance pending",
+    "sha256": "aa5ae16575776270ece168f6b4fd4d40533ea89c193f01427f764fddcdf2b580"
+  },
+  {
+    "id": "reference-map-station",
+    "originalUrl": "https://wikily.gg/api/map-icon.webp?src=https%3A%2F%2Fmedia.wikily.gg%2Fe9728ebe-d60b-4f92-a559-a0425ac359aa%2F2026-10-26%2Fff377b28-c00a-472a-8236-b76ad197db18-glyph-00.webp",
+    "sourcePage": "https://wikily.gg/moon-sweepers/interactive-map",
+    "useScope": "Local development only; public reuse clearance pending",
+    "sha256": "a56505807c96b4012c6f31c6e761844c61a40eab46c1043760ff7d5396eb1e17"
+  },
+  {
+    "id": "reference-map-site",
+    "originalUrl": "https://wikily.gg/api/map-icon.webp?src=https%3A%2F%2Fmedia.wikily.gg%2Fe9728ebe-d60b-4f92-a559-a0425ac359aa%2F2026-10-26%2F95a82315-4a40-4221-a2b3-7351855555d2-glyph-59.webp",
+    "sourcePage": "https://wikily.gg/moon-sweepers/interactive-map",
+    "useScope": "Local development only; public reuse clearance pending",
+    "sha256": "7258eca4e9afd2353e075c42dbe1a9fc89fba9e6954225a498f8dc98b37c702f"
+  },
+  {
+    "id": "reference-map-flag",
+    "originalUrl": "https://wikily.gg/api/map-icon.webp?src=https%3A%2F%2Fmedia.wikily.gg%2Fe9728ebe-d60b-4f92-a559-a0425ac359aa%2F2026-10-26%2F438d17cc-8091-47dd-8612-a85aa125f147-glyph-21.webp",
+    "sourcePage": "https://wikily.gg/moon-sweepers/interactive-map",
+    "useScope": "Local development only; public reuse clearance pending",
+    "sha256": "799835bab5bbb6870749d4fb528e3d178e35751f1292e7aa49a593a526fbe900"
+  }
+]

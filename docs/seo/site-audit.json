@@ -1,0 +1,32 @@
+{
+  "reviewedAt": "2026-11-05",
+  "indexablePages": 73,
+  "metadataPagesIncludingNoindexSearch": 74,
+  "detailPages": 50,
+  "fixed": [
+    "Removed repeated full guide introductions and unrelated equipment recommendations from detail templates.",
+    "Matched next-step links to each topic; vehicle costs link to garage upgrade comparisons and save recovery links to patch notes.",
+    "Replaced repeated tool and container body copy with capacity and purchase details specific to each tool.",
+    "Corrected Crew Transport hopper and garage-upgrade advice.",
+    "Removed duplicate related-link destinations and a map self-link.",
+    "Repaired the deleted Windows save URL in README.",
+    "Separated broad Wiki and calculator hub keywords from category and tool intents.",
+    "Added stable vehicle-upgrade and trick section anchors so cross-page links land on actual targets."
+  ],
+  "validation": [
+    "One H1 per rendered page; detail H1 matches the data name.",
+    "Rendered TDK matches source, with unique titles and descriptions and agreed character targets.",
+    "Canonical, Open Graph URL, article schema and sitemap route inventory agree.",
+    "Sitemap lastmod matches persistent content history; unchanged regeneration reports zero changes.",
+    "Cross-page anchors, search-index destinations, README internal URLs and concrete redirect targets resolve.",
+    "All 73 existing local pages returned 200 in the final sequential HTTP sweep.",
+    "Four search queries and four removed or unknown routes checked.",
+    "Lint, TypeScript build checks, 25 tests, production build and expanded site/SEO audits pass.",
+    "Representative vehicle, container and save pages checked in browser, including 390px layout."
+  ],
+  "limits": [
+    "Shared ownership, modifier and version notes remain where relevant; common rules are not rewritten merely to disguise repetition.",
+    "This audit does not verify every external download or re-test every game mechanic.",
+    "No deployment, remote changes or server restart performed."
+  ]
+}

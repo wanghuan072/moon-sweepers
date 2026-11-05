@@ -1,0 +1,34 @@
+{
+  "name": "moon-sweepers-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test src/lib/tools/calculators.test.ts src/lib/tools/tree-camera.test.ts src/lib/media/local-media-policy.test.ts tests/content.test.mjs tests/page-history.test.mjs",
+    "data": "node scripts/data/build-content.mjs && node scripts/seo/sync-content-dates.mjs",
+    "audit": "node scripts/audit/site.mjs && node scripts/audit/seo.mjs",
+    "prebuild": "node scripts/seo/sync-content-dates.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "16.4.4",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.187.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "16.4.4",
+    "sharp": "^0.34.0",
+    "typescript": "^5.9.0"
+  }
+}

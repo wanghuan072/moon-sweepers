@@ -1,0 +1,11 @@
+import sharp from 'sharp';
+import { mkdirSync } from 'node:fs';
+import { resolve } from 'node:path';
+const input = process.argv[2];
+if (!input) throw new Error('Pass the absolute path to the user-supplied UI reference PNG.');
+for (const dir of ['home', 'guides', 'common']) mkdirSync(`public/images/${dir}`, { recursive: true });
+await sharp(resolve(input)).extract({ left: 470, top: 65, width: 1066, height: 297 }).resize({ height: 450 }).extend({ left: 530, right: 0, top: 0, bottom: 0, background: '#0b1725' }).webp({ quality: 88 }).toFile('public/images/home/lunar-hero.webp');
+for (const [i, left] of [58, 318, 578].entries()) await sharp(resolve(input)).extract({ left, top: 499, width: 245, height: 73 }).resize(735, 219).webp({ quality: 85 }).toFile(`public/images/guides/editorial-${i + 1}.webp`);
+const title = Buffer.from('<svg width="1200" height="630"><rect width="1200" height="630" fill="#081521" fill-opacity=".6"/><text x="70" y="255" fill="#f3f7fc" font-family="Arial" font-size="78" font-weight="900">MOON SWEEPERS</text><text x="70" y="350" fill="#ffa329" font-family="Arial" font-size="70" font-weight="900">WIKI &amp; GUIDES</text><text x="75" y="415" fill="#c6dfef" font-family="Arial" font-size="24">Machines • Automation • Tools • Updates</text><text x="75" y="570" fill="#b1c9da" font-family="Arial" font-size="15">Independent fan resource / Concept illustration</text></svg>');
+await sharp('public/images/home/lunar-hero.webp').resize(1200, 630, { fit: 'cover', position: 'right' }).composite([{ input: title }]).webp({ quality: 85 }).toFile('public/images/common/social.webp');
+console.log('Prepared six labeled concept-art assets from the supplied UI reference.');

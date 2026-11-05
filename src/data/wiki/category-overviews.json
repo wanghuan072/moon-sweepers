@@ -1,0 +1,868 @@
+{
+  "cleaning-tools": {
+    "tables": [
+      {
+        "title": "Cleaning tools compared",
+        "columns": [
+          "Tool",
+          "Price",
+          "Base capacity",
+          "Container III",
+          "Width",
+          "Stroke"
+        ],
+        "rows": [
+          [
+            "Toothbrush",
+            "$0",
+            "0.5 kg",
+            "4 kg",
+            "0.12 m",
+            "0.42 s"
+          ],
+          [
+            "Nail Brush",
+            "$5",
+            "0.75 kg",
+            "6 kg",
+            "0.19 m",
+            "0.55 s"
+          ],
+          [
+            "Hand Brush",
+            "$10",
+            "1 kg",
+            "8 kg",
+            "0.25 m",
+            "0.65 s"
+          ],
+          [
+            "Household Broom",
+            "$25",
+            "3 kg",
+            "24 kg",
+            "0.44 m",
+            "0.86 s"
+          ],
+          [
+            "Wide Broom",
+            "$75",
+            "6 kg",
+            "48 kg",
+            "0.66 m",
+            "1 s"
+          ],
+          [
+            "Extra Wide Broom",
+            "$150",
+            "12 kg",
+            "96 kg",
+            "0.99 m",
+            "1.12 s"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/cleaning-tools",
+        "rowLinks": [
+          "/wiki/cleaning-tools/toothbrush",
+          "/wiki/cleaning-tools/nail-brush",
+          "/wiki/cleaning-tools/hand-brush",
+          "/wiki/cleaning-tools/household-broom",
+          "/wiki/cleaning-tools/wide-broom",
+          "/wiki/cleaning-tools/extra-wide-broom"
+        ]
+      }
+    ]
+  },
+  "vehicles": {
+    "tables": [
+      {
+        "title": "All garage vehicles",
+        "columns": [
+          "Vehicle",
+          "Price",
+          "Cruise",
+          "Boost",
+          "Cleaning width",
+          "Hopper",
+          "Capsule slots",
+          "Seats"
+        ],
+        "rows": [
+          [
+            "Push Sweeper",
+            "$300",
+            "2.8 m/s",
+            "3.78 m/s",
+            "1.35 m",
+            "100 kg",
+            "1",
+            "—"
+          ],
+          [
+            "Ride-on Sweeper",
+            "$1,000",
+            "7.2 m/s",
+            "9.72 m/s",
+            "1.98 m",
+            "500 kg",
+            "2",
+            "1"
+          ],
+          [
+            "Crew Transport",
+            "$2,000",
+            "7 m/s",
+            "9.45 m/s",
+            "—",
+            "—",
+            "4",
+            "8"
+          ],
+          [
+            "Lunar Sweeper",
+            "$2,500",
+            "6.5 m/s",
+            "8.78 m/s",
+            "2.8 m",
+            "1,200 kg",
+            "4",
+            "1"
+          ],
+          [
+            "Mega Vacuum Rover",
+            "$6,000",
+            "5 m/s",
+            "6.75 m/s",
+            "3.7 m",
+            "3,000 kg",
+            "6",
+            "1"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/vehicles",
+        "rowLinks": [
+          "/wiki/vehicles/push-sweeper",
+          "/wiki/vehicles/ride-on-sweeper",
+          "/wiki/vehicles/crew-transport",
+          "/wiki/vehicles/lunar-sweeper",
+          "/wiki/vehicles/mega-vacuum-rover"
+        ]
+      }
+    ]
+  },
+  "containers": {
+    "tables": [
+      {
+        "title": "Container Capacity by Upgrade Level",
+        "columns": [
+          "Container",
+          "Base",
+          "Level I",
+          "Level II",
+          "Level III"
+        ],
+        "rows": [
+          [
+            "Toothbrush",
+            "0.5 kg",
+            "1 kg",
+            "2 kg",
+            "4 kg"
+          ],
+          [
+            "Nail Brush",
+            "0.75 kg",
+            "1.5 kg",
+            "3 kg",
+            "6 kg"
+          ],
+          [
+            "Hand Brush",
+            "1 kg",
+            "2 kg",
+            "4 kg",
+            "8 kg"
+          ],
+          [
+            "Household Broom",
+            "3 kg",
+            "6 kg",
+            "12 kg",
+            "24 kg"
+          ],
+          [
+            "Wide Broom",
+            "6 kg",
+            "12 kg",
+            "24 kg",
+            "48 kg"
+          ],
+          [
+            "Extra Wide Broom",
+            "12 kg",
+            "24 kg",
+            "48 kg",
+            "96 kg"
+          ]
+        ],
+        "note": "Capacities before Dust Compactor modifiers.",
+        "source": "https://wikily.gg/moon-sweepers/containers"
+      },
+      {
+        "title": "Container Upgrade Prices",
+        "columns": [
+          "Container",
+          "Level I",
+          "Level II",
+          "Level III",
+          "Total"
+        ],
+        "rows": [
+          [
+            "Toothbrush",
+            "$5",
+            "$10",
+            "$20",
+            "$35"
+          ],
+          [
+            "Nail Brush",
+            "$8",
+            "$15",
+            "$30",
+            "$53"
+          ],
+          [
+            "Hand Brush",
+            "$10",
+            "$20",
+            "$40",
+            "$70"
+          ],
+          [
+            "Household Broom",
+            "$30",
+            "$60",
+            "$120",
+            "$210"
+          ],
+          [
+            "Wide Broom",
+            "$60",
+            "$120",
+            "$240",
+            "$420"
+          ],
+          [
+            "Extra Wide Broom",
+            "$120",
+            "$240",
+            "$480",
+            "$840"
+          ]
+        ],
+        "note": "Each level is a separate purchase. Supplier Network I and II reduce prices by 5% and 10%.",
+        "source": "https://wikily.gg/moon-sweepers/containers"
+      }
+    ]
+  },
+  "suit-gear": {
+    "tables": [
+      {
+        "title": "Night Vision Goggles: Every Level",
+        "columns": [
+          "Level",
+          "Level price",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "1",
+            "$350",
+            "Night visibility on the lamp cycle"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/suit-gear"
+      },
+      {
+        "title": "Tool Belt: Every Level",
+        "columns": [
+          "Level",
+          "Level price",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "1",
+            "$15",
+            "2 quick slots"
+          ],
+          [
+            "2",
+            "$60",
+            "3 quick slots"
+          ],
+          [
+            "3",
+            "$180",
+            "4 quick slots"
+          ],
+          [
+            "4",
+            "$450",
+            "5 quick slots"
+          ],
+          [
+            "5",
+            "$1,200",
+            "6 quick slots"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/suit-gear"
+      },
+      {
+        "title": "Forward Jetpack: Every Level",
+        "columns": [
+          "Level",
+          "Level price",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "1",
+            "$300",
+            "2 boosts/jump"
+          ],
+          [
+            "2",
+            "$900",
+            "3 boosts/jump"
+          ],
+          [
+            "3",
+            "$2,200",
+            "4 boosts/jump"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/suit-gear"
+      },
+      {
+        "title": "Gravity Boots: Every Level",
+        "columns": [
+          "Level",
+          "Level price",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "1",
+            "$250",
+            "Toggle Earth-like gravity"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/suit-gear"
+      },
+      {
+        "title": "Helmet Lamp: Every Level",
+        "columns": [
+          "Level",
+          "Level price",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "1",
+            "$60",
+            "15 m beam"
+          ],
+          [
+            "2",
+            "$180",
+            "21 m beam"
+          ],
+          [
+            "3",
+            "$500",
+            "29 m beam"
+          ],
+          [
+            "4",
+            "$1,300",
+            "40 m beam"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/suit-gear"
+      }
+    ]
+  },
+  "joonas-robots": {
+    "tables": [
+      {
+        "title": "Compare J.O.O.N.A.S. and Robot Vacuums",
+        "columns": [
+          "Robot",
+          "Price",
+          "Work area",
+          "Bin",
+          "Dock storage"
+        ],
+        "rows": [
+          [
+            "Robot Vacuum Mk I",
+            "$250",
+            "19 hexes / 2 rings",
+            "15 kg",
+            "100 kg"
+          ],
+          [
+            "Robot Vacuum Mk II",
+            "$500",
+            "37 hexes / 3 rings",
+            "40 kg",
+            "300 kg"
+          ],
+          [
+            "J.O.O.N.A.S.",
+            "$20,000",
+            "Moon-wide sector selection",
+            "60 kg",
+            "Uses catchers"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/joonas-robots"
+      }
+    ]
+  },
+  "buildings": {
+    "tables": [
+      {
+        "title": "Machines and Robots in the Build Menu",
+        "columns": [
+          "Equipment",
+          "Price",
+          "Section"
+        ],
+        "rows": [
+          [
+            "Packager",
+            "$100",
+            "Logistics"
+          ],
+          [
+            "Splitter",
+            "$5",
+            "Logistics"
+          ],
+          [
+            "Conveyor Belt",
+            "$0.5 / m",
+            "Logistics"
+          ],
+          [
+            "Pressure Chamber",
+            "$500",
+            "Production"
+          ],
+          [
+            "Merger",
+            "$5",
+            "Logistics"
+          ],
+          [
+            "Stone Press",
+            "$1000",
+            "Production"
+          ],
+          [
+            "Capsule Catcher",
+            "$1500",
+            "Services"
+          ],
+          [
+            "Garage",
+            "$200",
+            "Services"
+          ],
+          [
+            "Solar Tracker (L)",
+            "$300",
+            "Power"
+          ],
+          [
+            "Solar Post (S)",
+            "$75",
+            "Power"
+          ],
+          [
+            "Solar Twin (M)",
+            "$150",
+            "Power"
+          ],
+          [
+            "Robot Vacuum Mk I",
+            "$250",
+            "Robots"
+          ],
+          [
+            "Robot Vacuum Mk II",
+            "$500",
+            "Robots"
+          ],
+          [
+            "J.O.O.N.A.S.",
+            "$20000",
+            "Robots"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/buildings"
+      },
+      {
+        "title": "All 84 structure prices",
+        "columns": [
+          "Structure",
+          "Base price"
+        ],
+        "rows": [
+          [
+            "Railing - full edge",
+            "$5"
+          ],
+          [
+            "Wall - full",
+            "$90"
+          ],
+          [
+            "Wall - half",
+            "$45"
+          ],
+          [
+            "Wall - third",
+            "$30"
+          ],
+          [
+            "Window wall - full",
+            "$115"
+          ],
+          [
+            "Window wall - half",
+            "$70"
+          ],
+          [
+            "Window wall - third",
+            "$55"
+          ],
+          [
+            "Sliding door wall - full",
+            "$145"
+          ],
+          [
+            "Sliding door wall - half",
+            "$100"
+          ],
+          [
+            "Sliding door wall - third",
+            "$85"
+          ],
+          [
+            "Compact return stairs",
+            "$85"
+          ],
+          [
+            "Landing connector - 3 x 2 m",
+            "$45"
+          ],
+          [
+            "Foundation - 1 m",
+            "$2"
+          ],
+          [
+            "Foundation - 2 m",
+            "$3"
+          ],
+          [
+            "Foundation - 3 m",
+            "$4"
+          ],
+          [
+            "Ramp - 0 → 1 m",
+            "$2"
+          ],
+          [
+            "Ramp - 0 → 2 m",
+            "$3"
+          ],
+          [
+            "Ramp - 0 → 3 m",
+            "$4"
+          ],
+          [
+            "Stairs - 0 → 1 m",
+            "$2"
+          ],
+          [
+            "Stairs - 0 → 2 m",
+            "$3"
+          ],
+          [
+            "Stairs - 0 → 3 m",
+            "$4"
+          ],
+          [
+            "Roof",
+            "$30"
+          ],
+          [
+            "Upper floor",
+            "$35"
+          ],
+          [
+            "Stairwell floor",
+            "$40"
+          ],
+          [
+            "Foundation - 0.25 m",
+            "$1"
+          ],
+          [
+            "Foundation - 0.5 m",
+            "$1"
+          ],
+          [
+            "Foundation - 4 m",
+            "$5"
+          ],
+          [
+            "Foundation - 5 m",
+            "$6"
+          ],
+          [
+            "Foundation - 6 m",
+            "$7"
+          ],
+          [
+            "Foundation - landing pad",
+            "$6"
+          ],
+          [
+            "Stilt platform - 2 m",
+            "$8"
+          ],
+          [
+            "Stilt platform - 3 m",
+            "$9"
+          ],
+          [
+            "Stilt platform - 4 m",
+            "$10"
+          ],
+          [
+            "Half foundation",
+            "$1"
+          ],
+          [
+            "Quarter foundation",
+            "$1"
+          ],
+          [
+            "Three-quarter foundation",
+            "$2"
+          ],
+          [
+            "Triangle foundation",
+            "$1"
+          ],
+          [
+            "Chamfered foundation",
+            "$2"
+          ],
+          [
+            "Octagon foundation",
+            "$2"
+          ],
+          [
+            "Rounded corner foundation",
+            "$2"
+          ],
+          [
+            "Cove foundation",
+            "$2"
+          ],
+          [
+            "Rounded end foundation",
+            "$2"
+          ],
+          [
+            "Rounded square foundation",
+            "$2"
+          ],
+          [
+            "Quarter circle foundation",
+            "$2"
+          ],
+          [
+            "Half circle foundation",
+            "$1"
+          ],
+          [
+            "Circle foundation",
+            "$2"
+          ],
+          [
+            "Walkway",
+            "$1"
+          ],
+          [
+            "Walkway corner",
+            "$1"
+          ],
+          [
+            "Walkway curve",
+            "$1"
+          ],
+          [
+            "Walkway T",
+            "$1"
+          ],
+          [
+            "Walkway cross",
+            "$1"
+          ],
+          [
+            "Half curve foundation",
+            "$1"
+          ],
+          [
+            "Corner ramp - outer",
+            "$2"
+          ],
+          [
+            "Corner ramp - inner",
+            "$2"
+          ],
+          [
+            "Foundation wall - 1 m",
+            "$1"
+          ],
+          [
+            "Foundation wall - 2 m",
+            "$2"
+          ],
+          [
+            "Foundation wall - 4 m",
+            "$3"
+          ],
+          [
+            "Foundation wall - doorway",
+            "$3"
+          ],
+          [
+            "Foundation wall - windows",
+            "$3"
+          ],
+          [
+            "Curved wall - 4 m radius",
+            "$2"
+          ],
+          [
+            "Curved wall - 8 m radius",
+            "$3"
+          ],
+          [
+            "Wall corner post - 1 m",
+            "$1"
+          ],
+          [
+            "Wall corner post - 2 m",
+            "$1"
+          ],
+          [
+            "Wall corner post - 4 m",
+            "$1"
+          ],
+          [
+            "Catwalk - 2 m",
+            "$1"
+          ],
+          [
+            "Catwalk - 4 m",
+            "$2"
+          ],
+          [
+            "Catwalk - wide 4 m",
+            "$3"
+          ],
+          [
+            "Catwalk - corner",
+            "$1"
+          ],
+          [
+            "Catwalk - T junction",
+            "$1"
+          ],
+          [
+            "Catwalk - crossing",
+            "$1"
+          ],
+          [
+            "Catwalk - curve",
+            "$2"
+          ],
+          [
+            "Catwalk - 3 x 3 platform",
+            "$4"
+          ],
+          [
+            "Catwalk - wide to narrow",
+            "$3"
+          ],
+          [
+            "Catwalk - 8 m bridge",
+            "$5"
+          ],
+          [
+            "Catwalk stairs - 1.6 m",
+            "$4"
+          ],
+          [
+            "Catwalk stairs - 3.25 m",
+            "$6"
+          ],
+          [
+            "Catwalk stairs - wide 1.6 m",
+            "$5"
+          ],
+          [
+            "Catwalk stairs - quarter turn",
+            "$9"
+          ],
+          [
+            "Catwalk stairs - spiral",
+            "$10"
+          ],
+          [
+            "Catwalk ramp - 1.6 m",
+            "$5"
+          ],
+          [
+            "Catwalk support - 1.6 m",
+            "$1"
+          ],
+          [
+            "Catwalk support - 3.25 m",
+            "$1"
+          ],
+          [
+            "Catwalk support - wide 1.6 m",
+            "$1"
+          ],
+          [
+            "Catwalk support - wide 3.25 m",
+            "$2"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/buildings",
+        "note": "All five source directory pages reviewed. Dimensions contained in names distinguish height, width or radius variants. Structure finishes do not change the listed price."
+      }
+    ]
+  }
+}

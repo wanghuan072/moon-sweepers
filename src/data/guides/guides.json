@@ -1,0 +1,645 @@
+[
+  {
+    "slug": "beginners-guide",
+    "title": "Beginner Guide: Your First Delivery & Upgrades",
+    "description": "Start with a short dust run, make your first sale and decide what to buy next. Learn when more capacity, a better tool or a vehicle will help, and how purchases work when you share a Moon with friends.",
+    "category": "Getting Started",
+    "sections": [
+      {
+        "heading": "Make your first delivery",
+        "paragraphs": [
+          "Start with the Toothbrush and work close enough to a station that you can return with a full container. Your first useful milestone is a complete trip: collect dust, unload it at the deposit intake and use the launch control to receive money. A machine is not required for this first sale.",
+          "Pay attention to where the trip stalls. A full container halfway through a patch points to carrying capacity; a long walk back points to your working area or delivery route. Those are different problems, even if both make the Toothbrush feel slow."
+        ],
+        "steps": [
+          "Clean nearby ground until the tool container fills.",
+          "Return to the deposit intake and unload using the interaction prompt.",
+          "Use the launch control and check the shared wallet.",
+          "Repeat the same short route once before deciding what to buy."
+        ]
+      },
+      {
+        "heading": "Choose your first tool and upgrades",
+        "paragraphs": [
+          "The Nail Brush costs $5, the Hand Brush $10 and the Household Broom $25 before discounts. A bigger tool can clear more ground, but it does not shorten the return walk or remove a queue at your destination. Check its price and base capacity together rather than buying on cleaning width alone.",
+          "Container upgrades are bought for each tool. Levels I, II and III multiply that tool's base capacity by 2, 4 and 8. Dust Compactor then adds a separate 15%, 30% or 45% capacity modifier. For example, the Extra Wide Broom's 12 kg base becomes 96 kg with Container III and 139.2 kg with Compactor III.",
+          "Use the upgrade matrix to check prerequisites before saving for a distant node. Supplier Network reduces tool and container purchase prices only; it is not a discount on vehicles, buildings or every crew upgrade."
+        ]
+      },
+      {
+        "heading": "Spend against the slowest part of the trip",
+        "paragraphs": [
+          "If the tool fills too quickly, compare a container level with the price of the next tool. If you spend most of the trip walking, work nearer the intake or improve movement before assuming another cleaning upgrade will solve it. If unloading takes most of the time, check Rapid Transfer and the route to the deposit.",
+          "For income, separate the amount a load pays from how often you can deliver one. Dust sells for $1/kg before payout bonuses, sand for $3/kg and stone for $7/kg. Market Contracts and Lunar Exchange raise material payout; Region Bounty changes personally credited region rewards. The income calculator lets you check these separately.",
+          "Flags and lunar sites offer exploration rewards, but a long trip is still a long trip. Use the map when you want to explore; do not abandon a dependable first delivery route simply because a distant marker has a larger reward."
+        ]
+      },
+      {
+        "heading": "When a vehicle starts to help",
+        "paragraphs": [
+          "A vehicle is useful when its hopper and cleaning width let you stay out longer without making delivery awkward. The $300 Push Sweeper holds 100 kg; the $1,000 Ride-on Sweeper holds 500 kg. Those are base purchases, separate from the Garage and vehicle-specific upgrades.",
+          "Before buying a larger hopper or Quick Release, inspect the receiving end. A Garage can unload a vehicle into its silo much faster than one belt empties that silo. If stored dust keeps rising, fix the outfeed or destination before spending on faster unloading.",
+          "Use the vehicle list to compare all five options. Crew Transport carries players and capsules; it is not a cleaning vehicle with a hidden hopper."
+        ]
+      },
+      {
+        "heading": "Is Moon Sweepers multiplayer?",
+        "paragraphs": [
+          "You can play alone or with a crew of up to 16 players, including the host. Everyone works on the host's Moon. Pick a host who will keep the world available, choose Friends only, Invite only or Public, and invite through Steam. Players need matching game versions, and the session ends when the host leaves.",
+          "Money, the Upgrade Matrix, container upgrades, suit gear, waypoints and time are shared. Hand tools and vehicles belong to individual players. Only a vehicle's owner buys its upgrades, even though the money comes from the shared wallet.",
+          "Divide the work around the route: one player can clear ground while another keeps deliveries moving or checks the receiving equipment. Agree on expensive purchases before spending the crew's balance. The host can use Pause → Your Crew to kick, ban or unban players; a kick allows rejoining, while a ban stays with the save until removed.",
+          "The host's selected slot holds the world and its backups. Copy that slot before trying to recover a co-op session; a guest's local slot is not a substitute for the host's Moon."
+        ]
+      },
+      {
+        "heading": "Move on when your route needs it",
+        "paragraphs": [
+          "Keep hand-delivering until you know which part you want to replace. A Packager can move hand-tool dust onto a belt, while a robot collects around its own dock. Sand and stone processing can follow once the source, transport and receiving intake work reliably.",
+          "Choose the next guide for the problem you actually have: Packager connections for a first belt route, the production guide for processors and power, or the save guide before changing world files."
+        ]
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/app/5335510/Moon_Sweepers/",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039175",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042960",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229973",
+      "https://wikily.gg/moon-sweepers/cleaning-tools",
+      "https://wikily.gg/moon-sweepers/containers",
+      "https://wikily.gg/moon-sweepers/vehicles",
+      "https://wikily.gg/moon-sweepers/production-chains",
+      "https://wikily.gg/moon-sweepers/resources-and-capsules"
+    ],
+    "status": "verified",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "image": "/images/guides/editorial-1.webp",
+    "related": [
+      "how-to-use-packager",
+      "automation-guide",
+      "save-recovery-guide"
+    ],
+    "dataNote": "Version 1.0.5. Prices are base purchase costs before eligible discounts; upgrades and vehicle purchases follow the ownership rules described above.",
+    "tables": [
+      {
+        "title": "Cleaning tools compared",
+        "columns": [
+          "Tool",
+          "Price",
+          "Base capacity",
+          "Container III",
+          "Width",
+          "Stroke"
+        ],
+        "rows": [
+          [
+            "Toothbrush",
+            "$0",
+            "0.5 kg",
+            "4 kg",
+            "0.12 m",
+            "0.42 s"
+          ],
+          [
+            "Nail Brush",
+            "$5",
+            "0.75 kg",
+            "6 kg",
+            "0.19 m",
+            "0.55 s"
+          ],
+          [
+            "Hand Brush",
+            "$10",
+            "1 kg",
+            "8 kg",
+            "0.25 m",
+            "0.65 s"
+          ],
+          [
+            "Household Broom",
+            "$25",
+            "3 kg",
+            "24 kg",
+            "0.44 m",
+            "0.86 s"
+          ],
+          [
+            "Wide Broom",
+            "$75",
+            "6 kg",
+            "48 kg",
+            "0.66 m",
+            "1 s"
+          ],
+          [
+            "Extra Wide Broom",
+            "$150",
+            "12 kg",
+            "96 kg",
+            "0.99 m",
+            "1.12 s"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/cleaning-tools",
+        "rowLinks": [
+          "/wiki/cleaning-tools/toothbrush",
+          "/wiki/cleaning-tools/nail-brush",
+          "/wiki/cleaning-tools/hand-brush",
+          "/wiki/cleaning-tools/household-broom",
+          "/wiki/cleaning-tools/wide-broom",
+          "/wiki/cleaning-tools/extra-wide-broom"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a Packager before I can earn money?",
+        "answer": "No. You can unload a hand tool at the station and launch the material. A Packager is useful when you want that collected dust to travel on a belt."
+      },
+      {
+        "question": "Are upgrades shared with friends?",
+        "answer": "Matrix levels, container upgrades and suit gear are shared by the crew. Tools, vehicles and vehicle-specific upgrades follow individual ownership rules."
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Compare early cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Compare container capacities",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Estimate your first delivery",
+        "href": "/tools/income-calculator"
+      }
+    ],
+    "tdk": {
+      "title": "Moon Sweepers Beginner Guide — First Delivery & Upgrades",
+      "description": "Make your first sale in Moon Sweepers and choose early upgrades that help your delivery route. Learn when to buy a vehicle and how shared crew purchases work.",
+      "keywords": [
+        "moon sweepers beginner guide",
+        "moon sweepers tips",
+        "moon sweepers walkthrough",
+        "is moon sweepers multiplayer"
+      ]
+    }
+  },
+  {
+    "slug": "how-to-use-packager",
+    "title": "How to Use the Packager",
+    "description": "Get dust from your hand tool to a station without carrying every load back. Build a short Packager route, test the first delivery and follow the checks for capsules that stop moving or never reach the intake.",
+    "category": "Equipment Setup",
+    "sections": [
+      {
+        "heading": "What the Packager does",
+        "paragraphs": [
+          "The Packager takes dust unloaded from your held cleaning tool and sends it out as capsules. It does not clean nearby ground, turn dust into sand or pay you for loading it. Its output needs somewhere to go: a station intake for a raw-dust sale, or a machine that accepts the material.",
+          "For a first setup, use a short route to a station. Seeing a capsule reach the intake and receive payment is easier to check than diagnosing a new processor at the same time."
+        ]
+      },
+      {
+        "heading": "Budget a short delivery route",
+        "paragraphs": [
+          "At base prices, a Building Tool costs $50 and a Packager costs $100. Conveyor costs $0.50 per metre, so a 10 m connection adds $5: $155 in total if you own none of the equipment. A 30 m route brings that total to $165.",
+          "Count the length you actually need. Foundations, processors and solar generation are separate purchases; do not include them in a simple raw-dust route unless your layout needs them. Leave walking access beside the unloading point so a shorter belt does not create a longer trip on foot."
+        ]
+      },
+      {
+        "heading": "Connect and load the Packager",
+        "paragraphs": [
+          "Place the Packager near the patch you plan to clean. Build the output connection toward the receiving intake, following the belt direction. A belt ending beside a station is not the same as one attached to its deposit intake."
+        ],
+        "steps": [
+          "Choose the receiving intake and keep access to it clear.",
+          "Place the Packager where you can reach its unloading point.",
+          "Connect a short outgoing conveyor to the intake.",
+          "Unload a small amount from the held cleaning tool using the interaction prompt.",
+          "Follow the first capsule to its destination and check payment before extending the route."
+        ]
+      },
+      {
+        "heading": "Why is my Packager not working?",
+        "paragraphs": [
+          "Start at the first place where material stops. If no capsule leaves the Packager, check that it received dust and that its outgoing connection is complete. An empty hopper and a blocked outlet need different fixes.",
+          "If capsules leave and queue farther down the belt, inspect the next connection. A full receiver or blocked processor can back material up all the way to the Packager. Buying another Packager will not make that receiver empty.",
+          "If material reaches the station but you see no sale, check that the belt is attached to the deposit intake. A carried capsule placed on a short test belt can help separate an intake problem from a loading problem.",
+          "If a large setup began failing after an update, compare your installed version with the patch notes before rebuilding the whole route. Patch 1.0.5 includes fixes for large-base packing failures; that does not mean every stalled capsule is a version bug."
+        ]
+      },
+      {
+        "heading": "Extend the belt without hiding a bottleneck",
+        "paragraphs": [
+          "Conveyor speed is 1.1 m/s with 0.75 m capsule spacing. That gives an ideal ceiling of 88 capsules per minute. With 1 kg capsules it is 88 kg/min, but payload matters: capsule count and material mass are different measures.",
+          "A Merger combines streams into one outgoing belt. It does not add the capacities of both incoming lines to that shared exit. A Splitter divides the incoming stream rather than duplicating dust. Test each branch on its own before relying on a busy junction.",
+          "Extend one connection at a time. When you add processing, keep an unprocessed dust branch for the Stone Press instead of sending every capsule through a Pressure Chamber."
+        ]
+      },
+      {
+        "heading": "Packager versus Auto-Packer",
+        "paragraphs": [
+          "The $100 Packager is a build-menu machine with an outgoing belt connection. The $2,000 Auto-Packer is a crew upgrade that drops a capsule at your feet when a held tool's container fills. Buying Auto-Packer does not place a physical Packager or connect a conveyor.",
+          "Choose between them by the interruption you want to remove. A nearby Packager can shorten manual delivery; Auto-Packer reduces the need to unload a full hand tool. Neither changes the base sale value of the dust."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/packager",
+      "https://www.moonsweeperswiki.com/machines/packager/",
+      "https://moonsweepersdb.com/reference/packager/",
+      "https://wikily.gg/moon-sweepers/production-chains",
+      "https://wikily.gg/moon-sweepers/machines/conveyor-belt",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229973",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042960",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039175"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Footprint",
+            "2.8 × 3 m"
+          ],
+          [
+            "Height",
+            "2.4 m"
+          ],
+          [
+            "Hopper",
+            "100 kg"
+          ],
+          [
+            "Capsule payload",
+            "1 kg"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      }
+    ],
+    "image": "/images/machines/packager-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Packager data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "dataNote": "Version 1.0.5. Prices are base purchase costs before eligible discounts; upgrades and vehicle purchases follow the ownership rules described above.",
+    "related": [
+      "beginners-guide",
+      "automation-guide",
+      "save-recovery-guide"
+    ],
+    "faqs": [
+      {
+        "question": "Does the Packager sell dust by itself?",
+        "answer": "No. Connect its output to a station intake to sell the dust, or send it into suitable processing equipment."
+      },
+      {
+        "question": "Will a second Packager fix a backed-up belt?",
+        "answer": "Only if source handling is the actual limit. A full receiver, disconnected intake or shared Merger exit must be fixed downstream first."
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Compare the Packager with other machines",
+        "href": "/wiki/machines"
+      },
+      {
+        "title": "Check how launches pay",
+        "href": "/tools/selling-and-income"
+      }
+    ],
+    "tdk": {
+      "title": "Moon Sweepers Packager Guide — Connect, Load & Fix It",
+      "description": "Connect a Moon Sweepers Packager to a station intake, unload your tool and follow the first capsule. Fix blocked routes and learn how Auto-Packer differs.",
+      "keywords": [
+        "moon sweepers packager",
+        "how to use the packager",
+        "moon sweepers packager not working"
+      ]
+    }
+  },
+  {
+    "slug": "automation-guide",
+    "title": "How to Build a Sand and Stone Production Line",
+    "description": "Add processing to a delivery route that already works. Feed dust and sand to the right machines, leave room on the output belt and plan enough solar power to keep the line running when sunlight changes.",
+    "category": "Production",
+    "sections": [
+      {
+        "heading": "Start with a route that already pays",
+        "paragraphs": [
+          "Before adding a processor, prove that collected dust can leave its source, move along a belt and reach a receiving intake. Use a Packager for hand-tool dust or a robot dock for local collection. Keep enough room beside connections to inspect a stopped capsule.",
+          "Test one stage at a time: source, belt, receiving intake, then a powered processor with both feed and output connected. If a new stage stops the route, the fault is easier to find when the earlier stages have already worked."
+        ]
+      },
+      {
+        "heading": "Turn dust into sand",
+        "paragraphs": [
+          "At full power, a Pressure Chamber processes up to 5 kg of dust into the same mass of sand in 12 seconds, using 10 kW. Full batches with uninterrupted feed therefore produce 25 kg of sand per minute.",
+          "Sand's higher value does not mean more kilograms appear. At base payout, those 25 kg sell for $75, while the original dust could have sold for $25. The difference is $50/min of processing value added before equipment cost and interruptions.",
+          "Check incoming dust, available power and the sand exit before adding another chamber. A full sand destination can stop the processor even when its dust input is full."
+        ]
+      },
+      {
+        "heading": "How the Stone Press works",
+        "paragraphs": [
+          "A Stone Press needs two different inputs: 1 kg of raw dust and 1 kg of sand. One full-power cycle takes 6 seconds at 18 kW and produces one 2 kg stone block. Continuous supply gives 10 blocks, or 20 kg of stone, per minute.",
+          "Keep a raw-dust bypass when connecting the chamber. Feeding only sand into the press leaves a recipe ingredient missing; converting all your dust into sand creates exactly that problem.",
+          "At the $7/kg base stone price, a press's output sells for $140/min. Its dust and sand inputs could have sold for $40/min, so the press adds $100/min of material value. These are ideal recipe figures, not a promise of income during a real session."
+        ]
+      },
+      {
+        "heading": "Balance chambers, presses and fresh dust",
+        "paragraphs": [
+          "One chamber makes 25 kg sand/min; one press consumes 10 kg sand/min. A chamber can therefore supply 2.5 presses at the recipe level. Starting with two presses is easier to manage than adding the full 2:5 ratio immediately.",
+          "One chamber with two presses needs 45 kg/min of raw dust: 25 kg for the chamber and another 20 kg for the presses. It produces 40 kg stone/min and leaves 5 kg sand/min surplus when everything runs continuously. Give that surplus somewhere to go or allow the chamber to idle.",
+          "Two chambers and five presses balance sand exactly, but need 100 kg/min of raw dust and 110 kW of nominal power. A single belt carrying 1 kg capsules has an ideal ceiling of 88 kg/min. Add effective feeds or accept lower output rather than treating the recipe ratio as a complete factory design."
+        ]
+      },
+      {
+        "heading": "Plan for night, not just peak solar output",
+        "paragraphs": [
+          "A Solar Tracker peaks at 16 kW and stores 10 kWh. One cannot fully power an 18 kW press on its own. Check wireless range as well as the total on the power display: generation outside the required coverage will not solve an idle processor.",
+          "The chamber-and-two-press line draws 46 kW. Three Trackers peak at 48 kW, leaving only 2 kW for charging while the full line runs. Over an optimistic half-hour of constant peak daylight, 92% charging efficiency stores just 0.92 kWh. A constant 46 kW load over a half-hour night needs 23 kWh.",
+          "Battery capacity and daily recharge are different limits. Even if the batteries can hold enough energy, they must replenish it before the next night. The energy table is an illustrative upper bound; sunlight near the horizon makes actual charging less favourable.",
+          "Watch stored energy after sunrise, around midday and before sunset. If it falls from one day to the next, add generation in range, reduce simultaneous loads or let part of the line idle. Check another complete cycle after changing the layout."
+        ]
+      },
+      {
+        "heading": "Feed the line from robots and vehicles",
+        "paragraphs": [
+          "Robot Vacuum Mk I and Mk II clean around their docks. J.O.O.N.A.S. works across the Moon and sends material to Capsule Catchers. Build the receiving route before relying on remote collection to keep processors busy.",
+          "In patch 1.0.5, catchers within 100 m form a group. J.O.O.N.A.S. uses the emptiest catcher in a nearby group and moves on when every catcher in that group is above 80% full. A catcher stores 100 kg, so a blocked outfeed can quickly become a collection problem upstream.",
+          "A Garage buffers vehicle dust in a 6,000 kg silo and unloads at 600 kg/s. That is the transfer rate into storage, not the rate a belt clears the silo. If a vehicle empties quickly but the silo keeps filling, inspect the outgoing capsules and final intake."
+        ]
+      },
+      {
+        "heading": "Find the first blocked stage",
+        "paragraphs": [
+          "Follow one capsule from source to destination. An empty feed points upstream; a full output points downstream. For an idle processor, check the exact materials, current power and output space before increasing machine count.",
+          "A Merger's shared exit still has one belt's capacity. A Splitter does not create extra material. If both sources work separately but queue together, test the common exit before replacing the sources.",
+          "When a route works in daylight and stops at night, inspect power and stored energy first. When it stops after moving a foundation, recheck the ports and belts. Keep these tests small enough that you can see which change made the difference."
+        ]
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/app/5335510/Moon_Sweepers/",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039175",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042960",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229973",
+      "https://wikily.gg/moon-sweepers/production-chains",
+      "https://wikily.gg/moon-sweepers/resources-and-capsules",
+      "https://wikily.gg/moon-sweepers/machines/pressure-chamber",
+      "https://www.moonsweeperswiki.com/machines/pressure-chamber/",
+      "https://wikily.gg/moon-sweepers/machines/stone-press",
+      "https://www.moonsweeperswiki.com/money/",
+      "https://wikily.gg/moon-sweepers/machines/solar-tracker-l",
+      "https://wikily.gg/moon-sweepers/day-and-night",
+      "https://wikily.gg/moon-sweepers/joonas-robots"
+    ],
+    "status": "verified",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "image": "/images/guides/editorial-1.webp",
+    "related": [
+      "beginners-guide",
+      "how-to-use-packager",
+      "save-recovery-guide"
+    ],
+    "dataNote": "Version 1.0.5. Production rates assume full power, uninterrupted feed and a clear output. Night-power figures are calculated examples.",
+    "tables": [
+      {
+        "title": "Production at full power",
+        "columns": [
+          "Machine",
+          "Recipe",
+          "Cycle / power",
+          "Output / minute",
+          "Gross base sales / min"
+        ],
+        "rows": [
+          [
+            "Pressure Chamber",
+            "5 kg dust → 5 kg sand",
+            "12 s / 10 kW",
+            "25 kg sand",
+            "$75"
+          ],
+          [
+            "Stone Press",
+            "1 kg dust + 1 kg sand → 2 kg stone",
+            "6 s / 18 kW",
+            "20 kg stone",
+            "$140"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/production-chains",
+        "note": "Ideal gross output sales are not processing value added. No guarantee of real uptime or a fully supplied line."
+      },
+      {
+        "title": "46 kW load: optimistic daylight energy bound",
+        "columns": [
+          "Tracker count",
+          "Peak power",
+          "Battery capacity",
+          "Daytime stored energy after load",
+          "Night need"
+        ],
+        "rows": [
+          [
+            "3",
+            "48 kW",
+            "30 kWh",
+            "0.92 kWh",
+            "23 kWh"
+          ],
+          [
+            "6",
+            "96 kW",
+            "60 kWh",
+            "23 kWh",
+            "23 kWh"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/production-chains",
+        "note": "Calculated with a constant 30-minute peak-output day, 30-minute night and 92% charging efficiency. Real solar output is lower near the horizon. This is an illustrative energy model, not a measured solar layout."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can one belt run two chambers and five presses at full output?",
+        "answer": "Not with a single stream of 1 kg capsules. The line needs 100 kg/min of raw dust; ideal belt spacing carries 88 capsules/min. Extra feeds or reduced machine uptime are needed."
+      },
+      {
+        "question": "Why is my Stone Press full of sand but idle?",
+        "answer": "It also needs raw dust. Check the separate dust feed, sufficient power and a clear stone output."
+      },
+      {
+        "question": "Are three Solar Trackers enough for a 46 kW factory all night?",
+        "answer": "Their 48 kW peak is slightly above the running load, but leaves too little daytime surplus to recharge for a full night under the stated energy model. Check generation, storage and recharge across the whole cycle."
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Compare machine power and production rates",
+        "href": "/wiki/machines"
+      },
+      {
+        "title": "Estimate the sale value of processed materials",
+        "href": "/tools/income-calculator"
+      }
+    ],
+    "tdk": {
+      "title": "Moon Sweepers Production Guide — Sand, Stone & Power",
+      "description": "Build a Moon Sweepers sand and stone line with separate dust feeds and enough power. Balance chambers, presses and belts, then find what stops production.",
+      "keywords": [
+        "efficient moon sweepers production",
+        "how does the stone press work",
+        "moon sweepers production line"
+      ]
+    }
+  },
+  {
+    "slug": "save-recovery-guide",
+    "title": "Windows Save Files: Backups and Recovery",
+    "description": "Find your Windows save slot and copy the world before changing any files. Check the host’s backups and game version, then work with a recovery copy while keeping the original world safe.",
+    "category": "Save Recovery",
+    "sections": [
+      {
+        "heading": "Find the save and backup folder",
+        "paragraphs": [
+          "On Windows, the game data folder is under %USERPROFILE%\\AppData\\LocalLow\\DragDropGames\\MoonSweepers. Backups are organised under Backups\\slot-<n>, where <n> identifies the world slot. AppData is normally hidden in File Explorer; pasting the folder path is easier than searching through unrelated Steam installation files.",
+          "The game has five world slots, each with its own Moon. Match the slot and backup time to the world you mean to recover. Do not assume that the newest folder belongs to the slot you were playing.",
+          "The backup directory is documented, but this guide does not establish a universal active-save filename or a verified file-by-file restore procedure for every build. Keep that distinction when inspecting the folder. Do not rename files based on a filename suggested for another version."
+        ]
+      },
+      {
+        "heading": "Back up before changing anything",
+        "paragraphs": [
+          "Exit the game before copying files. Keep a separate copy of the current game-data folder and the backup directory, even if the current world appears damaged. A folder named with the date and slot helps you distinguish that copy from the game-managed backups.",
+          "Copy rather than move the files. Keep the untouched copy outside the active game-data folder, and leave it alone while testing a recovery. Automatic backups rotate; they are not a substitute for the copy you make before a change."
+        ],
+        "steps": [
+          "Note the affected world slot, installed version and roughly when the problem began.",
+          "Exit the game and locate the MoonSweepers game-data folder.",
+          "Copy the current files and Backups directory to a separate location.",
+          "Check the copied backup timestamps for a version of the world from before the problem.",
+          "Preserve both the original state and candidate backup while checking the recovery instructions for your installed build."
+        ]
+      },
+      {
+        "heading": "Understand the automatic backup window",
+        "paragraphs": [
+          "Each slot keeps up to five full backups. The first is made about one minute into a session, followed by backups every 30 minutes. A short session may have a different set of available recovery points from a long one.",
+          "Inspect the timestamps before reopening a world repeatedly. If you need to investigate a problem, copying the available backups first preserves that window while you decide which recovery point is useful."
+        ]
+      },
+      {
+        "heading": "Who keeps a multiplayer world?",
+        "paragraphs": [
+          "The host's selected save slot contains the crew's Moon. If you joined another player, ask the host to identify and back up that slot; changing a guest's unrelated local world will not restore the hosted session.",
+          "World details such as station whiteboards and host bans are saved with the slot. Confirm that you are checking the right Moon before judging whether a candidate backup contains the progress you need. The host leaving also ends the session, so agree on a quiet time for a recovery check."
+        ]
+      },
+      {
+        "heading": "Check version compatibility before recovery",
+        "paragraphs": [
+          "Patch 1.0.3 repaired some worlds that appeared corrupted and added save-replacement protection. Patch 1.0.4 improved automatic backups and crash recovery, and documents that its saves cannot be opened in older builds. A downgrade is therefore not a reliable general recovery step.",
+          "Use the patch notes to match the symptom to a documented fix. If the problem is a crash rather than missing progress, separate the crash investigation from file recovery: repeatedly replacing saves will not identify a graphics or loading issue.",
+          "Only test a restore when you have instructions that match your build and an untouched copy of both states. A successful load is not enough on its own; check the intended slot, important upgrades and a recognisable area of the world before continuing normal play."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/save-slots-and-backups",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302229973",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114042960",
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114039175"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "related": [
+      "beginners-guide",
+      "how-to-use-packager",
+      "automation-guide"
+    ],
+    "faqs": [
+      {
+        "question": "Where is the Windows backup folder?",
+        "answer": "Under %USERPROFILE%\\AppData\\LocalLow\\DragDropGames\\MoonSweepers\\Backups\\slot-<n>. Match <n> and the timestamps to the world slot you need."
+      },
+      {
+        "question": "Can I restore a co-op world from a guest's save?",
+        "answer": "The hosted Moon belongs to the host's selected world slot. Start with the host's files and backups, not an unrelated local slot belonging to a guest."
+      },
+      {
+        "question": "Should I downgrade the game to open a backup?",
+        "answer": "Do not assume that an older build can read a newer save. Preserve your files first and check the version's compatibility notes before testing recovery."
+      }
+    ],
+    "tables": [
+      {
+        "title": "Save reference",
+        "columns": [
+          "Setting",
+          "Value"
+        ],
+        "rows": [
+          [
+            "World slots",
+            "5"
+          ],
+          [
+            "Backups per slot",
+            "Up to 5"
+          ],
+          [
+            "First backup",
+            "1 minute after session begins"
+          ],
+          [
+            "Later interval",
+            "30 minutes"
+          ],
+          [
+            "Crew world",
+            "Host’s selected slot"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/save-slots-and-backups"
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Check released patches for save fixes",
+        "href": "/updates#released"
+      },
+      {
+        "title": "Read mod compatibility and installation notes",
+        "href": "/mods#installation"
+      }
+    ],
+    "tdk": {
+      "title": "Moon Sweepers Save File Location — Windows Backups",
+      "description": "Find the Moon Sweepers save file and backup folders on Windows. Copy the host’s world, identify the right slot and check game versions before trying recovery.",
+      "keywords": [
+        "moon sweepers save file",
+        "moon sweepers save location",
+        "moon sweepers backup"
+      ]
+    },
+    "dataNote": "Folder details apply to Windows. Preserve the original files; active-save filenames and recovery steps can differ by build."
+  }
+]

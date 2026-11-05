@@ -1,0 +1,5 @@
+import directory from '@/data/wiki/exploration-directory.json';
+import sites from '@/data/wiki/lunar-sites.json';
+import {parseCoordinate,type Marker} from './coordinates';
+const slug=(s:string)=>s.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+export const markers:Marker[]=[...directory.flags.map(f=>({id:'flag-'+slug(f.name),name:f.name,kind:'Flags' as const,...parseCoordinate(f.position),coordinate:f.position,reward:100,href:'/guides/exploration-flags-and-sites'})),...sites.map(row=>({id:'site-'+slug(row[0]),name:row[0],kind:'Lunar sites' as const,...parseCoordinate(row[2]),coordinate:row[2],reward:250,href:'/guides/exploration-flags-and-sites'})),...([{name:'North Station',lat:90,lon:0},{name:'South Station',lat:-90,lon:0},{name:'East Station',lat:0,lon:90},{name:'West Station',lat:0,lon:-90}]).map(s=>({...s,id:slug(s.name),kind:'Stations' as const,coordinate:`${Math.abs(s.lat)}°${s.lat<0?'S':'N'} ${Math.abs(s.lon)}°${s.lon<0?'W':'E'}`,reward:0,href:'/guides/beginners-guide'}))];

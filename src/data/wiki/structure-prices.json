@@ -1,0 +1,342 @@
+{
+  "source": "https://wikily.gg/moon-sweepers/buildings",
+  "reviewedAt": "2026-11-04",
+  "structures": [
+    {
+      "name": "Railing - full edge",
+      "price": 5
+    },
+    {
+      "name": "Wall - full",
+      "price": 90
+    },
+    {
+      "name": "Wall - half",
+      "price": 45
+    },
+    {
+      "name": "Wall - third",
+      "price": 30
+    },
+    {
+      "name": "Window wall - full",
+      "price": 115
+    },
+    {
+      "name": "Window wall - half",
+      "price": 70
+    },
+    {
+      "name": "Window wall - third",
+      "price": 55
+    },
+    {
+      "name": "Sliding door wall - full",
+      "price": 145
+    },
+    {
+      "name": "Sliding door wall - half",
+      "price": 100
+    },
+    {
+      "name": "Sliding door wall - third",
+      "price": 85
+    },
+    {
+      "name": "Compact return stairs",
+      "price": 85
+    },
+    {
+      "name": "Landing connector - 3 x 2 m",
+      "price": 45
+    },
+    {
+      "name": "Foundation - 1 m",
+      "price": 2
+    },
+    {
+      "name": "Foundation - 2 m",
+      "price": 3
+    },
+    {
+      "name": "Foundation - 3 m",
+      "price": 4
+    },
+    {
+      "name": "Ramp - 0 → 1 m",
+      "price": 2
+    },
+    {
+      "name": "Ramp - 0 → 2 m",
+      "price": 3
+    },
+    {
+      "name": "Ramp - 0 → 3 m",
+      "price": 4
+    },
+    {
+      "name": "Stairs - 0 → 1 m",
+      "price": 2
+    },
+    {
+      "name": "Stairs - 0 → 2 m",
+      "price": 3
+    },
+    {
+      "name": "Stairs - 0 → 3 m",
+      "price": 4
+    },
+    {
+      "name": "Roof",
+      "price": 30
+    },
+    {
+      "name": "Upper floor",
+      "price": 35
+    },
+    {
+      "name": "Stairwell floor",
+      "price": 40
+    },
+    {
+      "name": "Foundation - 0.25 m",
+      "price": 1
+    },
+    {
+      "name": "Foundation - 0.5 m",
+      "price": 1
+    },
+    {
+      "name": "Foundation - 4 m",
+      "price": 5
+    },
+    {
+      "name": "Foundation - 5 m",
+      "price": 6
+    },
+    {
+      "name": "Foundation - 6 m",
+      "price": 7
+    },
+    {
+      "name": "Foundation - landing pad",
+      "price": 6
+    },
+    {
+      "name": "Stilt platform - 2 m",
+      "price": 8
+    },
+    {
+      "name": "Stilt platform - 3 m",
+      "price": 9
+    },
+    {
+      "name": "Stilt platform - 4 m",
+      "price": 10
+    },
+    {
+      "name": "Half foundation",
+      "price": 1
+    },
+    {
+      "name": "Quarter foundation",
+      "price": 1
+    },
+    {
+      "name": "Three-quarter foundation",
+      "price": 2
+    },
+    {
+      "name": "Triangle foundation",
+      "price": 1
+    },
+    {
+      "name": "Chamfered foundation",
+      "price": 2
+    },
+    {
+      "name": "Octagon foundation",
+      "price": 2
+    },
+    {
+      "name": "Rounded corner foundation",
+      "price": 2
+    },
+    {
+      "name": "Cove foundation",
+      "price": 2
+    },
+    {
+      "name": "Rounded end foundation",
+      "price": 2
+    },
+    {
+      "name": "Rounded square foundation",
+      "price": 2
+    },
+    {
+      "name": "Quarter circle foundation",
+      "price": 2
+    },
+    {
+      "name": "Half circle foundation",
+      "price": 1
+    },
+    {
+      "name": "Circle foundation",
+      "price": 2
+    },
+    {
+      "name": "Walkway",
+      "price": 1
+    },
+    {
+      "name": "Walkway corner",
+      "price": 1
+    },
+    {
+      "name": "Walkway curve",
+      "price": 1
+    },
+    {
+      "name": "Walkway T",
+      "price": 1
+    },
+    {
+      "name": "Walkway cross",
+      "price": 1
+    },
+    {
+      "name": "Half curve foundation",
+      "price": 1
+    },
+    {
+      "name": "Corner ramp - outer",
+      "price": 2
+    },
+    {
+      "name": "Corner ramp - inner",
+      "price": 2
+    },
+    {
+      "name": "Foundation wall - 1 m",
+      "price": 1
+    },
+    {
+      "name": "Foundation wall - 2 m",
+      "price": 2
+    },
+    {
+      "name": "Foundation wall - 4 m",
+      "price": 3
+    },
+    {
+      "name": "Foundation wall - doorway",
+      "price": 3
+    },
+    {
+      "name": "Foundation wall - windows",
+      "price": 3
+    },
+    {
+      "name": "Curved wall - 4 m radius",
+      "price": 2
+    },
+    {
+      "name": "Curved wall - 8 m radius",
+      "price": 3
+    },
+    {
+      "name": "Wall corner post - 1 m",
+      "price": 1
+    },
+    {
+      "name": "Wall corner post - 2 m",
+      "price": 1
+    },
+    {
+      "name": "Wall corner post - 4 m",
+      "price": 1
+    },
+    {
+      "name": "Catwalk - 2 m",
+      "price": 1
+    },
+    {
+      "name": "Catwalk - 4 m",
+      "price": 2
+    },
+    {
+      "name": "Catwalk - wide 4 m",
+      "price": 3
+    },
+    {
+      "name": "Catwalk - corner",
+      "price": 1
+    },
+    {
+      "name": "Catwalk - T junction",
+      "price": 1
+    },
+    {
+      "name": "Catwalk - crossing",
+      "price": 1
+    },
+    {
+      "name": "Catwalk - curve",
+      "price": 2
+    },
+    {
+      "name": "Catwalk - 3 x 3 platform",
+      "price": 4
+    },
+    {
+      "name": "Catwalk - wide to narrow",
+      "price": 3
+    },
+    {
+      "name": "Catwalk - 8 m bridge",
+      "price": 5
+    },
+    {
+      "name": "Catwalk stairs - 1.6 m",
+      "price": 4
+    },
+    {
+      "name": "Catwalk stairs - 3.25 m",
+      "price": 6
+    },
+    {
+      "name": "Catwalk stairs - wide 1.6 m",
+      "price": 5
+    },
+    {
+      "name": "Catwalk stairs - quarter turn",
+      "price": 9
+    },
+    {
+      "name": "Catwalk stairs - spiral",
+      "price": 10
+    },
+    {
+      "name": "Catwalk ramp - 1.6 m",
+      "price": 5
+    },
+    {
+      "name": "Catwalk support - 1.6 m",
+      "price": 1
+    },
+    {
+      "name": "Catwalk support - 3.25 m",
+      "price": 1
+    },
+    {
+      "name": "Catwalk support - wide 1.6 m",
+      "price": 1
+    },
+    {
+      "name": "Catwalk support - wide 3.25 m",
+      "price": 2
+    }
+  ]
+}

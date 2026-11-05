@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "pressure-chamber",
+    "title": "Pressure Chamber",
+    "cycleSeconds": 12,
+    "outputPerCycle": 5,
+    "unitPrice": 3,
+    "investmentPerMachine": 500,
+    "inputOpportunityValue": 5,
+    "inputMaterial": "Up to 5 kg lunar dust / cycle",
+    "outputMaterial": "moon sand",
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/pressure-chamber",
+      "https://www.moonsweeperswiki.com/machines/pressure-chamber/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "assumptions": "Full-power, full-batch community recipe. Machine cost excludes generation and logistics. Input sale value is an opportunity cost, not a cash fee."
+  },
+  {
+    "slug": "stone-press",
+    "title": "Stone Press",
+    "cycleSeconds": 6,
+    "outputPerCycle": 2,
+    "unitPrice": 7,
+    "investmentPerMachine": 1000,
+    "inputOpportunityValue": 4,
+    "inputMaterial": "1 kg dust + 1 kg sand / cycle",
+    "outputMaterial": "moon stone",
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/stone-press",
+      "https://www.moonsweeperswiki.com/money/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "assumptions": "Full-power, full-batch community recipe. Machine cost excludes generation and logistics. Input sale value is an opportunity cost, not a cash fee."
+  }
+]

@@ -1,0 +1,1580 @@
+{
+  "machines/packager": {
+    "title": "Packager",
+    "description": "Unload hand-tool dust into a conveyor route. Check the $100 price, 100 kg storage and the connection to your next machine or station.",
+    "tdk": {
+      "title": "Packager \u2014 Moon Sweepers Guide & Details",
+      "description": "Unload hand-tool dust into a conveyor route. Check the $100 price, 100 kg storage and the connection to your next machine or station in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Packager"
+      ]
+    }
+  },
+  "machines/splitter": {
+    "title": "Splitter",
+    "description": "Send incoming capsules down two branches. Keep raw dust for your presses instead of converting the whole supply into sand.",
+    "tdk": {
+      "title": "Splitter \u2014 Moon Sweepers Guide & Details",
+      "description": "Split capsules between two branches in Moon Sweepers. Check the Splitter\u2019s $5 price, routing behaviour and its role in keeping raw dust available for presses.",
+      "keywords": [
+        "Moon Sweepers",
+        "Splitter"
+      ]
+    }
+  },
+  "machines/conveyor-belt": {
+    "title": "Conveyor Belt",
+    "description": "Move capsules between equipment and the station intake. Check belt direction, segment length and capsule spacing before extending a route.",
+    "tdk": {
+      "title": "Conveyor Belt \u2014 Moon Sweepers Specs & Setup",
+      "description": "Move capsules between equipment and the station intake. Check belt direction, segment length and capsule spacing before extending a route in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Conveyor Belt"
+      ]
+    },
+    "paragraphOverrides": {
+      "Transport limit": [
+        "At 1.1 m/s with 0.75 m capsule spacing, the geometric limit is 88 capsules per minute. Busy merges, turns and a blocked destination can reduce the rate your route actually delivers."
+      ]
+    }
+  },
+  "machines/pressure-chamber": {
+    "title": "Pressure Chamber",
+    "description": "Turn dust into the same weight of sand. Plan a 10 kW power supply and enough output space for the chamber\u2019s full batches.",
+    "tdk": {
+      "title": "Pressure Chamber \u2014 Moon Sweepers Specs & Setup",
+      "description": "Make sand with the Moon Sweepers Pressure Chamber. Check the $500 price, 10 kW load, five-kilogram batches, partial loads and full-power production output.",
+      "keywords": [
+        "Moon Sweepers",
+        "Pressure Chamber"
+      ]
+    }
+  },
+  "machines/merger": {
+    "title": "Merger",
+    "description": "Join two capsule feeds into one belt. Check the shared exit when both sources are busy; merging does not add conveyor capacity.",
+    "tdk": {
+      "title": "Merger \u2014 Moon Sweepers Belt Routing & Setup",
+      "description": "Combine two capsule feeds with the Moon Sweepers Merger. Check its $5 cost, alternating inputs and the shared belt capacity before adding more machines.",
+      "keywords": [
+        "Moon Sweepers",
+        "Merger"
+      ]
+    }
+  },
+  "machines/stone-press": {
+    "title": "Stone Press",
+    "description": "Feed raw dust and sand to make stone blocks. Check the six-second recipe, 18 kW power demand and the output belt before adding another press.",
+    "tdk": {
+      "title": "Stone Press \u2014 Moon Sweepers Specs & Setup",
+      "description": "Feed raw dust and sand to make stone blocks. Check the six-second recipe, 18 kW power demand and the output belt before adding another press in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Stone Press"
+      ]
+    }
+  },
+  "machines/capsule-catcher": {
+    "title": "Capsule Catcher",
+    "description": "Receive capsules sent by J.O.O.N.A.S. and keep the 100 kg store draining. Nearby catchers work as a group when the robot chooses a receiver.",
+    "tdk": {
+      "title": "Capsule Catcher \u2014 Moon Sweepers Specs & Setup",
+      "description": "Receive capsules sent by J.O.O.N.A.S. and keep the 100 kg store draining. Nearby catchers work as a group when the robot chooses a receiver in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Capsule Catcher"
+      ]
+    },
+    "paragraphOverrides": {
+      "With and without an output belt": [
+        "Connect an output belt when you want the catcher to feed capsules into another route. Without that connection, check the station\u2019s material and payment panels before relying on automatic sales. The timing of this no-belt path is unresolved in the linked documentation."
+      ]
+    },
+    "dataNoteOverride": "Equipment numbers use the linked game-version documentation and have not been independently playtested. Documentation disagrees about payment timing when no output belt is connected; confirm the station state in your installed version."
+  },
+  "machines/garage": {
+    "title": "Garage",
+    "description": "Buy, recall and unload your vehicles. Connect the garage silo to a useful destination so it stays ready for the next load.",
+    "tdk": {
+      "title": "Garage \u2014 Moon Sweepers Vehicles & Unloading",
+      "description": "Use the Moon Sweepers Garage to buy, recall and unload vehicles. Check its $200 cost, 6,000 kg silo, conveyor exits and rules for relocating your garage.",
+      "keywords": [
+        "Moon Sweepers",
+        "Garage"
+      ]
+    }
+  },
+  "machines/solar-tracker": {
+    "title": "Solar Tracker (L)",
+    "description": "Supply nearby machines with up to 16 kW in sunlight. The built-in battery stores energy for darkness; it does not increase peak generation.",
+    "tdk": {
+      "title": "Solar Tracker (L) \u2014 Moon Sweepers Specs & Setup",
+      "description": "Supply nearby machines with up to 16 kW in sunlight. The built-in battery stores energy for darkness; it does not increase peak generation in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Solar Tracker (L)"
+      ]
+    },
+    "sectionsOverride": [
+      {
+        "heading": "Output and wireless range",
+        "paragraphs": [
+          "The $300 Solar Tracker follows the Sun, generates up to 16 kW and supplies machines within 34 m. Its 10 kWh battery stores energy for lower-generation periods."
+        ]
+      },
+      {
+        "heading": "Choose the connected machines",
+        "paragraphs": [
+          "One Tracker can cover a 10 kW chamber in enough sunlight. It cannot cover an 18 kW press at nominal demand by itself. Add the load of every running machine within the powered area."
+        ]
+      },
+      {
+        "heading": "Store enough for night",
+        "paragraphs": [
+          "At an ideal 10 kW load, a full 10 kWh battery represents one hour of energy. Actual uptime depends on charging, sunlight, available output and other machines. Peak generation is not an all-day average."
+        ]
+      }
+    ]
+  },
+  "machines/solar-post": {
+    "title": "Solar Post (S)",
+    "description": "A compact $75 solar panel with 3 kW peak output. Check the Sun\u2019s direction and keep consumers within its 16 m range.",
+    "tdk": {
+      "title": "Solar Post (S) \u2014 Moon Sweepers Specs & Setup",
+      "description": "Check the Moon Sweepers Solar Post\u2019s $75 price, 3 kW peak output and 16 m range. Plan fixed-panel placement and understand why it cannot store night power.",
+      "keywords": [
+        "Moon Sweepers",
+        "Solar Post (S)"
+      ]
+    },
+    "sectionsOverride": [
+      {
+        "heading": "Where the small panel fits",
+        "paragraphs": [
+          "The $75 Solar Post supplies up to 3 kW within 16 m. It has no listed battery, so it cannot keep a powered processor running through darkness on its own."
+        ]
+      },
+      {
+        "heading": "Positioning and load",
+        "paragraphs": [
+          "Face this fixed panel toward the Sun. A 10 kW chamber needs more than one small panel even at peak output. Compare total generation with the connected load."
+        ]
+      },
+      {
+        "heading": "Expanding a daytime supply",
+        "paragraphs": [
+          "Use the small panel where its range and daytime output are enough. For continuous production, compare larger panels and their stored energy before building a dense group of small panels."
+        ]
+      }
+    ]
+  },
+  "machines/solar-twin": {
+    "title": "Solar Twin (M)",
+    "description": "Supply up to 7.5 kW and store 4 kWh for later. Position the panel toward the Sun and check the load across its 24 m range.",
+    "tdk": {
+      "title": "Solar Twin (M) \u2014 Moon Sweepers Specs & Setup",
+      "description": "Compare the Moon Sweepers Solar Twin\u2019s 7.5 kW output, 4 kWh battery and 24 m range. Check the $150 price and plan your connected load through changing light.",
+      "keywords": [
+        "Moon Sweepers",
+        "Solar Twin (M)"
+      ]
+    },
+    "sectionsOverride": [
+      {
+        "heading": "Generation and storage",
+        "paragraphs": [
+          "The $150 Solar Twin supplies up to 7.5 kW within 24 m and stores 4 kWh. Battery capacity is energy held for later, not extra peak generation."
+        ]
+      },
+      {
+        "heading": "Keep the panel facing sunlight",
+        "paragraphs": [
+          "This model does not track the Sun. Placement affects how much daylight power it collects. Its peak output is below a chamber\u2019s 10 kW nominal demand."
+        ]
+      },
+      {
+        "heading": "Plan the dark period",
+        "paragraphs": [
+          "At an ideal 10 kW load, 4 kWh represents 24 minutes of energy. This is a capacity calculation, not a guarantee that the panel alone supplies the load. Include other machines and charging conditions."
+        ]
+      }
+    ]
+  },
+  "machines/robot-vacuum-mk-i": {
+    "title": "Robot Vacuum Mk I",
+    "description": "Clean the 19 hexes around a dock for $250. Keep the dock\u2019s conveyor clear, and move the robot once its local area is clean.",
+    "tdk": {
+      "title": "Robot Vacuum Mk I \u2014 Moon Sweepers Specs & Setup",
+      "description": "Clean the 19 hexes around a dock for $250. Keep the dock\u2019s conveyor clear, and move the robot once its local area is clean in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Robot Vacuum Mk I"
+      ]
+    }
+  },
+  "machines/robot-vacuum-mk-ii": {
+    "title": "Robot Vacuum Mk II",
+    "description": "Cover 37 hexes with a 40 kg robot bin and a 300 kg dock. A larger work area still needs a clear route out of storage.",
+    "tdk": {
+      "title": "Robot Vacuum Mk II \u2014 Moon Sweepers Specs & Setup",
+      "description": "Check the Moon Sweepers Mk II robot\u2019s $500 price, 37-hex area, 40 kg bin and 300 kg dock. Connect its outgoing belt and diagnose full storage before expanding.",
+      "keywords": [
+        "Moon Sweepers",
+        "Robot Vacuum Mk II"
+      ]
+    },
+    "paragraphOverrides": {
+      "Compare the whole route": [
+        "Mk II improves cleaning width and movement speed over Mk I. The useful gain also depends on remaining dust, terrain and whether the dock can drain. Compare complete collection and delivery cycles before adding more robots."
+      ]
+    }
+  },
+  "machines/joonas": {
+    "title": "J.O.O.N.A.S.",
+    "description": "Send a robot beyond a local dock area to collect dust across the Moon. Set up capsule catchers before relying on automatic delivery.",
+    "tdk": {
+      "title": "Joonas \u2014 Moon Sweepers Robot Specs & Delivery",
+      "description": "Send a robot beyond a local dock area to collect dust across the Moon. Set up capsule catchers before relying on automatic delivery in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Joonas",
+        "J.O.O.N.A.S."
+      ]
+    }
+  },
+  "guides/beginners-guide": {
+    "title": "Beginner\u2019s Guide",
+    "description": "Make your first dust delivery, buy a better broom and choose between hand-tool unloading and a robot-fed conveyor route.",
+    "tdk": {
+      "title": "Beginner\u2019s Guide \u2014 Moon Sweepers Guide & Details",
+      "description": "Start Moon Sweepers with a first dust delivery, a better broom and useful early upgrades. Compare manual unloading with a Packager or robot-fed conveyor.",
+      "keywords": [
+        "Moon Sweepers",
+        "Beginner\u2019s Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "What should I buy after the Toothbrush?",
+        "answer": "A $25 Household Broom increases base capacity to 3 kg. Its first $30 container doubles that capacity. Compare those upgrades with a belt-fed route based on how often you return to the station."
+      }
+    ]
+  },
+  "guides/how-to-make-money-fast": {
+    "title": "How to Make Money Fast in Moon Sweepers",
+    "description": "Choose between raw dust sales, processing and exploration rewards. Compare the extra value against the supply and equipment each route needs.",
+    "tdk": {
+      "title": "How to Make Money Fast \u2014 Moon Sweepers Guide",
+      "description": "Choose between raw dust sales, processing and exploration rewards. Compare the extra value against the supply and equipment each route needs in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "How to Make Money Fast"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Is stone always the best income route?",
+        "answer": "Stone has the highest base price per kilogram, but production needs dust and sand, enough power and clear delivery belts. Compare the extra value with the whole build cost and sustainable supply."
+      }
+    ]
+  },
+  "guides/best-early-upgrades": {
+    "title": "Best Early Upgrades",
+    "description": "Spend your first earnings on the part of the cleanup loop that slows you down: cleaning, carrying, delivery or shared crew income.",
+    "tdk": {
+      "title": "Best Early Upgrades \u2014 Moon Sweepers Guide",
+      "description": "Spend your first earnings on the part of the cleanup loop that slows you down: cleaning, carrying, delivery or shared crew income in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Best Early Upgrades"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Should the crew buy the same tool twice?",
+        "answer": "Hand tools are personal purchases, while the host\u2019s matrix is shared. Agree who collects, transports and builds before spending the wallet on duplicate equipment."
+      }
+    ]
+  },
+  "guides/automation-guide": {
+    "title": "Automation & Efficient Production",
+    "description": "Connect a working dust route, add processing in stages and balance dust, sand, belts and power before expanding the factory.",
+    "tdk": {
+      "title": "Automation & Efficient Production \u2014 Moon Sweepers Guide",
+      "description": "Connect a working dust route, add processing in stages and balance dust, sand, belts and power before expanding the factory in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Automation & Efficient Production"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Can one belt feed two chambers and five presses?",
+        "answer": "Not at the full recipe rate with 1 kg capsules. The line needs 100 kg/min of raw dust, while ideal belt spacing carries 88 capsules/min. Use additional feeds or expect reduced uptime."
+      }
+    ]
+  },
+  "guides/machine-troubleshooting": {
+    "title": "Machine Troubleshooting",
+    "description": "Find the first blocked stage in a capsule route. Check material supply, belt direction, power and receiving space before buying more equipment.",
+    "tdk": {
+      "title": "Machine Troubleshooting \u2014 Moon Sweepers Guide",
+      "description": "Find the first blocked stage in a capsule route. Check material supply, belt direction, power and receiving space before buying more equipment in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Machine Troubleshooting"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Why do capsules stop despite a full source?",
+        "answer": "Find the first stopped capsule. A reversed belt, missing connection, full receiver or blocked output can hold up everything upstream. Also check ingredients and power at processors."
+      }
+    ]
+  },
+  "guides/multiplayer-guide": {
+    "title": "Multiplayer Guide",
+    "description": "Set up a crew, understand shared money and upgrades, and keep track of which player owns each vehicle and which host holds the world save.",
+    "tdk": {
+      "title": "Multiplayer Guide \u2014 Moon Sweepers Guide & Details",
+      "description": "Set up a crew, understand shared money and upgrades, and keep track of which player owns each vehicle and which host holds the world save in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Multiplayer Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Who keeps a co-op world?",
+        "answer": "The host\u2019s save slot holds the world. Purchases use shared money, but vehicles belong to their buyer. Back up the host\u2019s slot before attempting recovery."
+      }
+    ]
+  },
+  "guides/how-to-use-packager": {
+    "title": "How to Use the Packager",
+    "description": "Place a Packager, connect its output and unload your tool. Follow the capsules to the station before extending the route or adding processing.",
+    "tdk": {
+      "title": "How to Use the Packager \u2014 Moon Sweepers Guide",
+      "description": "Place a Packager, connect its output and unload your tool. Follow the capsules to the station before extending the route or adding processing in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "How to Use the Packager"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Does the Packager sell dust?",
+        "answer": "No. It transfers hand-tool dust into capsules. Connect its output to a station intake to sell, or to processing equipment to make sand and stone."
+      }
+    ]
+  },
+  "guides/conveyor-belt-guide": {
+    "title": "Conveyor Belt Cost & Throughput Guide",
+    "description": "Price a conveyor route by length, connect the ports in the right direction and check whether capsule spacing can carry your factory\u2019s input.",
+    "tdk": {
+      "title": "Conveyor Belt Guide \u2014 Moon Sweepers Guide",
+      "description": "Price a conveyor route by length, connect the ports in the right direction and check whether capsule spacing can carry your factory\u2019s input in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Conveyor Belt Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Does a Merger double outgoing capacity?",
+        "answer": "No. Both feeds share one exit. If they exceed its capacity, the queue grows even when each source works correctly alone."
+      }
+    ]
+  },
+  "guides/pressure-chamber-guide": {
+    "title": "Pressure Chamber Recipe & Power Guide",
+    "description": "Supply dust and power to make sand. Compare full batches, partial loads and the value gained before adding a Stone Press.",
+    "tdk": {
+      "title": "Pressure Chamber Guide \u2014 Moon Sweepers Guide",
+      "description": "Set up a Pressure Chamber in Moon Sweepers with dust, power and a clear sand output. Compare full batches, partial loads and the extra value of processing.",
+      "keywords": [
+        "Moon Sweepers",
+        "Pressure Chamber Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Does processing triple the weight of dust?",
+        "answer": "No. A full 5 kg dust batch becomes 5 kg sand. Base value rises from $1/kg to $3/kg; the mass stays the same."
+      }
+    ],
+    "paragraphOverrides": {
+      "Check generation and range": [
+        "A 16 kW peak Tracker can cover a 10 kW chamber in enough sunlight. Keep the chamber within wireless range and check other connected machines. For night operation, budget stored energy separately from daytime generation."
+      ]
+    }
+  },
+  "guides/stone-press-guide": {
+    "title": "How the Stone Press Works",
+    "description": "Keep both dust and sand flowing, provide enough power and clear the output. Work out what the press adds beyond selling its ingredients.",
+    "tdk": {
+      "title": "How the Stone Press Works \u2014 Moon Sweepers Guide",
+      "description": "Keep both dust and sand flowing, provide enough power and clear the output. Work out what the press adds beyond selling its ingredients in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "How the Stone Press Works"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Can I feed only sand to the press?",
+        "answer": "No. Each full cycle needs 1 kg raw dust and 1 kg sand for one 2 kg block. Keep an unprocessed dust branch beside the chamber\u2019s output."
+      }
+    ]
+  },
+  "guides/solar-power-guide": {
+    "title": "Solar Power, Battery & Night Planning",
+    "description": "Choose a panel for its output, range and battery. Position fixed panels toward the Sun and separate generation capacity from stored energy.",
+    "tdk": {
+      "title": "Solar Power Guide \u2014 Moon Sweepers Guide & Details",
+      "description": "Choose a panel for its output, range and battery. Position fixed panels toward the Sun and separate generation capacity from stored energy in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Solar Power Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Can one Tracker power a Stone Press?",
+        "answer": "Its peak 16 kW output is below the press\u2019s nominal 18 kW demand. Add generation, then budget stored energy for darkness."
+      }
+    ],
+    "paragraphOverrides": {
+      "Keep runtime claims conditional": [
+        "Compare the running load in kW with the stored energy in kWh. Observe the battery after sunrise and before sunset to see whether daytime generation replenishes what your machines use overnight. A slow processor also needs its input checked before you add panels."
+      ]
+    }
+  },
+  "guides/joonas-capsule-delivery": {
+    "title": "Joonas Capsule Delivery",
+    "description": "Place receivers where J.O.O.N.A.S. can use them, connect their exits and diagnose a full bin or backed-up catcher group.",
+    "tdk": {
+      "title": "Joonas Capsule Delivery \u2014 Moon Sweepers Guide",
+      "description": "Set up Joonas capsule delivery in Moon Sweepers. Place catcher groups, keep receiver exits clear and diagnose a full robot bin or a backed-up delivery route.",
+      "keywords": [
+        "Moon Sweepers",
+        "Joonas Capsule Delivery"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Why is Joonas waiting with a full bin?",
+        "answer": "Check that a catcher exists, has receiving space and can drain. Catchers within 100 m form groups; receiving capacity affects which group the robot chooses."
+      }
+    ],
+    "paragraphOverrides": {
+      "Plan the receiving network first": [
+        "Budget $20,000 for J.O.O.N.A.S. and $1,500 for each catcher before belts and other equipment. This robot selects dusty sectors across the Moon, while Mk I and Mk II vacuums work near their docks. Plan its receiver capacity around actual deliveries."
+      ]
+    }
+  },
+  "guides/carrying-capacity-guide": {
+    "title": "Carrying Capacity & Container Upgrade Guide",
+    "description": "Compare tool containers and Dust Compactor levels. Calculate the combined capacity before paying for another upgrade.",
+    "tdk": {
+      "title": "Carrying Capacity & Containers \u2014 Moon Sweepers Guide",
+      "description": "Compare Moon Sweepers tool containers and Dust Compactor levels. Calculate combined carrying capacity, check discounts and choose your next storage upgrade.",
+      "keywords": [
+        "Moon Sweepers",
+        "Carrying Capacity & Containers"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Do containers stack with Dust Compactor?",
+        "answer": "Yes. Apply the container level multiplier and then Dust Compactor\u2019s modifier. Compare the combined capacity rather than adding percentages to the base."
+      }
+    ]
+  },
+  "guides/exploration-flags-and-sites": {
+    "title": "Flags, Lunar Sites & Exploration Route Guide",
+    "description": "Plan a route between flags, historic lunar sites and stations. Use coordinates, shared waypoints and teleporting to reduce repeat journeys.",
+    "tdk": {
+      "title": "Flags & Lunar Sites Guide \u2014 Moon Sweepers Guide",
+      "description": "Plan a route between flags, historic lunar sites and stations. Use coordinates, shared waypoints and teleporting to reduce repeat journeys in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Flags & Lunar Sites Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Does the website checklist update my save?",
+        "answer": "No. Visited markers stay in this browser. Your in-game discoveries and world save remain separate."
+      }
+    ]
+  },
+  "guides/vehicle-upgrade-guide": {
+    "title": "Vehicle Progression & Upgrade Buying Guide",
+    "description": "Choose a garage vehicle for your cleaning area, then compare hopper, motor, suction and unloading upgrades against the time you spend delivering.",
+    "tdk": {
+      "title": "Vehicle Progression Guide \u2014 Moon Sweepers Guide",
+      "description": "Choose Moon Sweepers vehicles for your route, then compare hopper, motor, suction and unload upgrades. Check which purchase reduces your delivery delays.",
+      "keywords": [
+        "Moon Sweepers",
+        "Vehicle Progression Guide"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Does Quick Release speed the conveyor?",
+        "answer": "No. It speeds vehicle unloading. The garage silo and exit belts still need capacity to carry the delivered material away."
+      }
+    ]
+  },
+  "guides/save-recovery-guide": {
+    "title": "Save Backup & Recovery",
+    "description": "Locate your slot\u2019s backups, copy the originals and check game-version compatibility before attempting to recover a world.",
+    "tdk": {
+      "title": "Save Backup & Recovery \u2014 Moon Sweepers Guide",
+      "description": "Locate Moon Sweepers save backups, copy your original world and check version compatibility. Follow the recovery precautions before replacing a slot\u2019s files.",
+      "keywords": [
+        "Moon Sweepers",
+        "Save Backup & Recovery"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Should I downgrade to recover a world?",
+        "answer": "Do not assume an older build opens a newer save. Patch 1.0.4 documents older-build incompatibility. Copy originals and backups before checking a restore."
+      }
+    ]
+  },
+  "guides/pc-performance-and-crash-fixes": {
+    "title": "PC Performance & Crash Fixes",
+    "description": "Check PC requirements, DirectX options and known loading fixes. Protect your world before changing settings or trying a save recovery.",
+    "tdk": {
+      "title": "PC Performance & Crash Fixes \u2014 Moon Sweepers Guide",
+      "description": "Check PC requirements, DirectX options and known loading fixes. Protect your world before changing settings or trying a save recovery in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "PC Performance & Crash Fixes"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "Should I replace a save before updating?",
+        "answer": "Keep copies first. Check the current patch and documented loading fixes before attempting a restore or removing world files."
+      }
+    ]
+  },
+  "guides/night-power-planning": {
+    "title": "Solar Batteries & Night Power Planning",
+    "description": "Work out how much energy your machines need through darkness. Compare battery kWh with the running load and the time available to recharge.",
+    "tdk": {
+      "title": "Night Power & Batteries \u2014 Moon Sweepers Guide",
+      "description": "Work out how much energy your machines need through darkness. Compare battery kWh with the running load and the time available to recharge in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Night Power & Batteries"
+      ]
+    },
+    "faqs": [
+      {
+        "question": "How do kW and kWh compare?",
+        "answer": "Multiply load in kW by running time in hours to get an ideal kWh budget. Account separately for charging limits, available output and losses."
+      }
+    ],
+    "paragraphOverrides": {
+      "Test the complete cycle": [
+        "Look at stored energy after sunrise, near midday and before sunset. If the battery drains before morning, add generation in range, reduce simultaneous processing or let part of the line idle at night. Recheck the next cycle after changing the load."
+      ]
+    }
+  },
+  "wiki/toothbrush": {
+    "title": "Toothbrush",
+    "description": "Toothbrush: free base price, 0.5 kg container and 0.12 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Toothbrush \u2014 Moon Sweepers Guide & Details",
+      "description": "Toothbrush: free base price, 0.5 kg container and 0.12 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Toothbrush"
+      ]
+    }
+  },
+  "wiki/building-tool": {
+    "title": "Building Tool",
+    "description": "Open the build menu, place equipment and move structures. Check placement controls and refunds before rearranging your base.",
+    "tdk": {
+      "title": "Building Tool \u2014 Moon Sweepers Guide & Details",
+      "description": "Open the build menu, place equipment and move structures. Check placement controls and refunds before rearranging your base in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Building Tool"
+      ]
+    }
+  },
+  "wiki/capsules": {
+    "title": "Capsules & Material Transport",
+    "description": "Move dust, sand and stone by hand or conveyor. Check capsule sizes, pickup reach and the world limit when deliveries start backing up.",
+    "tdk": {
+      "title": "Capsules & Transport \u2014 Moon Sweepers Wiki",
+      "description": "Move dust, sand and stone by hand or conveyor. Check capsule sizes, pickup reach and the world limit when deliveries start backing up in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Capsules & Transport"
+      ]
+    }
+  },
+  "wiki/lunar-dust": {
+    "title": "Lunar Dust",
+    "description": "Collect dust from the lunar surface, sell it for $1/kg before launch bonuses or keep it for sand and stone production.",
+    "tdk": {
+      "title": "Lunar Dust \u2014 Moon Sweepers Guide & Details",
+      "description": "Collect Moon Sweepers lunar dust, sell it for $1/kg before bonuses or feed production. Check uses in sand and stone recipes and the crew\u2019s launch multiplier.",
+      "keywords": [
+        "Moon Sweepers",
+        "Lunar Dust"
+      ]
+    }
+  },
+  "wiki/cleaning-vehicles": {
+    "title": "Cleaning Vehicles",
+    "description": "Compare the five garage vehicles by price, speed, cleaning width and hopper size. Keep transport-only vehicles separate from sweepers.",
+    "tdk": {
+      "title": "Cleaning Vehicles \u2014 Moon Sweepers Guide & Details",
+      "description": "Compare the five garage vehicles by price, speed, cleaning width and hopper size. Keep transport-only vehicles separate from sweepers in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Cleaning Vehicles"
+      ]
+    }
+  },
+  "wiki/shared-upgrades": {
+    "title": "Shared Upgrades",
+    "description": "The host\u2019s Upgrade Matrix applies across the crew. Check what is shared before spending the wallet on a tool or a vehicle upgrade.",
+    "tdk": {
+      "title": "Shared Crew Upgrades \u2014 Moon Sweepers Wiki",
+      "description": "The host\u2019s Upgrade Matrix applies across the crew. Check what is shared before spending the wallet on a tool or a vehicle upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Shared Crew Upgrades"
+      ]
+    }
+  },
+  "wiki/night-vision": {
+    "title": "Night Vision Goggles",
+    "description": "See the ground during lunar darkness without lighting a whole work area. Check the $350 purchase and the N-key lighting cycle.",
+    "tdk": {
+      "title": "Night Vision Goggles \u2014 Moon Sweepers Wiki",
+      "description": "See the ground during lunar darkness without lighting a whole work area. Check the $350 purchase and the N-key lighting cycle in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Night Vision Goggles"
+      ]
+    }
+  },
+  "wiki/selling-dust": {
+    "title": "Selling Dust, Sand & Stone",
+    "description": "Sell dust, sand and stone at the collector. Check when deliveries pay and how Market Contracts and Lunar Exchange change the launch value.",
+    "tdk": {
+      "title": "Selling Dust, Sand & Stone \u2014 Moon Sweepers Wiki",
+      "description": "Sell dust, sand and stone at the collector. Check when deliveries pay and how Market Contracts and Lunar Exchange change the launch value in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Selling Dust, Sand & Stone"
+      ]
+    }
+  },
+  "wiki/multiplayer": {
+    "title": "Multiplayer & Shared Progression",
+    "description": "Clean alone or with up to 16 players. Learn what the crew shares, what each player owns and how the host\u2019s world is saved.",
+    "tdk": {
+      "title": "Multiplayer & Shared Progression \u2014 Moon Sweepers Wiki",
+      "description": "Play Moon Sweepers alone or with up to 16 players. Check shared money, the host\u2019s save, crew upgrades, vehicle ownership and permissions before joining a world.",
+      "keywords": [
+        "Moon Sweepers",
+        "Multiplayer & Shared Progression"
+      ]
+    }
+  },
+  "wiki/save-backups": {
+    "title": "Save Files & Backups",
+    "description": "Find the Windows backup folder, identify your world slot and check the automatic backup schedule before restoring a save.",
+    "tdk": {
+      "title": "Save Files & Backups \u2014 Moon Sweepers Wiki",
+      "description": "Find the Moon Sweepers Windows save backup folder, check the five world slots and backup schedule, and protect the host\u2019s world before attempting recovery.",
+      "keywords": [
+        "Moon Sweepers",
+        "Save Files & Backups"
+      ]
+    }
+  },
+  "wiki/toothbrush-container": {
+    "title": "Toothbrush Container",
+    "description": "Compare Toothbrush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Toothbrush Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Toothbrush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Toothbrush Container"
+      ]
+    }
+  },
+  "wiki/nail-brush": {
+    "title": "Nail Brush",
+    "description": "Nail Brush: $5 base price, 0.75 kg container and 0.19 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Nail Brush \u2014 Moon Sweepers Guide & Details",
+      "description": "Nail Brush: $5 base price, 0.75 kg container and 0.19 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Nail Brush"
+      ]
+    }
+  },
+  "wiki/nail-brush-container": {
+    "title": "Nail Brush Container",
+    "description": "Compare Nail Brush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Nail Brush Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Nail Brush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Nail Brush Container"
+      ]
+    }
+  },
+  "wiki/hand-brush": {
+    "title": "Hand Brush",
+    "description": "Hand Brush: $10 base price, 1 kg container and 0.25 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Hand Brush \u2014 Moon Sweepers Guide & Details",
+      "description": "Hand Brush: $10 base price, 1 kg container and 0.25 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Hand Brush"
+      ]
+    }
+  },
+  "wiki/hand-brush-container": {
+    "title": "Hand Brush Container",
+    "description": "Compare Hand Brush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Hand Brush Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Hand Brush container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Hand Brush Container"
+      ]
+    }
+  },
+  "wiki/household-broom": {
+    "title": "Household Broom",
+    "description": "Household Broom: $25 base price, 3 kg container and 0.44 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Household Broom \u2014 Moon Sweepers Guide & Details",
+      "description": "Household Broom: $25 base price, 3 kg container and 0.44 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Household Broom"
+      ]
+    }
+  },
+  "wiki/household-broom-container": {
+    "title": "Household Broom Container",
+    "description": "Compare Household Broom container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Household Broom Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Household Broom container upgrades in Moon Sweepers, from 3 kg to 24 kg. Check level prices, Dust Compactor stacking and eligible purchase discounts.",
+      "keywords": [
+        "Moon Sweepers",
+        "Household Broom Container"
+      ]
+    }
+  },
+  "wiki/wide-broom": {
+    "title": "Wide Broom",
+    "description": "Wide Broom: $75 base price, 6 kg container and 0.66 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Wide Broom \u2014 Moon Sweepers Guide & Details",
+      "description": "Wide Broom: $75 base price, 6 kg container and 0.66 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Wide Broom"
+      ]
+    }
+  },
+  "wiki/wide-broom-container": {
+    "title": "Wide Broom Container",
+    "description": "Compare Wide Broom container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Wide Broom Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Wide Broom container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Wide Broom Container"
+      ]
+    }
+  },
+  "wiki/extra-wide-broom": {
+    "title": "Extra Wide Broom",
+    "description": "Extra Wide Broom: $150 base price, 12 kg container and 0.99 m cleaning width. Compare container upgrades before replacing your tool.",
+    "tdk": {
+      "title": "Extra Wide Broom \u2014 Moon Sweepers Guide & Details",
+      "description": "Extra Wide Broom: $150 base price, 12 kg container and 0.99 m cleaning width. Compare container upgrades before replacing your tool in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Extra Wide Broom"
+      ]
+    }
+  },
+  "wiki/extra-wide-broom-container": {
+    "title": "Extra Wide Broom Container",
+    "description": "Compare Extra Wide Broom container levels, capacities and purchase costs. Check how Dust Compactor and eligible discounts change your next upgrade.",
+    "tdk": {
+      "title": "Extra Wide Broom Container \u2014 Moon Sweepers Wiki",
+      "description": "Compare Extra Wide Broom containers in Moon Sweepers, from 12 kg to 96 kg. Check level prices, Dust Compactor stacking and discounts before buying an upgrade.",
+      "keywords": [
+        "Moon Sweepers",
+        "Extra Wide Broom Container"
+      ]
+    }
+  },
+  "wiki/push-sweeper": {
+    "title": "Push Sweeper",
+    "description": "Push Sweeper: $300, 100 kg hopper, 1.35 m cleaning width and 1 capsule slot. Cruise at 2.8 m/s or boost to 3.78 m/s before upgrades.",
+    "tdk": {
+      "title": "Push Sweeper \u2014 Moon Sweepers Guide & Details",
+      "description": "Push Sweeper: $300, 100 kg hopper, 1.35 m cleaning width and 1 capsule slot. Cruise at 2.8 m/s or boost to 3.78 m/s before upgrades in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Push Sweeper"
+      ]
+    }
+  },
+  "wiki/ride-on-sweeper": {
+    "title": "Ride-on Sweeper",
+    "description": "Ride-on Sweeper: $1,000, 500 kg hopper, 1.98 m cleaning width and 2 capsule slots. Cruise at 7.2 m/s or boost to 9.72 m/s before upgrades.",
+    "tdk": {
+      "title": "Ride-on Sweeper \u2014 Moon Sweepers Guide & Details",
+      "description": "Ride-on Sweeper: $1,000, 500 kg hopper, 1.98 m cleaning width and 2 capsule slots. Cruise at 7.2 m/s or boost to 9.72 m/s before upgrades in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Ride-on Sweeper"
+      ]
+    }
+  },
+  "wiki/crew-transport": {
+    "title": "Crew Transport",
+    "description": "An eight-seat $2,000 crew van with four capsule slots. Cruise at 7 m/s or boost to 9.45 m/s; this vehicle does not clean dust.",
+    "tdk": {
+      "title": "Crew Transport \u2014 Moon Sweepers Guide & Details",
+      "description": "An eight-seat $2,000 crew van with four capsule slots. Cruise at 7 m/s or boost to 9.45 m/s; this vehicle does not clean dust in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Crew Transport"
+      ]
+    }
+  },
+  "wiki/lunar-sweeper": {
+    "title": "Lunar Sweeper",
+    "description": "Lunar Sweeper: $2,500, 1,200 kg hopper, 2.8 m cleaning width and 4 capsule slots. Cruise at 6.5 m/s or boost to 8.78 m/s before upgrades.",
+    "tdk": {
+      "title": "Lunar Sweeper \u2014 Moon Sweepers Guide & Details",
+      "description": "Lunar Sweeper: $2,500, 1,200 kg hopper, 2.8 m cleaning width and 4 capsule slots. Cruise at 6.5 m/s or boost to 8.78 m/s before upgrades in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Lunar Sweeper"
+      ]
+    }
+  },
+  "wiki/mega-vacuum-rover": {
+    "title": "Mega Vacuum Rover",
+    "description": "Mega Vacuum Rover: $6,000, 3,000 kg hopper, 3.7 m cleaning width and 6 capsule slots. Cruise at 5 m/s or boost to 6.75 m/s before upgrades.",
+    "tdk": {
+      "title": "Mega Vacuum Rover \u2014 Moon Sweepers Guide & Details",
+      "description": "Mega Vacuum Rover: $6,000, 3,000 kg hopper, 3.7 m cleaning width and 6 capsule slots. Cruise at 5 m/s or boost to 6.75 m/s before upgrades in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Mega Vacuum Rover"
+      ]
+    }
+  },
+  "wiki/collector-uplink": {
+    "title": "Collector Uplink",
+    "description": "Activate the crew\u2019s Upgrade Matrix and open its progression branches. This root upgrade costs nothing.",
+    "tdk": {
+      "title": "Collector Uplink \u2014 Moon Sweepers Costs & Effects",
+      "description": "Open the Moon Sweepers Upgrade Matrix with Collector Uplink. Check this free root upgrade, the progression branches it connects and shared crew upgrade rules.",
+      "keywords": [
+        "Moon Sweepers",
+        "Collector Uplink"
+      ]
+    }
+  },
+  "wiki/wide-heads": {
+    "title": "Wide Heads",
+    "description": "Widen eligible hand-tool cleaning heads. Compare each level\u2019s extra coverage with the tool and container you already use.",
+    "tdk": {
+      "title": "Wide Heads \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Moon Sweepers Wide Heads upgrade levels, costs and requirements. Check the cleaning-width effect on eligible tools before spending the crew\u2019s money.",
+      "keywords": [
+        "Moon Sweepers",
+        "Wide Heads"
+      ]
+    }
+  },
+  "wiki/market-contracts": {
+    "title": "Market Contracts",
+    "description": "Increase material launch payouts by 6%, 12% or 18%. These bonuses change sale value, not how much dust you collect.",
+    "tdk": {
+      "title": "Market Contracts \u2014 Moon Sweepers Costs & Effects",
+      "description": "Increase Moon Sweepers material sales with Market Contracts. Compare the 6%, 12% and 18% levels, purchase costs and the combined bonus with Lunar Exchange.",
+      "keywords": [
+        "Moon Sweepers",
+        "Market Contracts"
+      ]
+    }
+  },
+  "wiki/supplier-network": {
+    "title": "Supplier Network",
+    "description": "Reduce eligible tool and container purchase prices. Check which purchases qualify before applying the discount to a shopping list.",
+    "tdk": {
+      "title": "Supplier Network \u2014 Moon Sweepers Costs & Effects",
+      "description": "Reduce eligible tool and container purchase prices. Check which purchases qualify before applying the discount to a shopping list in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Supplier Network"
+      ]
+    }
+  },
+  "wiki/dust-compactor": {
+    "title": "Dust Compactor",
+    "description": "Carry more with eligible tool containers. Its 15%, 30% and 45% levels stack with the container\u2019s own capacity multiplier.",
+    "tdk": {
+      "title": "Dust Compactor \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Moon Sweepers Dust Compactor costs and its 15%, 30% and 45% capacity bonuses. See how the levels stack with tool containers before buying more space.",
+      "keywords": [
+        "Moon Sweepers",
+        "Dust Compactor"
+      ]
+    }
+  },
+  "wiki/auto-packer": {
+    "title": "Auto-Packer",
+    "description": "Drop a capsule when a hand-tool container fills. This upgrade does not replace the Packager building or connect a conveyor route.",
+    "tdk": {
+      "title": "Auto-Packer \u2014 Moon Sweepers Costs & Effects",
+      "description": "Drop a capsule when a hand-tool container fills. This upgrade does not replace the Packager building or connect a conveyor route in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Auto-Packer"
+      ]
+    }
+  },
+  "wiki/lunar-exchange": {
+    "title": "Lunar Exchange",
+    "description": "Add ten percentage points to material launch payouts after Market Contracts III. Check the combined multiplier before estimating sales.",
+    "tdk": {
+      "title": "Lunar Exchange \u2014 Moon Sweepers Costs & Effects",
+      "description": "Add ten percentage points to material launch payouts after Market Contracts III. Check the combined multiplier before estimating sales in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Lunar Exchange"
+      ]
+    }
+  },
+  "wiki/servo-stride": {
+    "title": "Servo Stride",
+    "description": "Run faster across the Moon. Compare the level costs and the combined effect with Exo Frame when planning longer collection routes.",
+    "tdk": {
+      "title": "Servo Stride \u2014 Moon Sweepers Costs & Effects",
+      "description": "Run faster across the Moon. Compare the level costs and the combined effect with Exo Frame when planning longer collection routes in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Servo Stride"
+      ]
+    }
+  },
+  "wiki/rapid-transfer": {
+    "title": "Rapid Transfer",
+    "description": "Spend less time unloading at eligible delivery points. Compare transfer time with the travel and cleaning parts of your route.",
+    "tdk": {
+      "title": "Rapid Transfer \u2014 Moon Sweepers Costs & Effects",
+      "description": "Spend less time unloading at eligible delivery points. Compare transfer time with the travel and cleaning parts of your route in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Rapid Transfer"
+      ]
+    }
+  },
+  "wiki/capsule-tether": {
+    "title": "Capsule Tether",
+    "description": "Pick up capsules from farther away. The base 3.5 m reach increases to 5 m and then 6.5 m with its two levels.",
+    "tdk": {
+      "title": "Capsule Tether \u2014 Moon Sweepers Costs & Effects",
+      "description": "Extend capsule pickup reach in Moon Sweepers with Capsule Tether. Compare 3.5 m, 5 m and 6.5 m reach, upgrade costs and requirements for the logistics branch.",
+      "keywords": [
+        "Moon Sweepers",
+        "Capsule Tether"
+      ]
+    }
+  },
+  "wiki/lunar-leap": {
+    "title": "Lunar Leap",
+    "description": "Jump higher while crossing the lunar terrain. Check the combined jump height with Exo Frame before buying both upgrades.",
+    "tdk": {
+      "title": "Lunar Leap \u2014 Moon Sweepers Costs & Effects",
+      "description": "Jump higher in Moon Sweepers with Lunar Leap. Check level costs and requirements, then calculate the combined jump height with the separate Exo Frame upgrade.",
+      "keywords": [
+        "Moon Sweepers",
+        "Lunar Leap"
+      ]
+    }
+  },
+  "wiki/long-reach": {
+    "title": "Long Reach",
+    "description": "Extend hand-tool reach so you can clean farther from where you stand. Compare levels with your current tool\u2019s working area.",
+    "tdk": {
+      "title": "Long Reach \u2014 Moon Sweepers Costs & Effects",
+      "description": "Extend hand-tool reach so you can clean farther from where you stand. Compare levels with your current tool\u2019s working area in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Long Reach"
+      ]
+    }
+  },
+  "wiki/deep-heads": {
+    "title": "Deep Heads",
+    "description": "Improve eligible cleaning heads through the crew matrix. Check the per-level effect and prerequisite before buying the next level.",
+    "tdk": {
+      "title": "Deep Heads \u2014 Moon Sweepers Costs & Effects",
+      "description": "Improve eligible cleaning heads through the crew matrix. Check the per-level effect and prerequisite before buying the next level in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Deep Heads"
+      ]
+    }
+  },
+  "wiki/region-bounty": {
+    "title": "Region Bounty",
+    "description": "Earn extra money for personally credited region completions. Team-credited regions keep the base reward rather than the personal bonus.",
+    "tdk": {
+      "title": "Region Bounty \u2014 Moon Sweepers Costs & Effects",
+      "description": "Earn extra money for personally credited region completions. Team-credited regions keep the base reward rather than the personal bonus in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Region Bounty"
+      ]
+    }
+  },
+  "wiki/exo-frame": {
+    "title": "Exo Frame",
+    "description": "Improve running and jumping together. Its movement modifiers multiply with Servo Stride and Lunar Leap rather than simply adding.",
+    "tdk": {
+      "title": "Exo Frame \u2014 Moon Sweepers Costs & Effects",
+      "description": "Improve running and jumping together. Its movement modifiers multiply with Servo Stride and Lunar Leap rather than simply adding in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Exo Frame"
+      ]
+    }
+  },
+  "wiki/throw-assist": {
+    "title": "Throw Assist",
+    "description": "Throw capsules farther when moving material by hand. It changes throw distance, not conveyor speed or material sale value.",
+    "tdk": {
+      "title": "Throw Assist \u2014 Moon Sweepers Costs & Effects",
+      "description": "Throw Moon Sweepers capsules farther with Throw Assist. Compare upgrade levels, costs and prerequisites, and distinguish throw distance from conveyor speed.",
+      "keywords": [
+        "Moon Sweepers",
+        "Throw Assist"
+      ]
+    }
+  },
+  "wiki/surge-heads": {
+    "title": "Surge Heads",
+    "description": "Unlock a further cleaning-head improvement through the crew matrix. Check the required branch and cost before committing shared funds.",
+    "tdk": {
+      "title": "Surge Heads \u2014 Moon Sweepers Costs & Effects",
+      "description": "Unlock a further cleaning-head improvement through the crew matrix. Check the required branch and cost before committing shared funds in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Surge Heads"
+      ]
+    }
+  },
+  "wiki/express-dock": {
+    "title": "Express Dock",
+    "description": "Reduce delivery delays after progressing through the logistics branch. Compare its combined transfer effect with Rapid Transfer.",
+    "tdk": {
+      "title": "Express Dock \u2014 Moon Sweepers Costs & Effects",
+      "description": "Reduce delivery delays after progressing through the logistics branch. Compare its combined transfer effect with Rapid Transfer in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Express Dock"
+      ]
+    }
+  },
+  "wiki/tool-belt": {
+    "title": "Tool Belt",
+    "description": "Carry and switch your equipped tools with the Tool Belt. Check the supply-wall purchase separately from shared matrix upgrades.",
+    "tdk": {
+      "title": "Tool Belt \u2014 Moon Sweepers Costs & Effects",
+      "description": "Carry and switch your equipped tools with the Tool Belt. Check the supply-wall purchase separately from shared matrix upgrades in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Tool Belt"
+      ]
+    }
+  },
+  "wiki/forward-jetpack": {
+    "title": "Forward Jetpack",
+    "description": "Use short forward bursts to cross ground faster. Check its cost and controls before treating it as a substitute for a vehicle.",
+    "tdk": {
+      "title": "Forward Jetpack \u2014 Moon Sweepers Costs & Effects",
+      "description": "Use short forward bursts to cross ground faster. Check its cost and controls before treating it as a substitute for a vehicle in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Forward Jetpack"
+      ]
+    }
+  },
+  "wiki/gravity-boots": {
+    "title": "Gravity Boots",
+    "description": "Switch to Earth-like gravity for firmer movement. The boots change gravity rather than increasing the size of a tool container.",
+    "tdk": {
+      "title": "Gravity Boots \u2014 Moon Sweepers Costs & Effects",
+      "description": "Switch to Earth-like gravity for firmer movement. The boots change gravity rather than increasing the size of a tool container in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Gravity Boots"
+      ]
+    }
+  },
+  "wiki/helmet-lamp": {
+    "title": "Helmet Lamp",
+    "description": "Light the ground ahead from your helmet. Use the lighting cycle to switch modes without building a powered lighting route.",
+    "tdk": {
+      "title": "Helmet Lamp \u2014 Moon Sweepers Costs & Effects",
+      "description": "Light your Moon Sweepers work area with the Helmet Lamp. Check equipment effects, purchase details and lighting controls before preparing a route for darkness.",
+      "keywords": [
+        "Moon Sweepers",
+        "Helmet Lamp"
+      ]
+    }
+  },
+  "wiki/moon-sand": {
+    "title": "Moon Sand",
+    "description": "Turn dust into sand in a Pressure Chamber. Sell it for $3/kg before bonuses or keep a sand supply for your Stone Press.",
+    "tdk": {
+      "title": "Moon Sand \u2014 Moon Sweepers Guide & Details",
+      "description": "Make Moon Sweepers sand in a Pressure Chamber, sell it for $3/kg before bonuses or feed a Stone Press. Check the dust input, batch size and production timing.",
+      "keywords": [
+        "Moon Sweepers",
+        "Moon Sand"
+      ]
+    },
+    "paragraphOverrides": {
+      "Production context": [
+        "A full 5 kg dust batch becomes 5 kg sand in 12 seconds at 10 kW. Continuous full-power batches produce 25 kg/min, provided the input stays supplied and the output remains clear."
+      ]
+    }
+  },
+  "wiki/moon-stone": {
+    "title": "Moon Stone",
+    "description": "Combine dust and sand in a Stone Press to make 2 kg stone blocks. The base sale value is $7/kg before launch bonuses.",
+    "tdk": {
+      "title": "Moon Stone \u2014 Moon Sweepers Guide & Details",
+      "description": "Make Moon Sweepers stone with dust and sand in a Stone Press. Check the 2 kg block recipe, $7/kg base price and delivery options before expanding production.",
+      "keywords": [
+        "Moon Sweepers",
+        "Moon Stone"
+      ]
+    }
+  },
+  "wiki/official-media": {
+    "title": "Official Screenshots & Credits",
+    "description": "View the game\u2019s official Steam screenshots and their original links. Check image credits and the difference between gameplay and site artwork.",
+    "tdk": {
+      "title": "Official Screenshots & Credits \u2014 Moon Sweepers Wiki",
+      "description": "View the game\u2019s official Steam screenshots and their original links. Check image credits and the difference between gameplay and site artwork in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Official Screenshots & Credits"
+      ]
+    }
+  },
+  "wiki/tuned-motors": {
+    "title": "Tuned Motors Vehicle Upgrade",
+    "description": "Compare Tuned Motors levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Tuned Motors \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Tuned Motors levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Tuned Motors"
+      ]
+    }
+  },
+  "wiki/big-hopper": {
+    "title": "Big Hopper Vehicle Upgrade",
+    "description": "Compare Big Hopper levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Big Hopper \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Big Hopper levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Big Hopper"
+      ]
+    }
+  },
+  "wiki/turbo-kit": {
+    "title": "Turbo Kit Vehicle Upgrade",
+    "description": "Compare Turbo Kit levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Turbo Kit \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Turbo Kit levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Turbo Kit"
+      ]
+    }
+  },
+  "wiki/cruise-control": {
+    "title": "Cruise Control Vehicle Upgrade",
+    "description": "Compare Cruise Control levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Cruise Control \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Cruise Control levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Cruise Control"
+      ]
+    }
+  },
+  "wiki/suction-control": {
+    "title": "Suction Control Vehicle Upgrade",
+    "description": "Compare Suction Control levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Suction Control \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Suction Control levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Suction Control"
+      ]
+    }
+  },
+  "wiki/quick-release": {
+    "title": "Quick Release Vehicle Upgrade",
+    "description": "Compare Quick Release levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Quick Release \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Quick Release levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Quick Release"
+      ]
+    }
+  },
+  "wiki/floodlights": {
+    "title": "Floodlights Vehicle Upgrade",
+    "description": "Compare Floodlights levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade.",
+    "tdk": {
+      "title": "Floodlights \u2014 Moon Sweepers Costs & Effects",
+      "description": "Compare Floodlights levels and prices for each eligible vehicle. Choose the vehicle in your garage before paying for a separate upgrade in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Floodlights"
+      ]
+    }
+  },
+  "wiki/controls": {
+    "title": "PC Controls & Key Bindings",
+    "description": "Find keyboard controls for cleaning, building, driving and the Moon map. Use the placement keys when a belt or machine needs adjustment.",
+    "tdk": {
+      "title": "PC Controls & Key Bindings \u2014 Moon Sweepers Wiki",
+      "description": "Find keyboard controls for cleaning, building, driving and the Moon map. Use the placement keys when a belt or machine needs adjustment in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "PC Controls & Key Bindings"
+      ]
+    },
+    "paragraphOverrides": {
+      "Movement and navigation": [
+        "Default PC controls are listed below. Keyboard rebinding is unavailable in the documented game version. Steam Input can remap supported controllers."
+      ]
+    }
+  },
+  "wiki/day-and-night": {
+    "title": "Day & Night Cycle",
+    "description": "Plan around the 60-minute lunar cycle. Keep enough stored energy and lighting for work after solar generation falls.",
+    "tdk": {
+      "title": "Day & Night Cycle \u2014 Moon Sweepers Guide & Details",
+      "description": "Plan work around the Moon Sweepers 60-minute day and night cycle. Check solar generation, battery storage and lighting options before keeping a factory running.",
+      "keywords": [
+        "Moon Sweepers",
+        "Day & Night Cycle"
+      ]
+    }
+  },
+  "wiki/regions": {
+    "title": "Regions & Completion Rewards",
+    "description": "Track the Moon\u2019s cleaning regions, check completion and understand which player receives a personal Region Bounty bonus.",
+    "tdk": {
+      "title": "Regions & Rewards \u2014 Moon Sweepers Guide & Details",
+      "description": "Track Moon Sweepers regions, inspect remaining dust and check completion rewards. Learn when personal Region Bounty applies and how Moon-wide milestones work.",
+      "keywords": [
+        "Moon Sweepers",
+        "Regions & Rewards"
+      ]
+    }
+  },
+  "wiki/collector-and-stations": {
+    "title": "Collector & Lunar Stations",
+    "description": "Find the four lunar stations, unload materials and unlock teleport destinations. Check which deliveries pay immediately and which use a launch.",
+    "tdk": {
+      "title": "Collector & Stations \u2014 Moon Sweepers Wiki",
+      "description": "Find the four lunar stations, unload materials and unlock teleport destinations. Check which deliveries pay immediately and which use a launch in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Collector & Stations"
+      ]
+    }
+  },
+  "wiki/buildings": {
+    "title": "Building Tool & Structures",
+    "description": "Build foundations and structures, rotate pieces and move existing equipment. Check the available families and full demolition refunds.",
+    "tdk": {
+      "title": "Building Tool & Structures \u2014 Moon Sweepers Wiki",
+      "description": "Build foundations and structures, rotate pieces and move existing equipment. Check the available families and full demolition refunds in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Building Tool & Structures"
+      ]
+    }
+  },
+  "wiki/flags": {
+    "title": "Flags",
+    "description": "Find all 195 flags by name and coordinate. Each discovery pays $100; use nearby targets and the interactive map to plan a route.",
+    "tdk": {
+      "title": "Flag Locations \u2014 Moon Sweepers Map & Rewards",
+      "description": "Find all 195 Moon Sweepers flags with coordinates and nearby targets. Check the $100 discovery reward and use the interactive map to plan your next flag route.",
+      "keywords": [
+        "Moon Sweepers",
+        "Flags"
+      ]
+    }
+  },
+  "wiki/lunar-sites": {
+    "title": "Lunar Sites & Discovery Rewards",
+    "description": "Find 26 historic lunar mission sites on the game map. Each discovery pays $250, separate from flag rewards and material sales.",
+    "tdk": {
+      "title": "Lunar Sites & Discovery Rewards \u2014 Moon Sweepers Wiki",
+      "description": "Find 26 historic lunar mission sites on the game map. Each discovery pays $250, separate from flag rewards and material sales in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Lunar Sites & Discovery Rewards"
+      ]
+    }
+  },
+  "wiki/waypoints-and-teleporting": {
+    "title": "Waypoints & Teleporting",
+    "description": "Share up to 12 waypoints with your crew and teleport between visited stations. Each trip costs $50 and leaves your vehicle behind.",
+    "tdk": {
+      "title": "Waypoints & Teleporting \u2014 Moon Sweepers Wiki",
+      "description": "Share up to 12 waypoints with your crew and teleport between visited stations. Each trip costs $50 and leaves your vehicle behind in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Waypoints & Teleporting"
+      ]
+    }
+  },
+  "wiki/player-movement": {
+    "title": "Player Movement & Upgrade Stacking",
+    "description": "Check running speed, jumps and movement upgrades. See how Servo Stride, Lunar Leap and Exo Frame combine before spending.",
+    "tdk": {
+      "title": "Player Movement & Upgrades \u2014 Moon Sweepers Wiki",
+      "description": "Compare Moon Sweepers running speed, jumps and suit movement. Check Servo Stride, Lunar Leap, Exo Frame and jetpack effects before choosing a travel upgrade.",
+      "keywords": [
+        "Moon Sweepers",
+        "Player Movement & Upgrades"
+      ]
+    }
+  },
+  "wiki/vehicle-tricks": {
+    "title": "Vehicle Tricks & Landing Rewards",
+    "description": "Land flips, rolls, spins and airtime cleanly to earn a reward. Check the combo multiplier, payout cap and wipeout conditions.",
+    "tdk": {
+      "title": "Vehicle Tricks & Rewards \u2014 Moon Sweepers Wiki",
+      "description": "Land flips, rolls, spins and airtime cleanly to earn a reward. Check the combo multiplier, payout cap and wipeout conditions in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Vehicle Tricks & Rewards"
+      ]
+    }
+  },
+  "wiki/station-facilities": {
+    "title": "Station Facilities & Crew Activities",
+    "description": "Find lockers, bunks, coffee, games and whiteboards at a station. Learn which activities change your appearance or save crew notes.",
+    "tdk": {
+      "title": "Station Facilities \u2014 Moon Sweepers Guide & Details",
+      "description": "Find lockers, bunks, coffee, games and whiteboards at a station. Learn which activities change your appearance or save crew notes in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Station Facilities"
+      ]
+    }
+  },
+  "wiki/achievements": {
+    "title": "Achievements",
+    "description": "Find all 33 achievement unlocks, from your first sweep to a fully cleaned Moon. Filter the checklist by goal, search a name and check the hidden belt-loop condition.",
+    "tdk": {
+      "title": "All 33 Achievements \u2014 Moon Sweepers Wiki",
+      "description": "Check the unlock conditions for all 33 achievements, including delivery counters, Moon-cleaning milestones and the hidden belt-loop event in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "All 33 Achievements"
+      ]
+    },
+    "relatedLinks": [
+      {
+        "title": "Regions and Moon-cleaning rewards",
+        "href": "/wiki/mechanics/regions"
+      },
+      {
+        "title": "Multiplayer and shared progression",
+        "href": "/wiki/mechanics/multiplayer"
+      },
+      {
+        "title": "Conveyor Belt setup guide",
+        "href": "/guides/conveyor-belt-guide"
+      }
+    ]
+  },
+  "wiki/radio": {
+    "title": "Radio, Tracks & Crew Mixes",
+    "description": "Queue music, save crew mixes and choose helmet or station-speaker playback. Adjust your own listening without muting the crew.",
+    "tdk": {
+      "title": "Radio & Crew Mixes \u2014 Moon Sweepers Guide & Details",
+      "description": "Queue music, save crew mixes and choose helmet or station-speaker playback. Adjust your own listening without muting the crew in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Radio & Crew Mixes"
+      ]
+    }
+  },
+  "wiki/astronaut-looks": {
+    "title": "Astronaut Appearance & Colour Presets",
+    "description": "Change your visor expression, eye colour and suit at a station locker. Use presets or customise the colours without changing equipment stats.",
+    "tdk": {
+      "title": "Astronaut Appearance \u2014 Moon Sweepers Wiki",
+      "description": "Change your visor expression, eye colour and suit at a station locker. Use presets or customise the colours without changing equipment stats in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Astronaut Appearance"
+      ]
+    }
+  },
+  "wiki/ending": {
+    "title": "Moon Completion & Ending Conditions",
+    "description": "Check the Moon-cleaning condition that triggers the ending and the four progress milestones. The final sequence itself is not described here.",
+    "tdk": {
+      "title": "Moon Completion & Ending \u2014 Moon Sweepers Wiki",
+      "description": "Check the Moon-cleaning condition that triggers the ending and the four progress milestones. The final sequence itself is not described here in Moon Sweepers.",
+      "keywords": [
+        "Moon Sweepers",
+        "Moon Completion & Ending"
+      ]
+    }
+  },
+  "wiki/system-requirements": {
+    "title": "PC System Requirements",
+    "description": "Compare your PC with the minimum and recommended Windows specifications. Check graphics API, memory and storage before troubleshooting performance.",
+    "tdk": {
+      "title": "PC System Requirements \u2014 Moon Sweepers Wiki",
+      "description": "Check Moon Sweepers minimum and recommended Windows PC requirements. Compare CPU, graphics, RAM, DirectX and storage before installing or troubleshooting.",
+      "keywords": [
+        "Moon Sweepers",
+        "PC System Requirements"
+      ]
+    }
+  },
+  "wiki/languages-and-platforms": {
+    "title": "Languages, Platforms & Release",
+    "description": "Check Windows availability, supported languages and what is confirmed about other platforms. Use the official store for purchase and installation.",
+    "tdk": {
+      "title": "Platforms & Languages \u2014 Moon Sweepers Wiki",
+      "description": "Check Windows availability, supported languages and what is confirmed about other platforms in Moon Sweepers. Check the costs, effects and gameplay rules.",
+      "keywords": [
+        "Moon Sweepers",
+        "Platforms & Languages"
+      ]
+    },
+    "paragraphOverrides": {
+      "Release and platform": [
+        "Moon Sweepers released on Steam on October 23, 2026, developed and published by DragDrop Games. The store lists Windows requirements. Native macOS, Linux and console availability are not established by that listing."
+      ]
+    }
+  },
+  "updates/update-1-1-preview": {
+    "title": "Update 1.1: December Plans",
+    "description": "A preview of the next major update. Planned, not released.",
+    "tdk": {
+      "title": "Update 1.1: December Plans \u2014 Moon Sweepers Patch Notes",
+      "description": "Read Moon Sweepers 1.1 plans announced on October 30. Check December plans for production and progression, with future features kept separate from releases.",
+      "keywords": [
+        "Moon Sweepers",
+        "Update 1.1: December Plans"
+      ]
+    }
+  },
+  "updates/patch-1-0-5": {
+    "title": "Patch 1.0.5: Building & Automation",
+    "description": "Move structures, build on dusty ground and improve capsule delivery.",
+    "tdk": {
+      "title": "Patch 1.0.5: Building & Automation \u2014 Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.5 changes to building, Joonas delivery and world capsule limits. Check fixes for loading, large bases, multiplayer and controls.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.5: Building & Automation"
+      ]
+    }
+  },
+  "updates/patch-1-0-4": {
+    "title": "Patch 1.0.4: Robots, Backups & Co-op",
+    "description": "Robot delivery improvements, night vision and automatic backups.",
+    "tdk": {
+      "title": "Patch 1.0.4: Robots, Backups & Co-op \u2014 Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.4 changes to Joonas, night vision, maps and backups. Check save compatibility, belt behaviour, co-op fixes and DirectX options.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.4: Robots, Backups & Co-op"
+      ]
+    }
+  },
+  "updates/patch-1-0-3": {
+    "title": "Patch 1.0.3: Shared Upgrades & Delivery",
+    "description": "Crew-wide upgrades, host controls and belt-fed deposit fixes.",
+    "tdk": {
+      "title": "Patch 1.0.3: Shared Upgrades & Delivery \u2014 Moon Sweepers",
+      "description": "Read Moon Sweepers patch 1.0.3 changes to shared upgrades, host controls and conveyor payments. Check vehicle ownership, garage removal and save-loading fixes.",
+      "keywords": [
+        "Moon Sweepers",
+        "Patch 1.0.3: Shared Upgrades & Delivery"
+      ]
+    }
+  },
+  "updates/a-message-from-the-developers": {
+    "title": "A Message From the Developers",
+    "description": "The two-person team discusses launch issues, co-op fixes and automation priorities.",
+    "tdk": {
+      "title": "A Message From the Developers \u2014 Moon Sweepers Patch Notes",
+      "description": "The two-person team discusses launch issues, co-op fixes and automation priorities in Moon Sweepers. See the changes and their release status.",
+      "keywords": [
+        "Moon Sweepers",
+        "A Message From the Developers"
+      ]
+    }
+  }
+}

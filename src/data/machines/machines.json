@@ -1,0 +1,1635 @@
+[
+  {
+    "isDetails": false,
+    "slug": "packager",
+    "title": "Packager",
+    "description": "Move dust from your hand tool onto a conveyor. Check the $100 price, 100 kg storage and belt connection; this building is separate from the Auto-Packer upgrade.",
+    "category": "Logistics",
+    "sections": [
+      {
+        "heading": "What the Packager does",
+        "paragraphs": [
+          "Unload collected dust at this transfer point and move it onward on a belt. It is not an autonomous cleaner or a processor. The Packager costs $100; the separate Building Tool costs $50."
+        ]
+      },
+      {
+        "heading": "Connect a useful route",
+        "paragraphs": [
+          "Face the output toward a conveyor ending at a station intake or compatible processor. Load a small amount using the interaction prompt, then follow the capsules. A connected station pays; the Packager itself does not increase material value."
+        ]
+      },
+      {
+        "heading": "Storage and output",
+        "paragraphs": [
+          "Storage holds 100 kg and outgoing capsules carry up to 1 kg. Output emission and belt capacity are separate limits, so an emission interval should not be mistaken for guaranteed route throughput."
+        ]
+      },
+      {
+        "heading": "Packager versus Auto-Packer",
+        "paragraphs": [
+          "Auto-Packer is a separate $2,000 upgrade that drops a capsule when a hand-tool container fills. It does not build a conveyor connection and should not be counted as this $100 building."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/packager",
+      "https://www.moonsweeperswiki.com/machines/packager/",
+      "https://moonsweepersdb.com/reference/packager/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Handheld dust to capsules",
+    "input": "Dust unloaded from a hand tool",
+    "output": "Up to 1 kg dust capsules",
+    "cost": 100,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Logistics menu (community reference)",
+    "storage": 100,
+    "powerMode": "not-listed",
+    "footprint": "2.8 × 3 m",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$100",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Storage",
+        "value": "100 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Footprint",
+        "value": "2.8 × 3 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Height",
+        "value": "2.4 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Hopper",
+        "value": "100 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Capsule payload",
+        "value": "1 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      },
+      {
+        "label": "Output emission interval",
+        "value": "0.35 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      }
+    ],
+    "image": "/images/machines/packager-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Packager data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Connections and routing",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          [
+            "Manual dust input",
+            "1 capsule output"
+          ]
+        ],
+        "source": "https://www.moonsweeperswiki.com/machines/"
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Footprint",
+            "2.8 × 3 m"
+          ],
+          [
+            "Height",
+            "2.4 m"
+          ],
+          [
+            "Height",
+            "2.4 m"
+          ],
+          [
+            "Hopper",
+            "100 kg"
+          ],
+          [
+            "Capsule payload",
+            "1 kg"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/packager"
+      }
+    ],
+    "height": 2.4,
+    "relatedLinks": [
+      {
+        "title": "How to use the Packager: placement, loading and fixes",
+        "href": "/guides/how-to-use-packager"
+      },
+      {
+        "title": "Conveyor Belt speed and capsule spacing",
+        "href": "/wiki/machines/conveyor-belt"
+      },
+      {
+        "title": "Moon Sweepers automation and production layouts",
+        "href": "/guides/automation-guide"
+      }
+    ],
+    "tdk": {
+      "title": "Packager — Moon Sweepers Price, Storage & Connections",
+      "description": "Check the Moon Sweepers Packager's $100 price, 100 kg storage and conveyor connections. Compare its role with Auto-Packer before choosing a dust delivery setup.",
+      "keywords": [
+        "moon sweepers packager"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "splitter",
+    "title": "Splitter",
+    "description": "Split one capsule feed between two branches. Use the $5 Splitter to keep a raw-dust route available when another branch feeds a Pressure Chamber.",
+    "category": "Logistics",
+    "sections": [
+      {
+        "heading": "Routing role",
+        "paragraphs": [
+          "The build price is $5. Splitters divide an incoming capsule route; they do not duplicate material. A downstream branch can only receive capsules supplied by the source."
+        ]
+      },
+      {
+        "heading": "Use with processing",
+        "paragraphs": [
+          "A stone route needs both raw dust and sand. Preserve a dust branch instead of converting every capsule into sand. The practical division depends on actual supply and which machines are running."
+        ]
+      },
+      {
+        "heading": "Patch context",
+        "paragraphs": [
+          "The developer fixed crewmate-built splitter and merger behavior in 1.0.3. Later notes allow players to add these devices to another crewmate’s belts. Check source and destination before diagnosing an old multiplayer bug."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/splitter",
+      "https://wikily.gg/moon-sweepers/machines/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Divide one capsule stream",
+    "input": "One incoming capsule route",
+    "output": "Branch routes",
+    "cost": 5,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Logistics menu (community reference)",
+    "powerMode": "not-listed",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$5",
+        "source": "https://wikily.gg/moon-sweepers/machines/"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/"
+      },
+      {
+        "label": "Footprint",
+        "value": "2.4 × 3.3 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/splitter"
+      },
+      {
+        "label": "Height",
+        "value": "1.2 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/splitter"
+      },
+      {
+        "label": "Input ports",
+        "value": "1",
+        "source": "https://wikily.gg/moon-sweepers/machines/splitter"
+      },
+      {
+        "label": "Output ports",
+        "value": "2",
+        "source": "https://wikily.gg/moon-sweepers/machines/splitter"
+      }
+    ],
+    "image": "/images/machines/splitter-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Splitter data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Connections and routing",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          [
+            "1 belt input",
+            "2 alternating belt outputs"
+          ]
+        ],
+        "source": "https://www.moonsweeperswiki.com/machines/"
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Footprint",
+            "2.4 × 3.3 m"
+          ],
+          [
+            "Height",
+            "1.2 m"
+          ],
+          [
+            "Footprint",
+            "2.4 × 3.3 m"
+          ],
+          [
+            "Height",
+            "1.2 m"
+          ],
+          [
+            "Input ports",
+            "1"
+          ],
+          [
+            "Output ports",
+            "2"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/splitter"
+      }
+    ],
+    "footprint": "2.4 × 3.3 m",
+    "height": 1.2,
+    "tdk": {
+      "title": "Splitter — Moon Sweepers Price & Capsule Routing",
+      "description": "Route capsules with the $5 Splitter in Moon Sweepers. Check its two output branches and how to preserve a raw-dust supply when feeding sand and stone machines.",
+      "keywords": [
+        "moon sweepers splitter"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "conveyor-belt",
+    "title": "Conveyor Belt",
+    "description": "Connect tools, machines and the station intake with a belt. Check the price per metre, travel direction and capsule spacing before extending your route.",
+    "category": "Logistics",
+    "sections": [
+      {
+        "heading": "Length-based cost",
+        "paragraphs": [
+          "Belts cost $0.50 per metre, not $0.50 for an arbitrary complete route. A 30 m straight segment therefore costs $15 before other equipment."
+        ]
+      },
+      {
+        "heading": "Transport limit",
+        "paragraphs": [
+          "At 1.1 m/s with 0.75 m capsule spacing, the geometric limit is 88 capsules per minute. Busy merges, turns and a blocked destination can reduce the rate your route actually delivers."
+        ]
+      },
+      {
+        "heading": "Payment destination",
+        "paragraphs": [
+          "Developer patch 1.0.3 confirms automatic payment for dust and stone arriving at the station deposit intake by belt. Finish the connection at the intake, rather than ending near the station."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Transport material capsules",
+    "input": "Capsules or stone blocks",
+    "output": "Connected machine or station intake",
+    "cost": 0.5,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Logistics menu (community reference)",
+    "costUnit": "metre",
+    "powerMode": "not-listed",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$0.5 / m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Belt speed",
+        "value": "1.1 m/s",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Capsule spacing",
+        "value": "0.75 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Segment length",
+        "value": "0.75–30 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Maximum slope",
+        "value": "45°",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Minimum turn radius",
+        "value": "0.49 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Length range",
+        "value": "0.75–30 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Height adjustment",
+        "value": "0.4–6 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Speed",
+        "value": "1.1 m/s",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      },
+      {
+        "label": "Ideal capsule throughput",
+        "value": "88 capsules / minute (calculated)",
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      }
+    ],
+    "image": "/images/machines/conveyor-belt-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Conveyor Belt data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Length range",
+            "0.75–30 m"
+          ],
+          [
+            "Height adjustment",
+            "0.4–6 m"
+          ],
+          [
+            "Speed",
+            "1.1 m/s"
+          ],
+          [
+            "Capsule spacing",
+            "0.75 m"
+          ],
+          [
+            "Maximum slope",
+            "45°"
+          ],
+          [
+            "Minimum turn radius",
+            "0.49 m"
+          ],
+          [
+            "Ideal capsule throughput",
+            "88 capsules / minute (calculated)"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/conveyor-belt"
+      }
+    ],
+    "tdk": {
+      "title": "Conveyor Belt — Moon Sweepers Price, Speed & Capacity",
+      "description": "Plan conveyor belts in Moon Sweepers with price per metre, travel speed and capsule spacing. Check connections and shared belt capacity before adding machines.",
+      "keywords": [
+        "moon sweepers conveyor belt"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "pressure-chamber",
+    "title": "Pressure Chamber",
+    "description": "Convert dust into sand without changing its weight. Allow 10 kW of power and a clear outgoing belt, then check batch sizes before adding another chamber.",
+    "category": "Production",
+    "sections": [
+      {
+        "heading": "Full-power recipe",
+        "paragraphs": [
+          "A full load is a maximum 5 kg batch taking 12 seconds at 10 kW. It preserves mass: dust becomes the same weight of sand. A full, continuously supplied chamber therefore makes 25 kg of sand per minute."
+        ]
+      },
+      {
+        "heading": "Value, not extra kilograms",
+        "paragraphs": [
+          "The base sand price is $3/kg, compared with $1/kg dust. “3× value” does not mean 5 kg becomes 15 kg. At full batch size, output sales are $75/min and the dust’s base sale value is $25/min; the $50/min difference is processing value added, before infrastructure and downtime."
+        ]
+      },
+      {
+        "heading": "Power and partial batches",
+        "paragraphs": [
+          "Smaller loads start after a short wait; insufficient power slows processing. Calculations here use full batches at full power. One 16 kW solar tracker covers the 10 kW nominal demand only under sufficient sunlight, with spare power and storage considered separately."
+        ]
+      },
+      {
+        "heading": "When adding stone production",
+        "paragraphs": [
+          "A stone press consumes sand and fresh dust together. Keep an unprocessed dust supply. One chamber’s theoretical 25 kg/min sand output can supply 2.5 presses’ 10 kg/min sand demand, but this is a recipe ratio, not a complete ready-to-build line."
+        ]
+      },
+      {
+        "heading": "Partial loads, output and power cutoff",
+        "paragraphs": [
+          "The chamber starts when 5 kg is loaded, or after waiting 3 seconds with a smaller load. It preserves the loaded mass when turning dust into sand.",
+          "The output emission interval is 0.35 seconds, separate from the production cycle. Processing stops below 8% of the required power. Belt spacing and a blocked destination can still limit outgoing flow."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/pressure-chamber",
+      "https://www.moonsweeperswiki.com/machines/pressure-chamber/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Convert dust into sand",
+    "input": "Up to 5 kg lunar dust / cycle",
+    "output": "Same mass of moon sand",
+    "cost": 500,
+    "power": 10,
+    "cycle": 12,
+    "unlock": "Building Tool ($50) → Production menu (community reference)",
+    "powerMode": "consumer",
+    "footprint": "8.2 × 5.2 m",
+    "height": 6.2,
+    "recipe": {
+      "inputs": [
+        {
+          "material": "lunar-dust",
+          "amount": 5
+        }
+      ],
+      "outputMaterial": "moon-sand",
+      "outputKg": 5,
+      "basePrice": 3
+    },
+    "dataNote": "Recipe values use the linked game-version documentation and have not been independently playtested. Full-power output assumes continuous inputs and a clear exit; calculations exclude downtime.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$500",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Nominal demand",
+        "value": "10 kW",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Full-power cycle",
+        "value": "12 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Footprint",
+        "value": "8.2 × 5.2 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Height",
+        "value": "6.2 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Batch start",
+        "value": "5 kg loaded, or after 3 seconds with a partial batch",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Capsule payload",
+        "value": "1 kg sand",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Output emission interval",
+        "value": "0.35 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      },
+      {
+        "label": "Power cutoff",
+        "value": "Below 8% of 10 kW demand",
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      }
+    ],
+    "image": "/images/machines/pressure-chamber-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Pressure Chamber data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Full-power recipe and derived output",
+        "columns": [
+          "Property",
+          "Reported / calculated value"
+        ],
+        "rows": [
+          [
+            "Inputs / cycle",
+            "Up to 5 kg lunar dust / cycle"
+          ],
+          [
+            "Output / cycle",
+            "5 kg moon sand"
+          ],
+          [
+            "Cycle / power",
+            "12 s / 10 kW"
+          ],
+          [
+            "Ideal output / minute",
+            "25 kg"
+          ],
+          [
+            "Base sale value / kg",
+            "$3"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber",
+        "note": "Full batches, continuous supply and full power. Rates are calculated from the reported recipe, not measured throughput."
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Batch start",
+            "5 kg loaded, or after 3 seconds with a partial batch"
+          ],
+          [
+            "Capsule payload",
+            "1 kg sand"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ],
+          [
+            "Power cutoff",
+            "Below 8% of 10 kW demand"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/pressure-chamber"
+      }
+    ],
+    "tdk": {
+      "title": "Pressure Chamber — Moon Sweepers Sand Recipe & Power",
+      "description": "Check the Moon Sweepers Pressure Chamber's sand recipe, $500 price and 10 kW demand. Compare batch size, cycle time and output before expanding your line.",
+      "keywords": [
+        "moon sweepers pressure chamber"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "merger",
+    "title": "Merger",
+    "description": "Join two feeds with a $5 Merger that alternates between inputs. Both share one exit, so check the outgoing belt before adding more capsules upstream.",
+    "category": "Logistics",
+    "sections": [
+      {
+        "heading": "Combining routes",
+        "paragraphs": [
+          "A Merger costs $5. It reduces the number of outgoing routes but does not increase the capacity of the single belt after it. Watch the shared exit when combining busy sources."
+        ]
+      },
+      {
+        "heading": "Input selection",
+        "paragraphs": [
+          "The official 1.0.4 notes say mergers alternate between inputs. That behavior should not be described as a programmable priority rule. A blocked output can still queue both inputs."
+        ]
+      },
+      {
+        "heading": "A practical check",
+        "paragraphs": [
+          "Test each source on its own, then enable both. If both work separately but queue together, inspect shared downstream capacity before replacing upstream machines."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/merger",
+      "https://wikily.gg/moon-sweepers/machines/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Combine capsule streams",
+    "input": "Multiple incoming routes",
+    "output": "One outgoing route",
+    "cost": 5,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Logistics menu (community reference)",
+    "powerMode": "not-listed",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$5",
+        "source": "https://wikily.gg/moon-sweepers/machines/"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/"
+      },
+      {
+        "label": "Footprint",
+        "value": "2.4 × 3.3 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/merger"
+      },
+      {
+        "label": "Height",
+        "value": "1.2 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/merger"
+      },
+      {
+        "label": "Input ports",
+        "value": "2 (alternating)",
+        "source": "https://wikily.gg/moon-sweepers/machines/merger"
+      },
+      {
+        "label": "Output ports",
+        "value": "1",
+        "source": "https://wikily.gg/moon-sweepers/machines/merger"
+      }
+    ],
+    "image": "/images/machines/merger-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Merger data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Connections and routing",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          [
+            "2 alternating belt inputs",
+            "1 belt output"
+          ]
+        ],
+        "source": "https://www.moonsweeperswiki.com/machines/"
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Footprint",
+            "2.4 × 3.3 m"
+          ],
+          [
+            "Height",
+            "1.2 m"
+          ],
+          [
+            "Footprint",
+            "2.4 × 3.3 m"
+          ],
+          [
+            "Height",
+            "1.2 m"
+          ],
+          [
+            "Input ports",
+            "2 (alternating)"
+          ],
+          [
+            "Output ports",
+            "1"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/merger"
+      }
+    ],
+    "footprint": "2.4 × 3.3 m",
+    "height": 1.2,
+    "tdk": {
+      "title": "Merger — Moon Sweepers Price, Inputs & Belt Capacity",
+      "description": "Join two capsule feeds with the $5 Merger in Moon Sweepers. Check alternating inputs and the shared output belt before connecting another machine to the line.",
+      "keywords": [
+        "moon sweepers merger"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "stone-press",
+    "title": "Stone Press",
+    "description": "Feed both raw dust and sand to make stone blocks. Plan for 18 kW of power, a six-second recipe cycle and space on the output belt before adding another press.",
+    "category": "Production",
+    "sections": [
+      {
+        "heading": "Two inputs, one stone block",
+        "paragraphs": [
+          "The recipe takes 1 kg dust and 1 kg sand every 6 seconds, producing a single 2 kg block. At full power and continuous supply that is 10 blocks, or 20 kg, per minute. Nominal power demand is 18 kW."
+        ]
+      },
+      {
+        "heading": "Gross revenue and value added",
+        "paragraphs": [
+          "At the $7/kg base stone price, one block sells for $14 and ideal output sales are $140/min. The consumed dust and sand could sell for $40/min at their base prices. The processing value added is therefore $100/min, not $140/min of extra value."
+        ]
+      },
+      {
+        "heading": "Reserve fresh dust",
+        "paragraphs": [
+          "Feeding only sand leaves the other recipe input missing. Keep a raw-dust branch alongside the chamber’s sand branch. A solar tracker’s 16 kW peak is below the press’s 18 kW requirement; account for additional generation and night operation."
+        ]
+      },
+      {
+        "heading": "Pipeline limits",
+        "paragraphs": [
+          "Two presses require 20 kg/min sand and 20 kg/min raw dust, plus the dust used by the sand chamber. Check both branches, output space and sustained power before relying on the theoretical rate."
+        ]
+      },
+      {
+        "heading": "Partial loads, output and power cutoff",
+        "paragraphs": [
+          "The press needs both raw dust and sand. Its recipe produces one 2 kg block; a missing ingredient prevents a complete cycle.",
+          "The output emission interval is 0.35 seconds, separate from the production cycle. Processing stops below 8% of the required power. Belt spacing and a blocked destination can still limit outgoing flow."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/stone-press",
+      "https://www.moonsweeperswiki.com/money/"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Combine dust and sand into stone",
+    "input": "1 kg dust + 1 kg sand / cycle",
+    "output": "One 2 kg moon stone block",
+    "cost": 1000,
+    "power": 18,
+    "cycle": 6,
+    "unlock": "Building Tool ($50) → Production menu (community reference)",
+    "powerMode": "consumer",
+    "footprint": "9.2 × 6.4 m",
+    "height": 6.1,
+    "recipe": {
+      "inputs": [
+        {
+          "material": "lunar-dust",
+          "amount": 1
+        },
+        {
+          "material": "moon-sand",
+          "amount": 1
+        }
+      ],
+      "outputMaterial": "moon-stone",
+      "outputKg": 2,
+      "basePrice": 7
+    },
+    "dataNote": "Recipe values use the linked game-version documentation and have not been independently playtested. Full-power output assumes continuous inputs and a clear exit; calculations exclude downtime.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$1,000",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Nominal demand",
+        "value": "18 kW",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Full-power cycle",
+        "value": "6 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Footprint",
+        "value": "9.2 × 6.4 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Height",
+        "value": "6.1 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Output block mass",
+        "value": "2 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Output emission interval",
+        "value": "0.35 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      },
+      {
+        "label": "Power cutoff",
+        "value": "Below 8% of 18 kW demand",
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      }
+    ],
+    "image": "/images/machines/stone-press-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Stone Press data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Full-power recipe and derived output",
+        "columns": [
+          "Property",
+          "Reported / calculated value"
+        ],
+        "rows": [
+          [
+            "Inputs / cycle",
+            "1 kg dust + 1 kg sand / cycle"
+          ],
+          [
+            "Output / cycle",
+            "2 kg moon stone"
+          ],
+          [
+            "Cycle / power",
+            "6 s / 18 kW"
+          ],
+          [
+            "Ideal output / minute",
+            "20 kg"
+          ],
+          [
+            "Base sale value / kg",
+            "$7"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press",
+        "note": "Full batches, continuous supply and full power. Rates are calculated from the reported recipe, not measured throughput."
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Output block mass",
+            "2 kg"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ],
+          [
+            "Power cutoff",
+            "Below 8% of 18 kW demand"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/stone-press"
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "How the Stone Press works: setup and troubleshooting",
+        "href": "/guides/automation-guide#how-the-stone-press-works"
+      },
+      {
+        "title": "Sand-to-stone production layout",
+        "href": "/guides/automation-guide"
+      },
+      {
+        "title": "Calculate production revenue and value added",
+        "href": "/tools/selling-and-income"
+      }
+    ],
+    "tdk": {
+      "title": "Stone Press — Moon Sweepers Recipe, Power & Output",
+      "description": "Check the Stone Press recipe in Moon Sweepers, including raw dust, sand, 18 kW power and a six-second cycle. Plan input supplies and output space before buying.",
+      "keywords": [
+        "moon sweepers stone press",
+        "moon sweepers steinpresse",
+        "moon sweepers stone press recipe"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "capsule-catcher",
+    "title": "Capsule Catcher",
+    "description": "Receive J.O.O.N.A.S. deliveries in a 100 kg store. Keep the belt draining and check how nearby catchers share incoming capsules before expanding your robot fleet.",
+    "category": "Services",
+    "sections": [
+      {
+        "heading": "Receiving storage",
+        "paragraphs": [
+          "The catcher costs $1,500 and stores 100 kg. Official patch 1.0.4 also confirms the 100 kg capacity. A catcher receives robot-launched capsules; it does not clean the surface itself."
+        ]
+      },
+      {
+        "heading": "With and without an output belt",
+        "paragraphs": [
+          "Connect an output belt when you want the catcher to feed capsules into another route. Without that connection, check the station’s material and payment panels before relying on automatic sales. The timing of this no-belt path is unresolved in the linked documentation."
+        ]
+      },
+      {
+        "heading": "Distribution in 1.0.5",
+        "paragraphs": [
+          "The developer groups catchers within 100 m. J.O.O.N.A.S. chooses the emptiest catcher in the nearest group, moving on when every catcher in that group is above 80% full."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Receive J.O.O.N.A.S. deliveries",
+    "input": "Robot-launched dust capsules",
+    "output": "Dust to a belt or station",
+    "cost": 1500,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Services menu (community reference)",
+    "storage": 100,
+    "powerMode": "not-listed",
+    "footprint": "9.6 × 9.6 m",
+    "height": 7,
+    "dataNote": "Equipment numbers use the linked game-version documentation and have not been independently playtested. Documentation disagrees about payment timing when no output belt is connected; confirm the station state in your installed version.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$1,500",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Storage",
+        "value": "100 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Footprint",
+        "value": "9.6 × 9.6 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Height",
+        "value": "7 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Capsule payload",
+        "value": "1 kg on its output belt",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Output emission interval",
+        "value": "0.35 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      },
+      {
+        "label": "Reception range",
+        "value": "Moon-wide J.O.O.N.A.S. launches",
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      }
+    ],
+    "image": "/images/machines/capsule-catcher-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Capsule Catcher data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Capsule payload",
+            "1 kg on its output belt"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ],
+          [
+            "Reception range",
+            "Moon-wide J.O.O.N.A.S. launches"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/capsule-catcher"
+      }
+    ],
+    "tdk": {
+      "title": "Capsule Catcher — Moon Sweepers Storage & Robot Delivery",
+      "description": "Receive Joonas deliveries with the Moon Sweepers Capsule Catcher. Check its 100 kg store, outgoing belt and nearby catcher grouping before adding more robots.",
+      "keywords": [
+        "moon sweepers capsule catcher"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "garage",
+    "title": "Garage",
+    "description": "Buy, recall and unload vehicles at the Garage. Check its $200 price and 6,000 kg silo, then connect a belt destination that can keep up with returning sweepers.",
+    "category": "Services",
+    "sections": [
+      {
+        "heading": "Vehicle hub",
+        "paragraphs": [
+          "The garage costs $200, separate from vehicle purchase prices. Each player owns their purchased vehicles. Official 1.0.3 notes allow owned vehicles to be recalled, stored and upgraded through any garage."
+        ]
+      },
+      {
+        "heading": "Unloading versus outfeed",
+        "paragraphs": [
+          "The collector-pad unloading rate is 600 kg/s into a 6,000 kg silo. This is not the rate at which a single conveyor can carry capsules away. A quickly emptied vehicle can still leave a growing silo queue."
+        ]
+      },
+      {
+        "heading": "Relocating a garage",
+        "paragraphs": [
+          "Removing a garage no longer destroys the vehicles it stores according to patch 1.0.3. Check the output belts after relocating the base; 1.0.5 adds a status reason when the silo cannot send dust."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/garage"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Manage vehicles and unload dust",
+    "input": "Dust from vehicle hoppers",
+    "output": "1 kg dust capsules from silo ports",
+    "cost": 200,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Services menu (community reference)",
+    "storage": 6000,
+    "powerMode": "not-listed",
+    "footprint": "20 × 18 m",
+    "height": 8.3,
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$200",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Power demand",
+        "value": "No requirement listed in community build panel",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Storage",
+        "value": "6,000 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Footprint",
+        "value": "20 × 18 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Height",
+        "value": "8.3 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Vehicle unloading",
+        "value": "600 kg/s",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Silo storage",
+        "value": "6,000 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Outfeed ports",
+        "value": "2",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Capsule payload",
+        "value": "1 kg",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Output emission interval",
+        "value": "0.35 seconds",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      },
+      {
+        "label": "Silo output ports",
+        "value": "2",
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      }
+    ],
+    "image": "/images/machines/garage-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Garage data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Connections and routing",
+        "columns": [
+          "Input",
+          "Output"
+        ],
+        "rows": [
+          [
+            "Vehicle unload pad",
+            "2 capsule outputs"
+          ]
+        ],
+        "source": "https://www.moonsweeperswiki.com/machines/"
+      },
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Footprint",
+            "20 × 18 m"
+          ],
+          [
+            "Height",
+            "8.3 m"
+          ],
+          [
+            "Height",
+            "8.3 m"
+          ],
+          [
+            "Footprint",
+            "20 × 18 m"
+          ],
+          [
+            "Vehicle unloading",
+            "600 kg/s"
+          ],
+          [
+            "Capsule payload",
+            "1 kg"
+          ],
+          [
+            "Output emission interval",
+            "0.35 seconds"
+          ],
+          [
+            "Silo output ports",
+            "2"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/garage"
+      }
+    ],
+    "tdk": {
+      "title": "Garage — Moon Sweepers Price, Vehicles & Unloading",
+      "description": "Use the $200 Garage in Moon Sweepers to buy, recall and unload vehicles. Check its 6,000 kg silo, conveyor exits and ownership rules before moving your base.",
+      "keywords": [
+        "moon sweepers garage"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "solar-tracker",
+    "title": "Solar Tracker (L)",
+    "description": "Generate up to 16 kW in sunlight with a panel that follows the Sun. Check battery storage and connected demand before relying on it through the lunar night.",
+    "category": "Power",
+    "sections": [
+      {
+        "heading": "Output and wireless range",
+        "paragraphs": [
+          "The $300 Solar Tracker follows the Sun, generates up to 16 kW and supplies machines within 34 m. Its 10 kWh battery stores energy for lower-generation periods."
+        ]
+      },
+      {
+        "heading": "Choose the connected machines",
+        "paragraphs": [
+          "One Tracker can cover a 10 kW chamber in enough sunlight. It cannot cover an 18 kW press at nominal demand by itself. Add the load of every running machine within the powered area."
+        ]
+      },
+      {
+        "heading": "Store enough for night",
+        "paragraphs": [
+          "At an ideal 10 kW load, a full 10 kWh battery represents one hour of energy. Actual uptime depends on charging, sunlight, available output and other machines. Peak generation is not an all-day average."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Sun-tracking generation with storage",
+    "input": "Sunlight",
+    "output": "Up to 16 kW wireless power",
+    "cost": 300,
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Power menu (community reference)",
+    "powerMode": "generator",
+    "powerOutput": 16,
+    "battery": 10,
+    "range": 34,
+    "footprint": "3.9 × 3.4 m",
+    "height": 3.5,
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$300",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Peak generation",
+        "value": "16 kW",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Battery energy",
+        "value": "10 kWh",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Wireless radius",
+        "value": "34 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Footprint",
+        "value": "3.9 × 3.4 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Height",
+        "value": "3.5 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Sun tracking",
+        "value": "Yes",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Tracking tilt",
+        "value": "35°–50°",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      },
+      {
+        "label": "Battery charging efficiency",
+        "value": "92% of spare generation",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      }
+    ],
+    "image": "/images/machines/solar-tracker-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Solar Tracker (L) data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Sun tracking",
+            "Yes"
+          ],
+          [
+            "Tracking tilt",
+            "35°–50°"
+          ],
+          [
+            "Battery charging efficiency",
+            "92% of spare generation"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-tracker-l"
+      }
+    ],
+    "tdk": {
+      "title": "Solar Tracker (L) — Moon Sweepers Power & Battery",
+      "description": "Power your Moon Sweepers machines with the Solar Tracker (L). Check its 16 kW peak output, battery storage and wireless range before planning night operation.",
+      "keywords": [
+        "moon sweepers solar tracker"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "solar-post",
+    "title": "Solar Post (S)",
+    "description": "Supply nearby equipment with a $75 fixed panel rated at 3 kW in full sun. Face it toward the Sun and keep consumers within 16 m; this panel has no battery.",
+    "category": "Power",
+    "sections": [
+      {
+        "heading": "Where the small panel fits",
+        "paragraphs": [
+          "The $75 Solar Post supplies up to 3 kW within 16 m. It has no listed battery, so it cannot keep a powered processor running through darkness on its own."
+        ]
+      },
+      {
+        "heading": "Positioning and load",
+        "paragraphs": [
+          "Face this fixed panel toward the Sun. A 10 kW chamber needs more than one small panel even at peak output. Compare total generation with the connected load."
+        ]
+      },
+      {
+        "heading": "Expanding a daytime supply",
+        "paragraphs": [
+          "Use the small panel where its range and daytime output are enough. For continuous production, compare larger panels and their stored energy before building a dense group of small panels."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Small fixed solar generation",
+    "cost": 75,
+    "powerMode": "generator",
+    "powerOutput": 3,
+    "battery": 0,
+    "range": 16,
+    "footprint": "1.8 × 1.2 m",
+    "height": 1.4,
+    "input": "Sunlight",
+    "output": "Up to 3 kW wireless power",
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Power menu (community reference)",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$75",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Peak generation",
+        "value": "3 kW",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Battery energy",
+        "value": "0 kWh",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Wireless radius",
+        "value": "16 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Footprint",
+        "value": "1.8 × 1.2 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Height",
+        "value": "1.4 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      },
+      {
+        "label": "Sun tracking",
+        "value": "No; fixed orientation",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      }
+    ],
+    "image": "/images/machines/solar-post-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Solar Post (S) data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Sun tracking",
+            "No; fixed orientation"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-post-s"
+      }
+    ],
+    "tdk": {
+      "title": "Solar Post (S) — Moon Sweepers Price, Power & Range",
+      "description": "Check the Solar Post (S) in Moon Sweepers: $75 price, 3 kW peak output and 16 m range. Plan panel orientation and allow for darkness without battery storage.",
+      "keywords": [
+        "moon sweepers solar post"
+      ]
+    }
+  },
+  {
+    "isDetails": false,
+    "slug": "solar-twin",
+    "title": "Solar Twin (M)",
+    "description": "The $150 Solar Twin supplies up to 7.5 kW and stores 4 kWh. Face it toward the Sun and check the load within its 24 m range before leaving it to run at night.",
+    "category": "Power",
+    "sections": [
+      {
+        "heading": "Generation and storage",
+        "paragraphs": [
+          "The $150 Solar Twin supplies up to 7.5 kW within 24 m and stores 4 kWh. Battery capacity is energy held for later, not extra peak generation."
+        ]
+      },
+      {
+        "heading": "Keep the panel facing sunlight",
+        "paragraphs": [
+          "This model does not track the Sun. Placement affects how much daylight power it collects. Its peak output is below a chamber’s 10 kW nominal demand."
+        ]
+      },
+      {
+        "heading": "Plan the dark period",
+        "paragraphs": [
+          "At an ideal 10 kW load, 4 kWh represents 24 minutes of energy. This is a capacity calculation, not a guarantee that the panel alone supplies the load. Include other machines and charging conditions."
+        ]
+      }
+    ],
+    "sources": [
+      "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+    ],
+    "status": "community",
+    "version": "1.0.5",
+    "updatedAt": "2026-11-04",
+    "role": "Fixed solar generation with storage",
+    "cost": 150,
+    "powerMode": "generator",
+    "powerOutput": 7.5,
+    "battery": 4,
+    "range": 24,
+    "footprint": "4 × 1.9 m",
+    "height": 1.5,
+    "input": "Sunlight",
+    "output": "Up to 7.5 kW wireless power",
+    "power": null,
+    "cycle": null,
+    "unlock": "Building Tool ($50) → Power menu (community reference)",
+    "dataNote": "Values use the linked game-version documentation and have not been independently playtested. Purchase prices are base in-game amounts before eligible discounts.",
+    "stats": [
+      {
+        "label": "Base purchase price",
+        "value": "$150",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Peak generation",
+        "value": "7.5 kW",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Battery energy",
+        "value": "4 kWh",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Wireless radius",
+        "value": "24 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Footprint",
+        "value": "4 × 1.9 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Height",
+        "value": "1.5 m",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Sun tracking",
+        "value": "No; fixed orientation",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      },
+      {
+        "label": "Battery charging efficiency",
+        "value": "92% of spare generation",
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      }
+    ],
+    "image": "/images/machines/solar-twin-data.svg",
+    "imageKind": "diagram",
+    "imageAlt": "Solar Twin (M) data diagram with community-reported parameters; not a picture of the game model",
+    "imageCaption": "Original parameter diagram based on the linked community references. Not an in-game render.",
+    "tables": [
+      {
+        "title": "Operating parameters",
+        "columns": [
+          "Parameter",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Sun tracking",
+            "No; fixed orientation"
+          ],
+          [
+            "Battery charging efficiency",
+            "92% of spare generation"
+          ]
+        ],
+        "source": "https://wikily.gg/moon-sweepers/machines/solar-twin-m"
+      }
+    ],
+    "tdk": {
+      "title": "Solar Twin (M) — Moon Sweepers Output, Battery & Range",
+      "description": "Compare the Solar Twin (M) in Moon Sweepers with its $150 price, 7.5 kW output, 4 kWh battery and 24 m range. Plan connected demand as sunlight changes.",
+      "keywords": [
+        "moon sweepers solar twin"
+      ]
+    }
+  }
+]

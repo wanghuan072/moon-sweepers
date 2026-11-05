@@ -1,0 +1,970 @@
+{
+  "toothbrush": {
+    "description": "Your starting tool costs nothing and holds 0.5 kg of dust. Check its narrow sweep and container upgrades before deciding when to buy a brush.",
+    "tdk": {
+      "title": "Toothbrush — Moon Sweepers Capacity & Cleaning Stats",
+      "description": "Start Moon Sweepers with the free Toothbrush. Check its 0.5 kg capacity, cleaning width and container upgrades before spending your first delivery earnings.",
+      "keywords": [
+        "moon sweepers toothbrush"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Toothbrush is supplied at the start. Its base container holds 0.5 kg and its sweep is 0.12 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Toothbrush starts with 0.5 kg of storage. Container levels I, II and III raise that to 1 kg, 2 kg and 4 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Toothbrush container levels",
+        "href": "/wiki/containers/toothbrush-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "nail-brush": {
+    "description": "The $5 Nail Brush holds 0.75 kg and sweeps a wider strip than the Toothbrush. Compare its stroke time and container levels before buying.",
+    "tdk": {
+      "title": "Nail Brush — Moon Sweepers Price & Cleaning Stats",
+      "description": "Compare the $5 Nail Brush in Moon Sweepers with your starting tool. Check its 0.75 kg capacity, sweep width, stroke time and available container upgrades.",
+      "keywords": [
+        "moon sweepers nail brush"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Nail Brush costs $5 at a station supply wall. Its base container holds 0.75 kg and its sweep is 0.19 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Nail Brush starts with 0.75 kg of storage. Container levels I, II and III raise that to 1.5 kg, 3 kg and 6 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Nail Brush container levels",
+        "href": "/wiki/containers/nail-brush-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "hand-brush": {
+    "description": "At $10, the Hand Brush gives you a 1 kg base container and a 0.25 m sweep. Check the capacity upgrades if repeated delivery trips are slowing you down.",
+    "tdk": {
+      "title": "Hand Brush — Moon Sweepers Price & Cleaning Stats",
+      "description": "Check the Hand Brush in Moon Sweepers before buying it for $10. Compare its 1 kg capacity, cleaning width and stroke time, then plan your container upgrades.",
+      "keywords": [
+        "moon sweepers hand brush"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Hand Brush costs $10 at a station supply wall. Its base container holds 1 kg and its sweep is 0.25 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Hand Brush starts with 1 kg of storage. Container levels I, II and III raise that to 2 kg, 4 kg and 8 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Hand Brush container levels",
+        "href": "/wiki/containers/hand-brush-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "household-broom": {
+    "description": "The Household Broom costs $25 and carries 3 kg before upgrades. Compare its sweep and stroke time with the smaller brushes before changing tools.",
+    "tdk": {
+      "title": "Household Broom — Moon Sweepers Price & Capacity",
+      "description": "See what the $25 Household Broom adds in Moon Sweepers. Check its 3 kg base capacity, sweep width, stroke time and container levels before your next purchase.",
+      "keywords": [
+        "moon sweepers household broom"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Household Broom costs $25 at a station supply wall. Its base container holds 3 kg and its sweep is 0.44 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Household Broom starts with 3 kg of storage. Container levels I, II and III raise that to 6 kg, 12 kg and 24 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Household Broom container levels",
+        "href": "/wiki/containers/household-broom-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "wide-broom": {
+    "description": "Sweep a 0.66 m strip and carry 6 kg with the $75 Wide Broom. Check its stroke time and upgraded capacity when planning longer runs between deliveries.",
+    "tdk": {
+      "title": "Wide Broom — Moon Sweepers Price & Cleaning Width",
+      "description": "Compare the Wide Broom in Moon Sweepers: $75 base price, 6 kg capacity and a 0.66 m sweep. Check stroke time and container upgrades before changing tools.",
+      "keywords": [
+        "moon sweepers wide broom"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Wide Broom costs $75 at a station supply wall. Its base container holds 6 kg and its sweep is 0.66 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Wide Broom starts with 6 kg of storage. Container levels I, II and III raise that to 12 kg, 24 kg and 48 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Wide Broom container levels",
+        "href": "/wiki/containers/wide-broom-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "extra-wide-broom": {
+    "description": "The $150 Extra Wide Broom covers 0.99 m per sweep and holds 12 kg before upgrades. Check container levels if you want to spend longer cleaning between unloads.",
+    "tdk": {
+      "title": "Extra Wide Broom — Moon Sweepers Price & Capacity",
+      "description": "Check the Extra Wide Broom in Moon Sweepers, with a $150 price, 12 kg capacity and 0.99 m sweep. Compare its stroke time and container levels before buying.",
+      "keywords": [
+        "moon sweepers extra wide broom"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Use and progression",
+        "paragraphs": [
+          "Extra Wide Broom costs $150 at a station supply wall. Its base container holds 12 kg and its sweep is 0.99 m wide. Tools belong to each player; container and matrix upgrades apply across the crew."
+        ]
+      },
+      {
+        "heading": "Container upgrades for this tool",
+        "paragraphs": [
+          "Extra Wide Broom starts with 12 kg of storage. Container levels I, II and III raise that to 24 kg, 48 kg and 96 kg before Dust Compactor. Compare the matching container prices with buying a different tool; changing storage does not widen the sweep."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Extra Wide Broom container levels",
+        "href": "/wiki/containers/extra-wide-broom-container"
+      },
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Connect a Packager delivery route",
+        "href": "/guides/how-to-use-packager"
+      }
+    ]
+  },
+  "building-tool": {
+    "description": "Open the build menu to place equipment or rearrange your base. Check the $50 tool price, move controls and refund rules before relocating a production line.",
+    "tdk": {
+      "title": "Building Tool — Moon Sweepers Controls & Build Menu",
+      "description": "Use the Building Tool in Moon Sweepers to place equipment and move structures. Check its $50 price, building controls and refund rules before changing a base.",
+      "keywords": [
+        "moon sweepers building tool"
+      ]
+    }
+  },
+  "night-vision": {
+    "description": "Keep the ground visible during lunar darkness. Check the $350 unlock and how to select night vision through the N-key lighting cycle.",
+    "tdk": {
+      "title": "Night Vision Goggles — Moon Sweepers Cost & Controls",
+      "description": "Unlock Night Vision Goggles in Moon Sweepers for $350. Check the lighting cycle and equipment effect before deciding how to keep working during lunar darkness.",
+      "keywords": [
+        "moon sweepers night vision"
+      ]
+    }
+  },
+  "tool-belt": {
+    "description": "Keep more tools within reach instead of switching through your inventory. Compare all five Tool Belt levels, their prices and the quick slots each adds.",
+    "tdk": {
+      "title": "Tool Belt — Moon Sweepers Slots, Levels & Costs",
+      "description": "Compare all five Tool Belt levels in Moon Sweepers. Check each purchase price and quick-slot count before spending crew funds on carrying more tools at once.",
+      "keywords": [
+        "moon sweepers tool belt"
+      ]
+    }
+  },
+  "forward-jetpack": {
+    "description": "Use forward bursts to cover ground between cleaning jobs. Compare three upgrade levels and the boosts available per jump before budgeting for the next level.",
+    "tdk": {
+      "title": "Forward Jetpack — Moon Sweepers Boosts & Upgrade Costs",
+      "description": "Check Forward Jetpack upgrades in Moon Sweepers, including three level prices and boosts per jump. Plan your movement gear before committing crew funds.",
+      "keywords": [
+        "moon sweepers forward jetpack"
+      ]
+    }
+  },
+  "gravity-boots": {
+    "description": "Toggle Earth-like gravity when you want firmer movement on the Moon. Check the $250 purchase and how the toggle changes movement before equipping the boots.",
+    "tdk": {
+      "title": "Gravity Boots — Moon Sweepers Cost & Movement Effect",
+      "description": "See how Gravity Boots change movement in Moon Sweepers. Check the $250 purchase and Earth-like gravity toggle before adding the boots to your suit gear.",
+      "keywords": [
+        "moon sweepers gravity boots"
+      ]
+    }
+  },
+  "helmet-lamp": {
+    "description": "Light the route ahead without placing lamps along it. Compare four Helmet Lamp levels, their prices and beam distances before working through the lunar night.",
+    "tdk": {
+      "title": "Helmet Lamp — Moon Sweepers Range, Levels & Costs",
+      "description": "Compare Helmet Lamp upgrades in Moon Sweepers, from purchase prices to beam range. Check all four levels and lighting controls before a trip into darkness.",
+      "keywords": [
+        "moon sweepers helmet lamp"
+      ]
+    }
+  },
+  "push-sweeper": {
+    "description": "The $300 Push Sweeper carries 100 kg and cleans a 1.35 m strip before upgrades. Compare its travel speed and garage options when moving beyond hand tools.",
+    "tdk": {
+      "title": "Push Sweeper — Moon Sweepers Price, Hopper & Upgrades",
+      "description": "Check the Push Sweeper in Moon Sweepers: $300 price, 100 kg hopper and 1.35 m cleaning width. Compare speed, capsule storage and vehicle upgrades before buying.",
+      "keywords": [
+        "moon sweepers push sweeper"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Purchase and ownership",
+        "paragraphs": [
+          "Push Sweeper costs $300 through a garage. The garage itself costs $200. Ownership belongs to the purchasing player. Any garage can recall, store and upgrade that player’s vehicles; removing a garage preserves them."
+        ]
+      },
+      {
+        "heading": "Base specifications",
+        "paragraphs": [
+          "Base cleaning width is 1.35 m and the hopper holds 100 kg. Capsule cargo has 1 slot, separately from loose dust. Suction Control widens the sweep while reducing sweeping speed; Big Hopper expands stored dust."
+        ]
+      },
+      {
+        "heading": "Plan a complete delivery route",
+        "paragraphs": [
+          "A full 100 kg hopper still needs a receiving route. Unload at the Garage collector pad and check that its silo can empty through the connected belt before investing in faster collection."
+        ]
+      },
+      {
+        "heading": "Vehicle Upgrades",
+        "paragraphs": [
+          "Buy upgrades at a garage using crew funds. Only the owner can upgrade a vehicle, and every level is a separate purchase. Motors, boost, hopper capacity and unloading solve different parts of a delivery route; compare the levels before spending."
+        ]
+      },
+      {
+        "heading": "Vehicle Tricks",
+        "paragraphs": [
+          "A clean landing pays for flips, rolls, spins and airtime, up to $25. A wipeout pays nothing. Pick open ground away from factory equipment before attempting a jump."
+        ]
+      }
+    ]
+  },
+  "ride-on-sweeper": {
+    "description": "Carry 500 kg and clean a 1.98 m strip with the $1,000 Ride-on Sweeper. Check cruise speed, boost and upgrade costs before choosing it for your delivery route.",
+    "tdk": {
+      "title": "Ride-on Sweeper — Moon Sweepers Price & Hopper Size",
+      "description": "Compare the Ride-on Sweeper in Moon Sweepers at $1,000. Check its 500 kg hopper, cleaning width, speed and two capsule slots, plus available garage upgrades.",
+      "keywords": [
+        "moon sweepers ride on sweeper"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Purchase and ownership",
+        "paragraphs": [
+          "Ride-on Sweeper costs $1,000 through a garage. The garage itself costs $200. Ownership belongs to the purchasing player. Any garage can recall, store and upgrade that player’s vehicles; removing a garage preserves them."
+        ]
+      },
+      {
+        "heading": "Base specifications",
+        "paragraphs": [
+          "Base cleaning width is 1.98 m and the hopper holds 500 kg. Capsule cargo has 2 slots, separately from loose dust. Suction Control widens the sweep while reducing sweeping speed; Big Hopper expands stored dust."
+        ]
+      },
+      {
+        "heading": "Plan a complete delivery route",
+        "paragraphs": [
+          "The 500 kg hopper lets you collect a larger load than the Push Sweeper. Before buying Quick Release, check whether unloading or the Garage’s outgoing belt is actually delaying your next trip."
+        ]
+      },
+      {
+        "heading": "Vehicle Upgrades",
+        "paragraphs": [
+          "Buy upgrades at a garage using crew funds. Only the owner can upgrade a vehicle, and every level is a separate purchase. Motors, boost, hopper capacity and unloading solve different parts of a delivery route; compare the levels before spending."
+        ]
+      },
+      {
+        "heading": "Vehicle Tricks",
+        "paragraphs": [
+          "A clean landing pays for flips, rolls, spins and airtime, up to $25. A wipeout pays nothing. Pick open ground away from factory equipment before attempting a jump."
+        ]
+      }
+    ]
+  },
+  "crew-transport": {
+    "description": "Move up to eight players in the $2,000 Crew Transport, with four capsule slots for cargo. It does not sweep dust, so choose it for travel rather than cleaning.",
+    "tdk": {
+      "title": "Crew Transport — Moon Sweepers Seats, Price & Speed",
+      "description": "Check the $2,000 Crew Transport in Moon Sweepers. Compare eight seats, four capsule slots, cruise speed and boost; this vehicle carries crew but does not clean.",
+      "keywords": [
+        "moon sweepers crew transport"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Purchase and ownership",
+        "paragraphs": [
+          "Crew Transport costs $2,000 through a garage. The garage itself costs $200. Ownership belongs to the purchasing player. Any garage can recall, store and upgrade that player’s vehicles; removing a garage preserves them."
+        ]
+      },
+      {
+        "heading": "Base specifications",
+        "paragraphs": [
+          "Crew Transport has eight seats and four capsule slots. It carries crew and cargo without a cleaning hopper."
+        ]
+      },
+      {
+        "heading": "Plan a complete delivery route",
+        "paragraphs": [
+          "Use the eight seats to move a crew and the four capsule slots for cargo. Crew Transport has no dust hopper to empty at a Garage; choose a cleaning vehicle if collecting loose dust is the job."
+        ]
+      },
+      {
+        "heading": "Vehicle Upgrades",
+        "paragraphs": [
+          "Only Tuned Motors, Turbo Kit, Cruise Control and Floodlights apply to Crew Transport. The owner buys them at a Garage using crew funds; hopper, suction and unloading upgrades belong to cleaning vehicles."
+        ]
+      },
+      {
+        "heading": "Vehicle Tricks",
+        "paragraphs": [
+          "A clean landing pays for flips, rolls, spins and airtime, up to $25. A wipeout pays nothing. Pick open ground away from factory equipment before attempting a jump."
+        ]
+      }
+    ]
+  },
+  "lunar-sweeper": {
+    "description": "The $2,500 Lunar Sweeper combines a 1,200 kg hopper with a 2.8 m cleaning width. Compare travel speeds and garage upgrades before planning a larger cleanup run.",
+    "tdk": {
+      "title": "Lunar Sweeper — Moon Sweepers Price, Capacity & Speed",
+      "description": "Compare the Lunar Sweeper in Moon Sweepers: $2,500 price, 1,200 kg hopper and four capsule slots. Check cleaning width, speed and upgrade costs before buying.",
+      "keywords": [
+        "moon sweepers lunar sweeper"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Purchase and ownership",
+        "paragraphs": [
+          "Lunar Sweeper costs $2,500 through a garage. The garage itself costs $200. Ownership belongs to the purchasing player. Any garage can recall, store and upgrade that player’s vehicles; removing a garage preserves them."
+        ]
+      },
+      {
+        "heading": "Base specifications",
+        "paragraphs": [
+          "Base cleaning width is 2.8 m and the hopper holds 1,200 kg. Capsule cargo has 4 slots, separately from loose dust. Suction Control widens the sweep while reducing sweeping speed; Big Hopper expands stored dust."
+        ]
+      },
+      {
+        "heading": "Plan a complete delivery route",
+        "paragraphs": [
+          "Plan where to deliver a 1,200 kg hopper load before extending the cleaning route. A wider sweep fills storage sooner; an obstructed Garage outlet can leave that dust waiting instead of moving toward a sale."
+        ]
+      },
+      {
+        "heading": "Vehicle Upgrades",
+        "paragraphs": [
+          "Buy upgrades at a garage using crew funds. Only the owner can upgrade a vehicle, and every level is a separate purchase. Motors, boost, hopper capacity and unloading solve different parts of a delivery route; compare the levels before spending."
+        ]
+      },
+      {
+        "heading": "Vehicle Tricks",
+        "paragraphs": [
+          "A clean landing pays for flips, rolls, spins and airtime, up to $25. A wipeout pays nothing. Pick open ground away from factory equipment before attempting a jump."
+        ]
+      }
+    ]
+  },
+  "mega-vacuum-rover": {
+    "description": "Carry 3,000 kg and sweep a 3.7 m strip with the $6,000 Mega Vacuum Rover. Check its slower cruise speed against the capacity you gain before buying.",
+    "tdk": {
+      "title": "Mega Vacuum Rover — Moon Sweepers Hopper & Upgrades",
+      "description": "Check the Mega Vacuum Rover in Moon Sweepers, priced at $6,000 with a 3,000 kg hopper. Compare cleaning width, speed, capsule slots and garage upgrade options.",
+      "keywords": [
+        "moon sweepers mega vacuum rover"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Purchase and ownership",
+        "paragraphs": [
+          "Mega Vacuum Rover costs $6,000 through a garage. The garage itself costs $200. Ownership belongs to the purchasing player. Any garage can recall, store and upgrade that player’s vehicles; removing a garage preserves them."
+        ]
+      },
+      {
+        "heading": "Base specifications",
+        "paragraphs": [
+          "Base cleaning width is 3.7 m and the hopper holds 3,000 kg. Capsule cargo has 6 slots, separately from loose dust. Suction Control widens the sweep while reducing sweeping speed; Big Hopper expands stored dust."
+        ]
+      },
+      {
+        "heading": "Plan a complete delivery route",
+        "paragraphs": [
+          "A 3,000 kg load puts more pressure on the receiving silo and belt. Check the Garage outfeed while planning the route, rather than assuming that faster vehicle unloading also clears the stored dust."
+        ]
+      },
+      {
+        "heading": "Vehicle Upgrades",
+        "paragraphs": [
+          "Buy upgrades at a garage using crew funds. Only the owner can upgrade a vehicle, and every level is a separate purchase. Motors, boost, hopper capacity and unloading solve different parts of a delivery route; compare the levels before spending."
+        ]
+      },
+      {
+        "heading": "Vehicle Tricks",
+        "paragraphs": [
+          "A clean landing pays for flips, rolls, spins and airtime, up to $25. A wipeout pays nothing. Pick open ground away from factory equipment before attempting a jump."
+        ]
+      }
+    ]
+  },
+  "vehicle-tricks": {
+    "description": "Land flips, rolls, spins and airtime cleanly to earn money. Check how combos work, what reaches the $25 cap and why a wipeout leaves you with no reward.",
+    "tdk": {
+      "title": "Vehicle Tricks — Moon Sweepers Combos & Landing Rewards",
+      "description": "Earn trick rewards in Moon Sweepers by landing flips, rolls, spins and airtime. Check combo rules, the $25 payout cap and what happens when a landing fails.",
+      "keywords": [
+        "moon sweepers vehicle tricks"
+      ]
+    },
+    "title": "Vehicle Tricks"
+  },
+  "achievements": {
+    "description": "Choose your next goal from 33 achievements. Filter by activity, look up progress counters and check the hidden conveyor-loop condition without searching every entry.",
+    "tdk": {
+      "title": "Moon Sweepers Achievements — All 33 Unlock Conditions",
+      "description": "Find all 33 Moon Sweepers achievements and their unlock conditions. Check delivery totals, cleaning milestones and the hidden conveyor-loop achievement goal.",
+      "keywords": [
+        "moon sweepers achievements",
+        "moon sweepers hidden achievements"
+      ]
+    }
+  },
+  "robot-vacuum-mk-i": {
+    "description": "Start local robot cleaning for $250. The Mk I covers 19 hexes around its dock; leave room on the outgoing belt and move the setup once that patch is clean.",
+    "tdk": {
+      "title": "Robot Vacuum Mk I — Moon Sweepers Price & Dock Capacity",
+      "description": "Check the $250 Robot Vacuum Mk I in Moon Sweepers. Compare its 19-hex working area, 15 kg bin and 100 kg dock before connecting a belt for automatic unloading.",
+      "keywords": [
+        "moon sweepers robot vacuum mk i"
+      ]
+    }
+  },
+  "robot-vacuum-mk-ii": {
+    "description": "Cover 37 hexes with a 40 kg robot bin and a 300 kg dock. Check the $500 price and keep the outgoing belt clear so full storage does not stop the next run.",
+    "tdk": {
+      "title": "Robot Vacuum Mk II — Moon Sweepers Area & Storage",
+      "description": "Compare the $500 Robot Vacuum Mk II in Moon Sweepers. Check its 37-hex area, 40 kg bin and 300 kg dock, then plan the outgoing belt to prevent full storage.",
+      "keywords": [
+        "moon sweepers robot vacuum mk ii"
+      ]
+    }
+  },
+  "joonas": {
+    "description": "Send J.O.O.N.A.S. beyond a fixed dock area to clean across the Moon. Check the $20,000 price, 60 kg bin and capsule catcher delivery before building around it.",
+    "tdk": {
+      "title": "Joonas — Moon Sweepers Robot Price, Range & Delivery",
+      "description": "Plan for Joonas in Moon Sweepers with its $20,000 price, 60 kg bin and Moon-wide sector selection. Check capsule catcher delivery before buying the robot.",
+      "keywords": [
+        "moon sweepers joonas",
+        "J.O.O.N.A.S."
+      ]
+    }
+  },
+  "packager": {
+    "description": "Move dust from your hand tool onto a conveyor. Check the $100 price, 100 kg storage and belt connection; this building is separate from the Auto-Packer upgrade.",
+    "tdk": {
+      "title": "Packager — Moon Sweepers Price, Storage & Connections",
+      "description": "Check the Moon Sweepers Packager's $100 price, 100 kg storage and conveyor connections. Compare its role with Auto-Packer before choosing a dust delivery setup.",
+      "keywords": [
+        "moon sweepers packager"
+      ]
+    }
+  },
+  "splitter": {
+    "description": "Split one capsule feed between two branches. Use the $5 Splitter to keep a raw-dust route available when another branch feeds a Pressure Chamber.",
+    "tdk": {
+      "title": "Splitter — Moon Sweepers Price & Capsule Routing",
+      "description": "Route capsules with the $5 Splitter in Moon Sweepers. Check its two output branches and how to preserve a raw-dust supply when feeding sand and stone machines.",
+      "keywords": [
+        "moon sweepers splitter"
+      ]
+    }
+  },
+  "conveyor-belt": {
+    "description": "Connect tools, machines and the station intake with a belt. Check the price per metre, travel direction and capsule spacing before extending your route.",
+    "tdk": {
+      "title": "Conveyor Belt — Moon Sweepers Price, Speed & Capacity",
+      "description": "Plan conveyor belts in Moon Sweepers with price per metre, travel speed and capsule spacing. Check connections and shared belt capacity before adding machines.",
+      "keywords": [
+        "moon sweepers conveyor belt"
+      ]
+    }
+  },
+  "pressure-chamber": {
+    "description": "Convert dust into sand without changing its weight. Allow 10 kW of power and a clear outgoing belt, then check batch sizes before adding another chamber.",
+    "tdk": {
+      "title": "Pressure Chamber — Moon Sweepers Sand Recipe & Power",
+      "description": "Check the Moon Sweepers Pressure Chamber's sand recipe, $500 price and 10 kW demand. Compare batch size, cycle time and output before expanding your line.",
+      "keywords": [
+        "moon sweepers pressure chamber"
+      ]
+    }
+  },
+  "merger": {
+    "description": "Join two feeds with a $5 Merger that alternates between inputs. Both share one exit, so check the outgoing belt before adding more capsules upstream.",
+    "tdk": {
+      "title": "Merger — Moon Sweepers Price, Inputs & Belt Capacity",
+      "description": "Join two capsule feeds with the $5 Merger in Moon Sweepers. Check alternating inputs and the shared output belt before connecting another machine to the line.",
+      "keywords": [
+        "moon sweepers merger"
+      ]
+    }
+  },
+  "stone-press": {
+    "description": "Feed both raw dust and sand to make stone blocks. Plan for 18 kW of power, a six-second recipe cycle and space on the output belt before adding another press.",
+    "tdk": {
+      "title": "Stone Press — Moon Sweepers Recipe, Power & Output",
+      "description": "Check the Stone Press recipe in Moon Sweepers, including raw dust, sand, 18 kW power and a six-second cycle. Plan input supplies and output space before buying.",
+      "keywords": [
+        "moon sweepers stone press",
+        "moon sweepers steinpresse",
+        "moon sweepers stone press recipe"
+      ]
+    }
+  },
+  "capsule-catcher": {
+    "description": "Receive J.O.O.N.A.S. deliveries in a 100 kg store. Keep the belt draining and check how nearby catchers share incoming capsules before expanding your robot fleet.",
+    "tdk": {
+      "title": "Capsule Catcher — Moon Sweepers Storage & Robot Delivery",
+      "description": "Receive Joonas deliveries with the Moon Sweepers Capsule Catcher. Check its 100 kg store, outgoing belt and nearby catcher grouping before adding more robots.",
+      "keywords": [
+        "moon sweepers capsule catcher"
+      ]
+    }
+  },
+  "garage": {
+    "description": "Buy, recall and unload vehicles at the Garage. Check its $200 price and 6,000 kg silo, then connect a belt destination that can keep up with returning sweepers.",
+    "tdk": {
+      "title": "Garage — Moon Sweepers Price, Vehicles & Unloading",
+      "description": "Use the $200 Garage in Moon Sweepers to buy, recall and unload vehicles. Check its 6,000 kg silo, conveyor exits and ownership rules before moving your base.",
+      "keywords": [
+        "moon sweepers garage"
+      ]
+    }
+  },
+  "solar-tracker": {
+    "description": "Generate up to 16 kW in sunlight with a panel that follows the Sun. Check battery storage and connected demand before relying on it through the lunar night.",
+    "tdk": {
+      "title": "Solar Tracker (L) — Moon Sweepers Power & Battery",
+      "description": "Power your Moon Sweepers machines with the Solar Tracker (L). Check its 16 kW peak output, battery storage and wireless range before planning night operation.",
+      "keywords": [
+        "moon sweepers solar tracker"
+      ]
+    }
+  },
+  "solar-post": {
+    "description": "Supply nearby equipment with a $75 fixed panel rated at 3 kW in full sun. Face it toward the Sun and keep consumers within 16 m; this panel has no battery.",
+    "tdk": {
+      "title": "Solar Post (S) — Moon Sweepers Price, Power & Range",
+      "description": "Check the Solar Post (S) in Moon Sweepers: $75 price, 3 kW peak output and 16 m range. Plan panel orientation and allow for darkness without battery storage.",
+      "keywords": [
+        "moon sweepers solar post"
+      ]
+    }
+  },
+  "solar-twin": {
+    "description": "The $150 Solar Twin supplies up to 7.5 kW and stores 4 kWh. Face it toward the Sun and check the load within its 24 m range before leaving it to run at night.",
+    "tdk": {
+      "title": "Solar Twin (M) — Moon Sweepers Output, Battery & Range",
+      "description": "Compare the Solar Twin (M) in Moon Sweepers with its $150 price, 7.5 kW output, 4 kWh battery and 24 m range. Plan connected demand as sunlight changes.",
+      "keywords": [
+        "moon sweepers solar twin"
+      ]
+    }
+  },
+  "tuned-motors": {
+    "description": "Increase your vehicle's speed and pull through three Tuned Motors levels. Compare prices for your own vehicle; buying an upgrade does not improve the whole fleet.",
+    "tdk": {
+      "title": "Tuned Motors — Moon Sweepers Vehicle Speed & Costs",
+      "description": "Compare Tuned Motors upgrades in Moon Sweepers: three levels add 10%, 20% or 30% speed and pull. Check each vehicle's prices before paying at the garage.",
+      "keywords": [
+        "moon sweepers tuned motors"
+      ]
+    },
+    "title": "Tuned Motors"
+  },
+  "big-hopper": {
+    "description": "Carry more dust before returning to unload. Compare the three Big Hopper levels and their prices for each cleaning vehicle; Crew Transport has no hopper upgrade.",
+    "tdk": {
+      "title": "Big Hopper — Moon Sweepers Vehicle Capacity & Costs",
+      "description": "Compare Big Hopper upgrades in Moon Sweepers, adding 30%, 60% or 90% capacity. Check costs for each cleaning vehicle before budgeting for a larger dust load.",
+      "keywords": [
+        "moon sweepers big hopper"
+      ]
+    },
+    "title": "Big Hopper"
+  },
+  "turbo-kit": {
+    "description": "Raise boost speed to 150% or 165% of cruise speed with the two Turbo Kit levels. Check the price for your vehicle before spending on a faster delivery route.",
+    "tdk": {
+      "title": "Turbo Kit — Moon Sweepers Vehicle Boost Levels & Costs",
+      "description": "Check Turbo Kit upgrades in Moon Sweepers, with boost at 150% or 165% of cruise speed. Compare both level prices for each vehicle before buying at a garage.",
+      "keywords": [
+        "moon sweepers turbo kit"
+      ]
+    },
+    "title": "Turbo Kit"
+  },
+  "cruise-control": {
+    "description": "Keep moving without holding the accelerator. Check the single Cruise Control purchase for your vehicle, use C to toggle it and brake to release it.",
+    "tdk": {
+      "title": "Cruise Control — Moon Sweepers Vehicle Controls & Cost",
+      "description": "Use Cruise Control in Moon Sweepers to maintain travel without holding the accelerator. Check prices for each vehicle, the C toggle and how braking releases it.",
+      "keywords": [
+        "moon sweepers cruise control"
+      ]
+    },
+    "title": "Cruise Control"
+  },
+  "suction-control": {
+    "description": "Trade travel speed for a wider cleaning strip. Compare three Suction Control levels and vehicle-specific prices before deciding how much width your route needs.",
+    "tdk": {
+      "title": "Suction Control — Moon Sweepers Cleaning Width & Costs",
+      "description": "Compare Suction Control in Moon Sweepers: three levels widen cleaning by 25%, 50% or 75% while slowing travel. Check upgrade prices for each cleaning vehicle.",
+      "keywords": [
+        "moon sweepers suction control"
+      ]
+    },
+    "title": "Suction Control"
+  },
+  "quick-release": {
+    "description": "Spend less time unloading a full hopper. Compare the two Quick Release levels and prices for your cleaning vehicle before buying the next garage upgrade.",
+    "tdk": {
+      "title": "Quick Release — Moon Sweepers Unloading Speed & Costs",
+      "description": "Unload faster with Quick Release in Moon Sweepers. Compare its 50% and 100% unloading-speed bonuses and purchase costs for each eligible cleaning vehicle.",
+      "keywords": [
+        "moon sweepers quick release"
+      ]
+    },
+    "title": "Quick Release"
+  },
+  "floodlights": {
+    "description": "See more of the ground ahead while driving in darkness. Compare two Floodlights levels, their brightness and reach, and the cost for your own vehicle.",
+    "tdk": {
+      "title": "Floodlights — Moon Sweepers Vehicle Lighting & Costs",
+      "description": "Compare Floodlights upgrades in Moon Sweepers for brighter, longer-reaching vehicle lights. Check both level effects and each vehicle's prices before buying.",
+      "keywords": [
+        "moon sweepers floodlights"
+      ]
+    },
+    "title": "Floodlights"
+  },
+  "toothbrush-container": {
+    "description": "Keep using your starting tool for longer between unloads. Compare container levels that raise its base 0.5 kg capacity to 4 kg before Dust Compactor bonuses.",
+    "tdk": {
+      "title": "Toothbrush Container — Moon Sweepers Levels & Prices",
+      "description": "Upgrade your Toothbrush container in Moon Sweepers from 0.5 kg to 4 kg. Compare three level prices and check Dust Compactor bonuses and eligible discounts.",
+      "keywords": [
+        "moon sweepers toothbrush container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Toothbrush container holds 0.5 kg at base level, 1 kg at level I, 2 kg at II and 4 kg at III. Each level is a separate purchase; reaching III costs $35 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Toothbrush level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Toothbrush cleaning stats",
+        "href": "/wiki/cleaning-tools/toothbrush"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  "nail-brush-container": {
+    "description": "Carry up to 6 kg with the Nail Brush before Dust Compactor bonuses. Check the three container purchases against the cost of moving to a larger cleaning tool.",
+    "tdk": {
+      "title": "Nail Brush Container — Moon Sweepers Capacity & Costs",
+      "description": "Carry more with the Nail Brush container in Moon Sweepers. Compare three upgrade prices, capacity from 0.75 kg to 6 kg, Dust Compactor bonuses and discounts.",
+      "keywords": [
+        "moon sweepers nail brush container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Nail Brush container holds 0.75 kg at base level, 1.5 kg at level I, 3 kg at II and 6 kg at III. Each level is a separate purchase; reaching III costs $53 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Nail Brush level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Nail Brush cleaning stats",
+        "href": "/wiki/cleaning-tools/nail-brush"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  "hand-brush-container": {
+    "description": "Raise the Hand Brush from 1 kg to 8 kg of dust storage before compaction bonuses. Compare each level's cost if delivery trips are interrupting your cleaning.",
+    "tdk": {
+      "title": "Hand Brush Container — Moon Sweepers Levels & Capacity",
+      "description": "Compare Hand Brush container upgrades in Moon Sweepers, from 1 kg to 8 kg. Check each level's price, Dust Compactor bonuses and eligible purchase discounts.",
+      "keywords": [
+        "moon sweepers hand brush container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Hand Brush container holds 1 kg at base level, 2 kg at level I, 4 kg at II and 8 kg at III. Each level is a separate purchase; reaching III costs $70 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Hand Brush level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Hand Brush cleaning stats",
+        "href": "/wiki/cleaning-tools/hand-brush"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  "household-broom-container": {
+    "description": "Give the Household Broom more time between deliveries with up to 24 kg of storage before compaction. Compare all three level prices and capacity gains.",
+    "tdk": {
+      "title": "Household Broom Container — Moon Sweepers Upgrade Costs",
+      "description": "Upgrade the Household Broom container in Moon Sweepers from 3 kg to 24 kg. Check three level prices, Dust Compactor bonuses and discounts before purchasing.",
+      "keywords": [
+        "moon sweepers household broom container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Household Broom container holds 3 kg at base level, 6 kg at level I, 12 kg at II and 24 kg at III. Each level is a separate purchase; reaching III costs $210 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Household Broom level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Household Broom cleaning stats",
+        "href": "/wiki/cleaning-tools/household-broom"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  "wide-broom-container": {
+    "description": "Expand the Wide Broom's storage from 6 kg to 48 kg before compaction bonuses. Compare the three purchase costs with how much you need to carry on your route.",
+    "tdk": {
+      "title": "Wide Broom Container — Moon Sweepers Levels & Costs",
+      "description": "Compare Wide Broom container levels in Moon Sweepers, from 6 kg to 48 kg. Check upgrade prices, Dust Compactor capacity bonuses and eligible buying discounts.",
+      "keywords": [
+        "moon sweepers wide broom container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Wide Broom container holds 6 kg at base level, 12 kg at level I, 24 kg at II and 48 kg at III. Each level is a separate purchase; reaching III costs $420 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Wide Broom level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Wide Broom cleaning stats",
+        "href": "/wiki/cleaning-tools/wide-broom"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  "extra-wide-broom-container": {
+    "description": "Carry up to 96 kg in the Extra Wide Broom before Dust Compactor bonuses. Check the cost of each container level before committing to longer cleaning runs.",
+    "tdk": {
+      "title": "Extra Wide Broom Container — Moon Sweepers Capacity",
+      "description": "Expand the Extra Wide Broom container in Moon Sweepers from 12 kg to 96 kg. Check each level's cost, Dust Compactor bonuses and eligible purchase discounts.",
+      "keywords": [
+        "moon sweepers extra wide broom container"
+      ]
+    },
+    "sections": [
+      {
+        "heading": "Capacity and purchase order",
+        "paragraphs": [
+          "The Extra Wide Broom container holds 12 kg at base level, 24 kg at level I, 48 kg at II and 96 kg at III. Each level is a separate purchase; reaching III costs $840 in total before eligible discounts. The cleaning tool itself is a separate purchase."
+        ]
+      },
+      {
+        "heading": "Check the next level against your route",
+        "paragraphs": [
+          "Use the Extra Wide Broom level table to compare the next capacity gain with its price. Dust Compactor applies after the container multiplier, so a tool that already has that crew upgrade will hold more than the unmodified values shown here."
+        ]
+      }
+    ],
+    "relatedLinks": [
+      {
+        "title": "Extra Wide Broom cleaning stats",
+        "href": "/wiki/cleaning-tools/extra-wide-broom"
+      },
+      {
+        "title": "Compare all containers",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Calculate a full tool load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  }
+}

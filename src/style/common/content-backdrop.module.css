@@ -1,0 +1,33 @@
+.scene {
+  position: relative;
+  isolation: isolate;
+}
+
+.scene::before {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+  content: '';
+  pointer-events: none;
+  background:
+    linear-gradient(#07121e66, #07121eb3),
+    #07121e var(--content-scene) center / cover no-repeat;
+}
+
+.scene[data-scene='guides'] { --content-scene: url('/images/content-backgrounds/guides.webp'); }
+.scene[data-scene='wiki'] { --content-scene: url('/images/content-backgrounds/wiki.webp'); }
+.scene[data-scene='tools'] { --content-scene: url('/images/content-backgrounds/tools.webp'); }
+.scene[data-scene='mods'] { --content-scene: url('/images/content-backgrounds/mods.webp'); }
+.scene[data-scene='updates'] { --content-scene: url('/images/content-backgrounds/updates.webp'); }
+
+.scene[data-scene='guides'] > section,
+.scene[data-scene='wiki'] > section,
+.scene[data-scene='tools'] > section,
+.scene[data-scene='mods'] > section,
+.scene[data-scene='mods'] > p,
+.scene[data-scene='updates'] > p {
+  padding: clamp(14px, 2vw, 24px);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-surface);
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "toothbrush",
+    "title": "Toothbrush",
+    "price": 0,
+    "width": 0.12,
+    "capacity": 0.5,
+    "costs": [
+      5,
+      10,
+      20
+    ]
+  },
+  {
+    "slug": "nail-brush",
+    "title": "Nail Brush",
+    "price": 5,
+    "width": 0.19,
+    "capacity": 0.75,
+    "costs": [
+      8,
+      15,
+      30
+    ]
+  },
+  {
+    "slug": "hand-brush",
+    "title": "Hand Brush",
+    "price": 10,
+    "width": 0.25,
+    "capacity": 1,
+    "costs": [
+      10,
+      20,
+      40
+    ]
+  },
+  {
+    "slug": "household-broom",
+    "title": "Household Broom",
+    "price": 25,
+    "width": 0.44,
+    "capacity": 3,
+    "costs": [
+      30,
+      60,
+      120
+    ]
+  },
+  {
+    "slug": "wide-broom",
+    "title": "Wide Broom",
+    "price": 75,
+    "width": 0.66,
+    "capacity": 6,
+    "costs": [
+      60,
+      120,
+      240
+    ]
+  },
+  {
+    "slug": "extra-wide-broom",
+    "title": "Extra Wide Broom",
+    "price": 150,
+    "width": 0.99,
+    "capacity": 12,
+    "costs": [
+      120,
+      240,
+      480
+    ]
+  }
+]

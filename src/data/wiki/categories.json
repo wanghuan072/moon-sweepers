@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "vehicles",
+    "title": "Vehicles",
+    "description": "Choose a sweeper for your cleaning route or a transport for your crew. Compare five vehicles by price, hopper size, speed and capsule slots, then check garage upgrades and trick rewards.",
+    "icon": "truck",
+    "heroTitle": "Moon Sweepers Vehicles — Prices, Capacity & Upgrades",
+    "relatedLinks": [
+      {
+        "title": "Compare garage upgrades",
+        "href": "/wiki/vehicles#vehicle-upgrades"
+      },
+      {
+        "title": "Find flags and stations for your next drive",
+        "href": "/map"
+      }
+    ]
+  },
+  {
+    "slug": "cleaning-tools",
+    "title": "Cleaning Tools",
+    "description": "Still using a brush, or ready for a wider broom? Compare six tools by price, dust capacity, cleaning width and stroke time to see what changes with your next purchase.",
+    "icon": "brush",
+    "heroTitle": "Moon Sweepers Cleaning Tools — Prices & Capacity",
+    "relatedLinks": [
+      {
+        "title": "Compare container capacities",
+        "href": "/wiki/containers"
+      },
+      {
+        "title": "Estimate the value of a full load",
+        "href": "/tools/income-calculator"
+      }
+    ]
+  },
+  {
+    "slug": "containers",
+    "title": "Containers",
+    "description": "Spend more time cleaning between trips to unload. Compare container levels for each hand tool, including capacity gains, individual prices and how Dust Compactor affects storage.",
+    "icon": "box",
+    "heroTitle": "Moon Sweepers Containers — Capacity & Upgrade Costs",
+    "relatedLinks": [
+      {
+        "title": "Compare cleaning tools",
+        "href": "/wiki/cleaning-tools"
+      },
+      {
+        "title": "Estimate the cost of container upgrades",
+        "href": "/tools/upgrade-calculator"
+      }
+    ]
+  },
+  {
+    "slug": "suit-gear",
+    "title": "Suit Gear",
+    "description": "Need another tool slot, better movement or a way to work in darkness? Compare suit gear by effect and upgrade cost before choosing what your crew should unlock next.",
+    "icon": "upgrade",
+    "heroTitle": "Moon Sweepers Suit Gear — Movement, Lighting & Slots",
+    "relatedLinks": [
+      {
+        "title": "See suit upgrades and prerequisites",
+        "href": "/tools/upgrade-matrix"
+      },
+      {
+        "title": "Plan your upgrade budget",
+        "href": "/tools/upgrade-calculator"
+      }
+    ]
+  },
+  {
+    "slug": "joonas-robots",
+    "title": "J.O.O.N.A.S. Robots",
+    "description": "Choose between cleaning around a fixed dock and sending J.O.O.N.A.S. across the Moon. Compare prices, working areas and storage, then check where the collected dust needs to go.",
+    "icon": "gear",
+    "heroTitle": "Moon Sweepers Robots — Joonas & Docked Vacuums",
+    "relatedLinks": [
+      {
+        "title": "Compare power and logistics machines",
+        "href": "/wiki/machines"
+      },
+      {
+        "title": "Plan a production line",
+        "href": "/guides/automation-guide"
+      }
+    ]
+  },
+  {
+    "slug": "buildings",
+    "title": "Buildings",
+    "description": "Plan a base that leaves room for work and expansion. Browse 98 build-menu pieces, compare structure prices and finishes, and check movement and refund rules before rebuilding.",
+    "icon": "layers",
+    "heroTitle": "Moon Sweepers Buildings — Pieces, Prices & Placement",
+    "relatedLinks": [
+      {
+        "title": "Compare conveyors and production machines",
+        "href": "/wiki/machines"
+      },
+      {
+        "title": "Read the building and automation patch notes",
+        "href": "/updates#released"
+      }
+    ]
+  }
+]

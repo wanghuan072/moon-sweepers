@@ -1,0 +1,6 @@
+.page article{max-width:850px;padding:20px 0 25px}.kicker{font-size:10px;letter-spacing:1.5px;color:var(--color-primary);font-weight:700}.page h1{margin:18px 0 22px}.lead{font-size:18px;line-height:1.7;margin-bottom:35px}.page section{margin-top:34px}.page h2{font-size:27px}.page section p,.page li{font-size:14px;line-height:1.9;color:var(--color-text-secondary)}.page a{color:var(--color-secondary)}.page a:hover{text-decoration:underline}.page li{padding-bottom:7px}.page ul{padding-left:20px}
+@media(max-width:768px){.page article{padding-top:10px}.page h1{font-size:34px}.lead{font-size:16px}.page h2{font-size:24px}}
+
+.documentHeading { padding: 24px 0; margin-bottom: 34px; border-top: 3px solid var(--color-primary); border-bottom: 1px solid var(--color-border); }
+.documentHeading small { color: var(--color-secondary); letter-spacing: 1px; }
+.documentHeading p { font-size: 17px; line-height: 1.7; }

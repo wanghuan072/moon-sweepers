@@ -1,0 +1,103 @@
+{
+  "reviewedAt": "2026-11-05",
+  "entries": [
+    {
+      "slug": "quickstart",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/108_1793570814.jpg",
+      "recommendationTitle": "QuickStart for getting back to a solo save",
+      "recommendation": "If you usually open the same solo world, I’d start with QuickStart. It saves a few clicks every session. I’d skip it if you mainly log in to join a friend’s lobby.",
+      "title": "QuickStart",
+      "author": "KrakHedKorps",
+      "category": "Everyday play",
+      "icon": "clock",
+      "description": "Skip the intro and reopen your most recently played world as a solo session. You can return to the main menu afterward to change worlds or join friends.",
+      "requirements": "BepInEx 6 IL2CPP + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Auto-load starts a solo session; it is not an automatic co-op lobby joiner.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/108"
+    },
+    {
+      "slug": "moon-sweepers-qol",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/103_1793498036.jpg",
+      "recommendationTitle": "Moon Sweepers QoL for finding flags and landmarks",
+      "recommendation": "If you’re down to the last few flags and tired of retracing your route, I’d look at this for the Landmark Scanner. If you only need coordinates, try the interactive map first. Installing the mod also changes what you can unlock.",
+      "title": "Moon Sweepers QoL",
+      "author": "dogukanmetan",
+      "category": "Everyday play",
+      "icon": "compass",
+      "description": "Add a purchasable Landmark Scanner to help find unraised flags and lunar sites. The plugin also adds progression options for belts, processors and robot vacuums.",
+      "requirements": "BepInEx 6 IL2CPP + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Adds upgrade-tree content. Check the author’s current configuration and multiplayer notes before adding it to a shared world.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/103"
+    },
+    {
+      "slug": "no-pause-on-lost-focus",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/116_1793685474.jpg",
+      "recommendationTitle": "No Pause On Lost Focus for playing with a second screen",
+      "recommendation": "I’d pick this if you keep a guide or map in another window and want the game to keep running when you switch over. Leave it out if you rely on switching windows to pause.",
+      "title": "No Pause On Lost Focus",
+      "author": "AFlyingTrex",
+      "category": "Everyday play",
+      "icon": "check",
+      "description": "Keep movement from pausing when you switch to another window. Useful when checking a map or guide alongside the game.",
+      "requirements": "BepInEx 6.0.0-be.791, Unity.IL2CPP win-x64 + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Changes focus behaviour, not the game’s normal pause controls. Co-op behaviour has not been tested by this site.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/116"
+    },
+    {
+      "slug": "moon-performance",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/95_1793461370.jpg",
+      "recommendationTitle": "Moon Performance for busy robot bases",
+      "recommendation": "If your frame rate drops around a base full of J.O.O.N.A.S. robots, this is the performance mod I’d look at first. Try it on a copy of your save and compare the same area before and after.",
+      "title": "Moon Performance",
+      "author": "WackoJax",
+      "category": "Everyday play",
+      "icon": "gear",
+      "description": "Reduce repeated background work in larger bases, especially those using many J.O.O.N.A.S. robots. Check this option if late-game base activity is slowing a session.",
+      "requirements": "BepInEx 6 IL2CPP + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Performance gains are an author claim, not a benchmark from this site. Results depend on your world, system and other plugins.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/95"
+    },
+    {
+      "slug": "moon-skimmer",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/114_1793651433.jpg",
+      "recommendationTitle": "Moon Skimmer for cleaning by air",
+      "recommendation": "If you’ve already tried the garage sweepers and want a different way to tackle a dust field, I’d pick the Moon Skimmer. At $10,000, it’s a vehicle to save for once your base is earning money.",
+      "title": "Moon Skimmer — Flying Vacuum Craft",
+      "author": "bread618",
+      "category": "Vehicles & logistics",
+      "icon": "rocket",
+      "description": "Add a garage-bought flying cleaner with hover, free flight, boost and a 500 kg base dust silo. The listed base purchase is $10,000.",
+      "requirements": "BepInEx 6 IL2CPP + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Author-tested on game 1.0.5, Windows x64, keyboard and mouse. Co-op and controllers are unverified. Remove owned craft before uninstalling.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/114"
+    },
+    {
+      "slug": "mass-driver",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/headers/94_1793456647.jpg",
+      "recommendationTitle": "Mass Driver for moving dust between bases",
+      "recommendation": "I’d consider Mass Driver when hauling dust between two established sites has become a regular chore. It makes more sense when both ends have conveyors ready to handle the delivery.",
+      "title": "Mass Driver — Rocket Dust Logistics",
+      "author": "MichaelButti98",
+      "category": "Vehicles & logistics",
+      "icon": "network",
+      "description": "Move dust between a belt-fed launcher and a receiving building using rockets. The receiver returns the dust to a conveyor instead of selling it in flight.",
+      "requirements": "BepInEx 6 IL2CPP + MoonSweepers BepInEx Patcher + MoonFramework.",
+      "compatibility": "The author requires every co-op player to install the mod and MoonFramework. Check current save and removal instructions before changing a world.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/94"
+    },
+    {
+      "slug": "living-sky",
+      "image": "https://staticdelivery.nexusmods.com/mods/10774/images/90/90-1793435997-2120503789.png",
+      "recommendationTitle": "Living Sky for a different view on long routes",
+      "recommendation": "I’d choose Living Sky if you like long drives across the Moon and want more to look at along the way. It’s an easy pick when you’re happy with the way cleaning and upgrades already work.",
+      "title": "Living Sky",
+      "author": "ptkdaher",
+      "category": "Visuals",
+      "icon": "compass",
+      "description": "Change the lunar sky with planets, stars, constellations and celestial events. Individual effects can be switched off in the plugin’s configuration.",
+      "requirements": "BepInEx 6.0.0-be.791, IL2CPP win-x64 + MoonSweepers BepInEx Patcher.",
+      "compatibility": "Described by the author as a local visual mod. It does not require every player to see the same sky effects.",
+      "url": "https://www.nexusmods.com/moonsweepers/mods/90"
+    }
+  ]
+}

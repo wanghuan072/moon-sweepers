@@ -1,0 +1,13 @@
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin:20px 0 42px}.card{display:block;border:1px solid var(--color-border);border-radius:14px;overflow:hidden;background:var(--color-surface);transition:border-color .2s,transform .2s}.card:hover{border-color:var(--color-primary);transform:translateY(-3px)}.visual{position:relative;height:245px;background:radial-gradient(ellipse at 50% 65%,#41607465,transparent 68%),linear-gradient(145deg,#172f43,#101e2b)}.visual img{object-fit:contain;padding:22px 26px 35px;filter:drop-shadow(0 14px 12px #0005)}.visual>span{position:absolute;bottom:12px;left:20px;color:var(--color-secondary);font-size:9px;font-weight:700;letter-spacing:1.6px}.body{padding:20px}.title{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:18px}.title h2{font-size:21px;line-height:1.2;margin:0}.title>strong{color:var(--color-primary);white-space:nowrap;font-size:17px}.body dl{display:grid;grid-template-columns:1fr 1fr;gap:14px 20px;margin:0}.body dt{font-size:10px;color:var(--color-text-secondary);margin-bottom:4px}.body dd{font-size:14px;margin:0;font-weight:650;font-variant-numeric:tabular-nums}.link{display:flex;justify-content:space-between;padding-top:18px;margin-top:20px;border-top:1px solid var(--color-border);color:var(--color-secondary);font-size:12px}@media(max-width:1024px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:768px){.grid{grid-template-columns:1fr;gap:16px}.visual{height:240px}}
+
+/* Garage lineup */
+.grid { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+.card { display: grid; grid-template-columns: minmax(145px, 31%) minmax(0, 1fr); }
+.visual { height: auto; min-height: 190px; }
+.card[data-text-only] { grid-template-columns: minmax(0, 1fr); }
+.body dl { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 768px) {
+  .card { grid-template-columns: minmax(0, 1fr); }
+  .visual { height: 160px; min-height: 0; }
+  .body dl { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
