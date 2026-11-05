@@ -185,6 +185,11 @@ export const tdk = {
       "moon sweepers upgrade"
     ]
   },
+  "/prices": {
+    "title": "Moon Sweepers In-Game Prices: Tools & Upgrades",
+    "description": "Search Moon Sweepers in-game prices for cleaning tools, containers, vehicles, machines, structures and upgrades. Filter by category and compare base costs.",
+    "keywords": ["moon sweepers in-game prices", "moon sweepers upgrade costs", "moon sweepers vehicle prices"]
+  },
   "/where-to-play": {
     "title": "Where to Play Moon Sweepers on PC: Steam & Platforms",
     "description": "Find where to buy and play Moon Sweepers on Steam for Windows. Check the US price, PC requirements, and whether the game is available on PS5, Xbox or Mac.",

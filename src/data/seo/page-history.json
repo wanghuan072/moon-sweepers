@@ -52,6 +52,11 @@
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
+  "/prices": {
+    "hash": "cd2c1ecaea5fb06827cfc50d44413dd031086305fc9b306ee2c9e5defca7a659",
+    "modifiedAt": "2026-11-05",
+    "publishedAt": "2026-11-05"
+  },
   "/tools": {
     "hash": "99b931fe9eb631aed0ea3a5f20b85fe759b2d71d8c9b5ca736692345b3ca2b3f",
     "modifiedAt": "2026-11-05"
@@ -79,7 +84,7 @@
     "modifiedAt": "2026-11-05"
   },
   "/where-to-play": {
-    "hash": "e0190a5d68df2f5c4bccf6db69a26a0b0e040c427f295764e4fb3ecb8cb45c03",
+    "hash": "5265d5fd790972a33618341ca263c4965ec3f4be1bd82b56fbce03f0f5830e9b",
     "modifiedAt": "2026-11-05",
     "publishedAt": "2026-11-05"
   },
