@@ -12,7 +12,7 @@
     "test": "node --experimental-strip-types --test src/lib/tools/calculators.test.ts src/lib/tools/tree-camera.test.ts src/lib/media/local-media-policy.test.ts tests/content.test.mjs tests/page-history.test.mjs",
     "data": "node scripts/data/build-content.mjs && node scripts/seo/sync-content-dates.mjs",
     "audit": "node scripts/audit/site.mjs && node scripts/audit/seo.mjs",
-    "prebuild": "node scripts/seo/sync-content-dates.mjs"
+    "prebuild": "node scripts/seo/sync-content-dates.mjs && node scripts/seo/build-indexnow-manifest.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

@@ -1,0 +1,59 @@
+name: IndexNow production
+on:
+  status:
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: moon-sweepers-indexnow-production
+  cancel-in-progress: false
+jobs:
+  notify:
+    if: >-
+      vars.INDEXNOW_VERIFIED_SITE == 'https://moon-sweepers.org' &&
+      github.repository == 'wanghuan072/moon-sweepers' &&
+      ((github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main') ||
+       (github.event.context == 'Vercel' && github.event.state == 'success' &&
+        github.event.sender.id == 8329 &&
+        startsWith(github.event.target_url, 'https://vercel.com/whs-projects-f97a952d/moon-sweepers/')))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Confirm published version
+        id: production
+        env:
+          EXPECTED_SHA: ${{ github.event.sha }}
+        run: |
+          curl --fail --silent --show-error --max-time 30 https://moon-sweepers.org/seo-manifest.json -o current.json
+          jq -e '.production == true and .siteUrl == "https://moon-sweepers.org" and (.commit | test("^[a-f0-9]{40}$"))' current.json
+          if [[ -z "$EXPECTED_SHA" || "$(jq -r .commit current.json)" == "$EXPECTED_SHA" ]]; then
+            echo 'current=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Restore receipt and notify
+        if: steps.production.outputs.current == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --paginate "repos/$GITHUB_REPOSITORY/actions/workflows/indexnow.yml/runs?status=success&per_page=100" --jq '.workflow_runs[] | select(.head_branch == "main") | .id' > runs.txt
+          echo null > receipt.json
+          while read -r run; do
+            artifacts=$(gh api "repos/$GITHUB_REPOSITORY/actions/runs/$run/artifacts" --jq '.artifacts[] | select(.expired == false and (.name | startswith("indexnow-production-"))) | .name')
+            if [[ -n "$artifacts" ]]; then
+              gh run download "$run" --name "$(head -n 1 <<< "$artifacts")"
+              break
+            fi
+          done < runs.txt
+          node scripts/seo/notify-indexnow.mjs --current current.json --checkpoint receipt.json --key-file public/4410863df9d2d0fad04afe8a4bb33380.txt --manifest-url https://moon-sweepers.org/seo-manifest.json --send --production
+      - uses: actions/upload-artifact@v4
+        if: steps.production.outputs.current == 'true'
+        with:
+          name: indexnow-production-${{ github.run_id }}-${{ github.run_attempt }}
+          path: receipt.json
+          retention-days: 90
+          if-no-files-found: error
